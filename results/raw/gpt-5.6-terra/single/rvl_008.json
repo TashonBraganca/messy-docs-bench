@@ -1,0 +1,22 @@
+{
+ "key": "d90ce79ce6fbd285e2e957162ae3166a8c9d8a36d46db198aaaa61291800c261",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rvl_008",
+ "type": "invoices",
+ "text": "{\"vendor\":\"CREATIVE COMMUNICATIONS, spol. s r.o.\",\"invoice_number\":null,\"invoice_date\":\"9.1.1995\",\"total\":\"60.000,- Kč\"}",
+ "parsed": {
+  "vendor": "CREATIVE COMMUNICATIONS, spol. s r.o.",
+  "invoice_number": null,
+  "invoice_date": "9.1.1995",
+  "total": "60.000,- Kč"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1088,
+  "out": 117,
+  "cost": 0.0
+ },
+ "latency_s": 4.2,
+ "at": 1790379176.230313
+}

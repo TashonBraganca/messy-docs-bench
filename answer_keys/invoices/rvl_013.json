@@ -1,0 +1,14 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Borriston Laboratories, Inc.",
+  "invoice_number": "1548-1",
+  "invoice_date": "February 1, 1984",
+  "total": "12,300.00"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "total: printed $12,300.00 is struck through; handwritten 'pay $2,050.00'"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

@@ -1,0 +1,24 @@
+{
+ "key": "d52c0a67b03023a2a173b2777bedc004a2ff8974d3d7460b5f6ca77ab69fadcc",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_001",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"1.4.2011\",\n  \"effective_date\": \"1.4.2011\",\n  \"expiration_date\": \"perpetual\",\n  \"governing_law\": \"State of Israel\",\n  \"renewal_term\": \"1 year\",\n  \"notice_period_to_terminate_renewal\": \"90 days\"\n}",
+ "parsed": {
+  "agreement_date": "1.4.2011",
+  "effective_date": "1.4.2011",
+  "expiration_date": "perpetual",
+  "governing_law": "State of Israel",
+  "renewal_term": "1 year",
+  "notice_period_to_terminate_renewal": "90 days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 8579,
+  "out": 84,
+  "cost": 0.0
+ },
+ "latency_s": 5.37,
+ "at": 1790412138.09108
+}

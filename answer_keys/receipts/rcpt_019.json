@@ -1,0 +1,18 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "176000",
+  "subtotal": "160000",
+  "tax": "16000",
+  "items": [
+   {
+    "name": "AMBUSH DBL CHS",
+    "price": "60000"
+   },
+   {
+    "name": "AMBUSH CHS BUR",
+    "price": "100000"
+   }
+  ]
+ }
+}

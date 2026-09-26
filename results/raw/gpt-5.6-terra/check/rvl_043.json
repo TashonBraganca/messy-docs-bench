@@ -1,0 +1,22 @@
+{
+ "key": "ea5c9221d8dd84a8e545572d1f67a14ebef653827ffca21fca57f5cde11bab6e",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rvl_043",
+ "type": "invoices",
+ "text": "{\"vendor\":\"Borrison Laboratories, Inc.\",\"invoice_number\":\"1544-4\",\"invoice_date\":\"February 23, 1984\",\"total\":\"47,225.00\"}",
+ "parsed": {
+  "vendor": "Borrison Laboratories, Inc.",
+  "invoice_number": "1544-4",
+  "invoice_date": "February 23, 1984",
+  "total": "47,225.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1188,
+  "out": 40,
+  "cost": 0.0
+ },
+ "latency_s": 2.67,
+ "at": 1790411052.954922
+}

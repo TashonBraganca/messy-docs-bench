@@ -1,0 +1,22 @@
+{
+ "key": "1fbada3803d16e22f8e0e099b138d578e1c0573c2a59ec6d7c5ad8cf37075ca9",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rvl_003",
+ "type": "invoices",
+ "text": "{\"vendor\":\"HAZLETON LABORATORIES AMERICA, INC.\",\"invoice_number\":\"812516\",\"invoice_date\":\"02-06-89\",\"total\":\"$2,600.00\"}",
+ "parsed": {
+  "vendor": "HAZLETON LABORATORIES AMERICA, INC.",
+  "invoice_number": "812516",
+  "invoice_date": "02-06-89",
+  "total": "$2,600.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1190,
+  "out": 43,
+  "cost": 0.0
+ },
+ "latency_s": 2.88,
+ "at": 1790411038.693016
+}

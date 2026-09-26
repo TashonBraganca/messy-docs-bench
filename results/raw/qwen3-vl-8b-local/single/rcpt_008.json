@@ -1,0 +1,35 @@
+{
+ "key": "f6c715ecdfd1496f0e229b8e222deee917bc45f7e8297477905478489ff7e375",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_008",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"50,000\",\n    \"subtotal\": \"45,455\",\n    \"tax\": \"4,545\",\n    \"items\": [\n        {\n            \"name\": \"1 [REG] BLACK SAKURA\",\n            \"price\": \"45,455\"\n        },\n        {\n            \"name\": \"1 COOKIE DOH SAUCES\",\n            \"price\": \"0\"\n        },\n        {\n            \"name\": \"1 NATA DE COCO\",\n            \"price\": \"0\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "50,000",
+  "subtotal": "45,455",
+  "tax": "4,545",
+  "items": [
+   {
+    "name": "1 [REG] BLACK SAKURA",
+    "price": "45,455"
+   },
+   {
+    "name": "1 COOKIE DOH SAUCES",
+    "price": "0"
+   },
+   {
+    "name": "1 NATA DE COCO",
+    "price": "0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 122,
+  "cost": 0.0
+ },
+ "latency_s": 15.24,
+ "at": 1790413028.899101
+}

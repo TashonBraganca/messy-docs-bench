@@ -1,0 +1,279 @@
+{
+ "rvl_003": {
+  "checked": true,
+  "fields": {
+   "vendor": "Hazleton Laboratories America, Inc.",
+   "invoice_number": "812516",
+   "invoice_date": "02-06-89",
+   "total": "2,600.00"
+  }
+ },
+ "rvl_006": {
+  "checked": true,
+  "fields": {
+   "vendor": {
+    "any": [
+     "University of California, Davis",
+     "University of California, Davis, Accounting Office Extramural Accounting"
+    ]
+   },
+   "invoice_number": "59280-1",
+   "invoice_date": "October 22, 2001",
+   "total": "49,710.15"
+  }
+ },
+ "rvl_007": {
+  "checked": true,
+  "fields": {
+   "vendor": "Branham, Inc.",
+   "invoice_number": "E800896",
+   "invoice_date": "SKIP",
+   "total": "1,345.76"
+  }
+ },
+ "rvl_008": {
+  "checked": true,
+  "fields": {
+   "vendor": "Creative Communications, spol. s r.o.",
+   "invoice_number": null,
+   "invoice_date": "9.1.1995",
+   "total": "60,000.00"
+  }
+ },
+ "rvl_010": {
+  "checked": true,
+  "fields": {
+   "vendor": "Authenticolor Inc.",
+   "invoice_number": "50285",
+   "invoice_date": "07/27/87",
+   "total": "521.04"
+  }
+ },
+ "rvl_013": {
+  "checked": true,
+  "fields": {
+   "vendor": "Borriston Laboratories, Inc.",
+   "invoice_number": "1548-1",
+   "invoice_date": "February 1, 1984",
+   "total": "SKIP"
+  }
+ },
+ "rvl_014": {
+  "checked": true,
+  "fields": {
+   "vendor": "Research Triangle Institute",
+   "invoice_number": "311T 3668-4A",
+   "invoice_date": "April 27, 1987",
+   "total": "60.78"
+  }
+ },
+ "rvl_016": {
+  "checked": true,
+  "fields": {
+   "vendor": "Washington Technical Information Group Inc.",
+   "invoice_number": "179",
+   "invoice_date": "SKIP",
+   "total": "2,968.72"
+  }
+ },
+ "rvl_018": {
+  "checked": true,
+  "fields": {
+   "vendor": "Leggett & Lustig Research, Inc.",
+   "invoice_number": {
+    "any": [
+     null,
+     "22740"
+    ]
+   },
+   "invoice_date": "February 29, 1980",
+   "total": "27,000.00"
+  }
+ },
+ "rvl_019": {
+  "checked": true,
+  "fields": {
+   "vendor": "Research Triangle Institute",
+   "invoice_number": "31T 2552-11A",
+   "invoice_date": "December 30, 1983",
+   "total": "7,753.68"
+  }
+ },
+ "rvl_020": {
+  "checked": true,
+  "fields": {
+   "vendor": "Tong McKnew Associates",
+   "invoice_number": "12562",
+   "invoice_date": "October 4, 1995",
+   "total": "1,426.00"
+  }
+ },
+ "rvl_025": {
+  "checked": true,
+  "fields": {
+   "vendor": "Hazleton Laboratories America, Inc.",
+   "invoice_number": "607103",
+   "invoice_date": "January 28, 1986",
+   "total": "2,250.00"
+  }
+ },
+ "rvl_026": {
+  "checked": true,
+  "fields": {
+   "vendor": "Adams Letter Co., Inc.",
+   "invoice_number": "5035",
+   "invoice_date": "August 9, 1982",
+   "total": "1,275.66"
+  }
+ },
+ "rvl_036": {
+  "checked": true,
+  "fields": {
+   "vendor": "James Ross Limited",
+   "invoice_number": "8674",
+   "invoice_date": "Dec 14/90",
+   "total": "273,685.00"
+  }
+ },
+ "rvl_043": {
+  "checked": true,
+  "fields": {
+   "vendor": "Borriston Laboratories, Inc.",
+   "invoice_number": "1544-4",
+   "invoice_date": "February 23, 1984",
+   "total": "47,225.00"
+  }
+ },
+ "rvl_044": {
+  "checked": true,
+  "fields": {
+   "vendor": "Hazleton Laboratories America, Inc.",
+   "invoice_number": "606009",
+   "invoice_date": "December 2, 1985",
+   "total": "11,280.00"
+  }
+ },
+ "rvl_046": {
+  "checked": true,
+  "fields": {
+   "vendor": "MacNaughton Lithograph Company, Inc.",
+   "invoice_number": "29791",
+   "invoice_date": "January 15, 1985",
+   "total": "683.58"
+  }
+ },
+ "rvl_048": {
+  "checked": true,
+  "fields": {
+   "vendor": "Powell Tate",
+   "invoice_number": "2568",
+   "invoice_date": "December 31, 1993",
+   "total": "2,872.34"
+  }
+ },
+ "rvl_053": {
+  "checked": true,
+  "fields": {
+   "vendor": "Newsday, Inc.",
+   "invoice_number": null,
+   "invoice_date": "SKIP",
+   "total": "SKIP"
+  }
+ },
+ "rvl_055": {
+  "checked": true,
+  "fields": {
+   "vendor": "The Andrew Jergens Company",
+   "invoice_number": "101786-A",
+   "invoice_date": null,
+   "total": "189,285.12"
+  }
+ },
+ "ctr_001:expiration_date": {
+  "checked": true,
+  "fields": {
+   "expiration_date": "4/1/12"
+  }
+ },
+ "ctr_010:effective_date": {
+  "checked": true,
+  "fields": {
+   "effective_date": "SKIP"
+  }
+ },
+ "ctr_011:effective_date": {
+  "checked": true,
+  "fields": {
+   "effective_date": "3/1/20"
+  }
+ },
+ "ctr_011:governing_law": {
+  "checked": true,
+  "fields": {
+   "governing_law": null
+  }
+ },
+ "rcpt_018:subtotal": {
+  "checked": true,
+  "fields": {
+   "subtotal": "156000"
+  }
+ },
+ "rcpt_018:total": {
+  "checked": true,
+  "fields": {
+   "total": "156000"
+  }
+ },
+ "sroie_000:address": {
+  "checked": true,
+  "fields": {
+   "address": "NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, 81750 MASAI, JOHOR"
+  }
+ },
+ "sroie_010:address": {
+  "checked": true,
+  "fields": {
+   "address": {
+    "any": [
+     "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR",
+     "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1413-SETIA ALAM 2"
+    ]
+   }
+  }
+ },
+ "sroie_013:company": {
+  "checked": true,
+  "fields": {
+   "company": {
+    "any": [
+     "Old Town Kopitiam Sdn Bhd",
+     "OLDTOWN WHITE COFFEE"
+    ]
+   }
+  }
+ },
+ "sroie_015:company": {
+  "checked": true,
+  "fields": {
+   "company": "TEO HENG STATIONERY & BOOKS"
+  }
+ },
+ "sroie_025:address": {
+  "checked": true,
+  "fields": {
+   "address": "12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR"
+  }
+ },
+ "sroie_027:address": {
+  "checked": true,
+  "fields": {
+   "address": {
+    "any": [
+     "NO 14& 16 JALAN PERMAS 4/3 BANDAR BARU PERMAS JAY",
+     "NO 14&16 JALAN PERMAS 4/3 BANDAR BARU PERMAS JAYA"
+    ]
+   }
+  }
+ }
+}

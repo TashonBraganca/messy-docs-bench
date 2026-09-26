@@ -1,0 +1,22 @@
+{
+ "key": "20e83d51f577dd2468ad6910436009e3fbed7a3087ee432bb5e88c24216f6e9b",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "sroie_023",
+ "type": "sroie",
+ "text": "{\"company\":\"YHM Aeon Tebrau City\",\"date\":\"11/03/2018\",\"address\":\"S117, Second Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor.\",\"total\":\"49.70\"}",
+ "parsed": {
+  "company": "YHM Aeon Tebrau City",
+  "date": "11/03/2018",
+  "address": "S117, Second Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor.",
+  "total": "49.70"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1232,
+  "out": 293,
+  "cost": 0.0
+ },
+ "latency_s": 5.83,
+ "at": 1790411142.901597
+}

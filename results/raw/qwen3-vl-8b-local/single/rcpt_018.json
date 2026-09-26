@@ -1,0 +1,27 @@
+{
+ "key": "ee516dd4c8de9e4ec664f5c7bf887a72a242e4205efbc21959c37904ef36562d",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_018",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"156000\",\n    \"subtotal\": \"156000\",\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"Propolis Cair 1\",\n            \"price\": \"156000\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "156000",
+  "subtotal": "156000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Propolis Cair 1",
+    "price": "156000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1215,
+  "out": 67,
+  "cost": 0.0
+ },
+ "latency_s": 11.52,
+ "at": 1790413211.1833332
+}

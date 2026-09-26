@@ -1,0 +1,30 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "70,000",
+  "subtotal": "63,636",
+  "tax": "6,364",
+  "items": [
+   {
+    "name": "[LG] BLACK SAKURA",
+    "price": "59,091"
+   },
+   {
+    "name": "LONGAN",
+    "price": "0"
+   },
+   {
+    "name": "ROASTED ALMOND",
+    "price": "0"
+   },
+   {
+    "name": "IVANGGO",
+    "price": "0"
+   },
+   {
+    "name": "IVINERAL WATER (bundling) 5k",
+    "price": "4,545"
+   }
+  ]
+ }
+}

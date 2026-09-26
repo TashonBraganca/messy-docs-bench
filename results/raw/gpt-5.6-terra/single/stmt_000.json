@@ -1,0 +1,107 @@
+{
+ "key": "37bc1ab74f6d597276719300c1c969d9537e519a67b6f09f0e878b3e22d99d38",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "stmt_000",
+ "type": "statements",
+ "text": "{\"header\":{\"bank_name\":\"Progressive National Bank\",\"account_holder\":\"TRADE LINKS INDIA\",\"account_number\":\"78439336112\",\"ifsc_code\":\"PROG0920445\",\"opening_balance\":59131.72,\"start_date\":\"2024-01-01\",\"end_date\":\"2024-03-31\"},\"transactions\":[{\"date\":\"2024-01-01\",\"debit\":null,\"credit\":6086.63,\"balance\":65218.35},{\"date\":\"2024-01-02\",\"debit\":23702.04,\"credit\":null,\"balance\":41516.31},{\"date\":\"2024-01-03\",\"debit\":9055.89,\"credit\":null,\"balance\":32460.42},{\"date\":\"2024-01-04\",\"debit\":2177.93,\"credit\":null,\"balance\":30282.49},{\"date\":\"2024-01-04\",\"debit\":null,\"credit\":661.06,\"balance\":30943.55},{\"date\":\"2024-01-04\",\"debit\":null,\"credit\":1789.08,\"balance\":32732.63},{\"date\":\"2024-01-05\",\"debit\":null,\"credit\":4795.06,\"balance\":37527.69},{\"date\":\"2024-01-05\",\"debit\":652.28,\"credit\":null,\"balance\":36875.41},{\"date\":\"2024-01-05\",\"debit\":null,\"credit\":1212.22,\"balance\":38087.63},{\"date\":\"2024-01-05\",\"debit\":407.72,\"credit\":null,\"balance\":37679.91},{\"date\":\"2024-01-06\",\"debit\":20253.80,\"credit\":null,\"balance\":17426.11},{\"date\":\"2024-01-06\",\"debit\":null,\"credit\":2574.63,\"balance\":20000.74},{\"date\":\"2024-01-06\",\"debit\":571.24,\"credit\":null,\"balance\":19429.50}]}",
+ "parsed": {
+  "header": {
+   "bank_name": "Progressive National Bank",
+   "account_holder": "TRADE LINKS INDIA",
+   "account_number": "78439336112",
+   "ifsc_code": "PROG0920445",
+   "opening_balance": 59131.72,
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 6086.63,
+    "balance": 65218.35
+   },
+   {
+    "date": "2024-01-02",
+    "debit": 23702.04,
+    "credit": null,
+    "balance": 41516.31
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 9055.89,
+    "credit": null,
+    "balance": 32460.42
+   },
+   {
+    "date": "2024-01-04",
+    "debit": 2177.93,
+    "credit": null,
+    "balance": 30282.49
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 661.06,
+    "balance": 30943.55
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 1789.08,
+    "balance": 32732.63
+   },
+   {
+    "date": "2024-01-05",
+    "debit": null,
+    "credit": 4795.06,
+    "balance": 37527.69
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 652.28,
+    "credit": null,
+    "balance": 36875.41
+   },
+   {
+    "date": "2024-01-05",
+    "debit": null,
+    "credit": 1212.22,
+    "balance": 38087.63
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 407.72,
+    "credit": null,
+    "balance": 37679.91
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 20253.8,
+    "credit": null,
+    "balance": 17426.11
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 2574.63,
+    "balance": 20000.74
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 571.24,
+    "credit": null,
+    "balance": 19429.5
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1181,
+  "out": 774,
+  "cost": 0.0
+ },
+ "latency_s": 10.31,
+ "at": 1790379292.1069582
+}

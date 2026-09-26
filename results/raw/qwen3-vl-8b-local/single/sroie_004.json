@@ -1,0 +1,22 @@
+{
+ "key": "86db96a76d7da7f73f91d09571efa8a53d066c1cc075af6472bf1833d89d586a",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_004",
+ "type": "sroie",
+ "text": "{\n    \"company\": \"Gerbang Alaf Restaurants Sdn Bhd\",\n    \"date\": \"18/01/2018\",\n    \"address\": \"Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor\",\n    \"total\": \"38.90\"\n}",
+ "parsed": {
+  "company": "Gerbang Alaf Restaurants Sdn Bhd",
+  "date": "18/01/2018",
+  "address": "Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39,47400 Petaling Jaya Selangor",
+  "total": "38.90"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1214,
+  "out": 92,
+  "cost": 0.0
+ },
+ "latency_s": 11.77,
+ "at": 1790413452.7469199
+}

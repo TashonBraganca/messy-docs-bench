@@ -1,0 +1,26 @@
+{
+ "key": "6c4b1354ee2619908740e26bfd5a2155c60b6f4043624b1dbd62e23195ab91f6",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "sroie_002",
+ "type": "sroie",
+ "text": "{\"company\": \"PERNIAGAAN ZHENG HUI\", \"date\": \"09/02/2018\", \"address\": \"NO.59 JALAN PERMAS 9/5 BANDAR BARU PERMAS JAYA 81750 JOHOR BAHRU\", \"total\": \"436.20\"}",
+ "parsed": {
+  "company": "PERNIAGAAN ZHENG HUI",
+  "date": "09/02/2018",
+  "address": "NO.59 JALAN PERMAS 9/5 BANDAR BARU PERMAS JAYA 81750 JOHOR BAHRU",
+  "total": "436.20"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 100,
+  "cost": 0.0,
+  "notional_cost": 0.021528,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.17,
+ "at": 1790378695.935101
+}

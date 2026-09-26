@@ -1,0 +1,35 @@
+{
+ "key": "c245183b3a37191418759490e6d56ead0bfe88a9ecb1573364131bf63ed29a9c",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "w2_030",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"924-42-3395\",\"employer_ein\":\"85-5181517\",\"employer_name_address\":\"Mejia-Alderson\\n261 McLaughlin Extension\\nWest Justin, GA 68810\",\"employee_first_name\":\"George\",\"employee_last_name\":\"Jones\",\"employee_address\":\"3420 Edwards Rest Suite 192\\nNew Richard, GA 26205\",\"box1_wages\":\"147,883.64\",\"box2_federal_tax\":\"32,962.57\",\"box3_ss_wages\":\"162,460.03\",\"box4_ss_tax\":\"10,072.52\",\"box5_medicare_wages\":\"162,460.03\",\"box6_medicare_tax\":\"2,355.67\",\"box12a_code\":\"D\",\"box12a_amount\":\"14,576.19\",\"box15_state\":\"GA\",\"box16_state_wages\":\"147,883.84\",\"box17_state_tax\":\"12,742.99\"}",
+ "parsed": {
+  "employee_ssn": "924-42-3395",
+  "employer_ein": "85-5181517",
+  "employer_name_address": "Mejia-Alderson\n261 McLaughlin Extension\nWest Justin, GA 68810",
+  "employee_first_name": "George",
+  "employee_last_name": "Jones",
+  "employee_address": "3420 Edwards Rest Suite 192\nNew Richard, GA 26205",
+  "box1_wages": "147,883.64",
+  "box2_federal_tax": "32,962.57",
+  "box3_ss_wages": "162,460.03",
+  "box4_ss_tax": "10,072.52",
+  "box5_medicare_wages": "162,460.03",
+  "box6_medicare_tax": "2,355.67",
+  "box12a_code": "D",
+  "box12a_amount": "14,576.19",
+  "box15_state": "GA",
+  "box16_state_wages": "147,883.84",
+  "box17_state_tax": "12,742.99"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1532,
+  "out": 307,
+  "cost": 0.0
+ },
+ "latency_s": 5.03,
+ "at": 1790411251.692728
+}

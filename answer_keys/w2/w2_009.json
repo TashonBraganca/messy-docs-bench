@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 0.7,
+ "truth": {
+  "employee_ssn": "960-79-1731",
+  "employer_ein": "60-9876966",
+  "employer_name_address": "Hawkins LLC\n80334 Kelsey Parkways Suite 801\nNguyenhaven, WA 79948",
+  "employee_first_name": "William",
+  "employee_last_name": "Schwartz",
+  "employee_address": "878 Holly Wells Suite 837\nSouth David, WA 58450",
+  "box1_wages": "97,037.38",
+  "box2_federal_tax": "18,748.36",
+  "box3_ss_wages": "105,924.97",
+  "box4_ss_tax": "6,567.35",
+  "box5_medicare_wages": "105,924.97",
+  "box6_medicare_tax": "1,535.91",
+  "box12a_code": "D",
+  "box12a_amount": "8,887.59",
+  "box15_state": "WA",
+  "box16_state_wages": "",
+  "box17_state_tax": ""
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "key": "6bab20f850af7d619aeb4e513a54b29b34b0ab5c77526e018fa0e5321ddab7ca",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_028",
+ "type": "receipts",
+ "text": "{\"total\":\"426,195\",\"subtotal\":\"369,000\",\"tax\":\"38,745\",\"items\":[{\"name\":\"SAMGYOPSAL\",\"price\":\"194,000\"},{\"name\":\"SUL LUNG TANG\",\"price\":\"75,000\"},{\"name\":\"MAKOLI\",\"price\":\"100,000\"}]}",
+ "parsed": {
+  "total": "426,195",
+  "subtotal": "369,000",
+  "tax": "38,745",
+  "items": [
+   {
+    "name": "SAMGYOPSAL",
+    "price": "194,000"
+   },
+   {
+    "name": "SUL LUNG TANG",
+    "price": "75,000"
+   },
+   {
+    "name": "MAKOLI",
+    "price": "100,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1165,
+  "out": 98,
+  "cost": 0.0
+ },
+ "latency_s": 5.27,
+ "at": 1790379244.3672729
+}

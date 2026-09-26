@@ -1,0 +1,35 @@
+{
+ "key": "abd019788074ffcead0ebb0feebcd7a541f8934662547157717fe0f9521cd253",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "w2_024",
+ "type": "w2",
+ "text": "{\n    \"employee_ssn\": \"913-41-2866\",\n    \"employer_ein\": \"55-8263561\",\n    \"employer_name_address\": \"Smith LLC\\n6183 Kelly View\\nLynnchester, IL 12003\",\n    \"employee_first_name\": \"Brandon\",\n    \"employee_last_name\": \"Wells\",\n    \"employee_address\": \"735 Mclaughlin Mountains Apt. 636\\nSouth Austinland, IL 08627\",\n    \"box1_wages\": \"132,867.73\",\n    \"box2_federal_tax\": \"23,371.95\",\n    \"box3_ss_wages\": \"136,570.56\",\n    \"box4_ss_tax\": \"8,467.37\",\n    \"box5_medicare_wages\": \"136,570.56\",\n    \"box6_medicare_tax\": \"1,980.27\",\n    \"box12a_code\": \"D\",\n    \"box12a_amount\": \"3,702.83\",\n    \"box15_state\": \"IL\",\n    \"box16_state_wages\": \"132,867.73\",\n    \"box17_state_tax\": \"3,774.23\"\n}",
+ "parsed": {
+  "employee_ssn": "913-41-2866",
+  "employer_ein": "55-8263561",
+  "employer_name_address": "Smith LLC\n6183 Kelly View\nLynnchester, IL 12003",
+  "employee_first_name": "Brandon",
+  "employee_last_name": "Wells",
+  "employee_address": "735 Mclaughlin Mountains Apt. 636\nSouth Austinland, IL 08627",
+  "box1_wages": "132,867.73",
+  "box2_federal_tax": "23,371.95",
+  "box3_ss_wages": "136,570.56",
+  "box4_ss_tax": "8,467.37",
+  "box5_medicare_wages": "136,570.56",
+  "box6_medicare_tax": "1,980.27",
+  "box12a_code": "D",
+  "box12a_amount": "3,702.83",
+  "box15_state": "IL",
+  "box16_state_wages": "132,867.73",
+  "box17_state_tax": "3,774.23"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1258,
+  "out": 315,
+  "cost": 0.0
+ },
+ "latency_s": 32.66,
+ "at": 1790416247.160259
+}

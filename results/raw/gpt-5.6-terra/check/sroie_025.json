@@ -1,0 +1,22 @@
+{
+ "key": "4a55c92de6327da4b22e66373924b2950b8f750ed5cf7f356b387ecd2da7c33a",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "sroie_025",
+ "type": "sroie",
+ "text": "{\"company\":\"UNiHAKKA INTERNATIONAL SDN BHD\",\"date\":\"26 Mar 2018 18:14\",\"address\":\"12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi, 81200 Johor Bahru,Johor\",\"total\":\"$8.20\"}",
+ "parsed": {
+  "company": "UNiHAKKA INTERNATIONAL SDN BHD",
+  "date": "26 Mar 2018 18:14",
+  "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi, 81200 Johor Bahru,Johor",
+  "total": "$8.20"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1230,
+  "out": 254,
+  "cost": 0.0
+ },
+ "latency_s": 5.44,
+ "at": 1790411142.8941948
+}

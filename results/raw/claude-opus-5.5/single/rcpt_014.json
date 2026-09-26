@@ -1,0 +1,51 @@
+{
+ "key": "ce4b0948a62eb511b01f174aa7f9b35882a1b3681da3563b945d0338e8026844",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rcpt_014",
+ "type": "receipts",
+ "text": "{\"total\": \"281,435\", \"subtotal\": \"238,000\", \"tax\": \"25,585\", \"items\": [{\"name\": \"RedVelvet Cheese Slc\", \"price\": \"38,000\"}, {\"name\": \"Chicken Baked Rice\", \"price\": \"55,000\"}, {\"name\": \"Fish n Chips\", \"price\": \"65,000\"}, {\"name\": \"Mushroom Soup\", \"price\": \"35,000\"}, {\"name\": \"Chamomile\", \"price\": \"25,000\"}, {\"name\": \"Iced Tea\", \"price\": \"20,000\"}]}",
+ "parsed": {
+  "total": "281,435",
+  "subtotal": "238,000",
+  "tax": "25,585",
+  "items": [
+   {
+    "name": "RedVelvet Cheese Slc",
+    "price": "38,000"
+   },
+   {
+    "name": "Chicken Baked Rice",
+    "price": "55,000"
+   },
+   {
+    "name": "Fish n Chips",
+    "price": "65,000"
+   },
+   {
+    "name": "Mushroom Soup",
+    "price": "35,000"
+   },
+   {
+    "name": "Chamomile",
+    "price": "25,000"
+   },
+   {
+    "name": "Iced Tea",
+    "price": "20,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 181,
+  "cost": 0.0,
+  "notional_cost": 0.032524000000000004,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 7.09,
+ "at": 1790378659.671762
+}

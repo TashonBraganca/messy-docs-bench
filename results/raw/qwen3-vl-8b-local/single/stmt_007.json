@@ -1,0 +1,125 @@
+{
+ "key": "e819b265fa4bc5f21e80d0c3aa9329dd539c68a26568391f71ccd46d726cc1bf",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "stmt_007",
+ "type": "statements",
+ "text": "{\n  \"header\": {\n    \"bank_name\": \"UNITY NATIONAL BANK\",\n    \"account_holder\": \"PREMIUM PROPERTIES LTD\",\n    \"account_number\": \"74048203960\",\n    \"ifsc_code\": \"UNIT0647061\",\n    \"opening_balance\": \"2601369.36\",\n    \"start_date\": \"2024-01-01\",\n    \"end_date\": \"2024-03-31\"\n  },\n  \"transactions\": [\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": null,\n      \"credit\": 85389.81,\n      \"balance\": 2686759.17\n    },\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": null,\n      \"credit\": 1286531.47,\n      \"balance\": 3973290.64\n    },\n    {\n      \"date\": \"2024-02-01\",\n      \"debit\": null,\n      \"credit\": 34025.4,\n      \"balance\": 4007316.04\n    },\n    {\n      \"date\": \"2024-03-01\",\n      \"debit\": 207.9,\n      \"credit\": null,\n      \"balance\": 4007108.14\n    },\n    {\n      \"date\": \"2024-03-01\",\n      \"debit\": null,\n      \"credit\": 952750.1,\n      \"balance\": 4959858.24\n    },\n    {\n      \"date\": \"2024-04-01\",\n      \"debit\": 676923.91,\n      \"credit\": null,\n      \"balance\": 4282934.33\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": 299479.09,\n      \"credit\": null,\n      \"balance\": 8507911.79\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": null,\n      \"credit\": 3282502.19,\n      \"balance\": 7565436.52\n    },\n    {\n      \"date\": \"2024-06-01\",\n      \"debit\": 1634877.68,\n      \"credit\": null,\n      \"balance\": 5930558.84\n    },\n    {\n      \"date\": \"2024-06-01\",\n      \"debit\": null,\n      \"credit\": 782441.12,\n      \"balance\": 6712999.96\n    },\n    {\n      \"date\": \"2024-08-01\",\n      \"debit\": 1523695.68,\n      \"credit\": null,\n      \"balance\": 8236695.64\n    },\n    {\n      \"date\": \"2024-08-01\",\n      \"debit\": null,\n      \"credit\": 460596.88,\n      \"balance\": 8697292.52\n    },\n    {\n      \"date\": \"2024-08-01\",\n      \"debit\": 2174480.41,\n      \"credit\": null,\n      \"balance\": 10871772.93\n    },\n    {\n      \"date\": \"2024-09-01\",\n      \"debit\": 3506426.08,\n      \"credit\": null,\n      \"balance\": 7365346.85\n    },\n    {\n      \"date\": \"2024-09-01\",\n      \"debit\": 220707.11,\n      \"credit\": null,\n      \"balance\": 7144639.74\n    },\n    {\n      \"date\": \"2024-10-01\",\n      \"debit\": null,\n      \"credit\": 3185866.67,\n      \"balance\": 10330506.41\n    }\n  ]\n}",
+ "parsed": {
+  "header": {
+   "bank_name": "UNITY NATIONAL BANK",
+   "account_holder": "PREMIUM PROPERTIES LTD",
+   "account_number": "74048203960",
+   "ifsc_code": "UNIT0647061",
+   "opening_balance": "2601369.36",
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 85389.81,
+    "balance": 2686759.17
+   },
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 1286531.47,
+    "balance": 3973290.64
+   },
+   {
+    "date": "2024-02-01",
+    "debit": null,
+    "credit": 34025.4,
+    "balance": 4007316.04
+   },
+   {
+    "date": "2024-03-01",
+    "debit": 207.9,
+    "credit": null,
+    "balance": 4007108.14
+   },
+   {
+    "date": "2024-03-01",
+    "debit": null,
+    "credit": 952750.1,
+    "balance": 4959858.24
+   },
+   {
+    "date": "2024-04-01",
+    "debit": 676923.91,
+    "credit": null,
+    "balance": 4282934.33
+   },
+   {
+    "date": "2024-05-01",
+    "debit": 299479.09,
+    "credit": null,
+    "balance": 8507911.79
+   },
+   {
+    "date": "2024-05-01",
+    "debit": null,
+    "credit": 3282502.19,
+    "balance": 7565436.52
+   },
+   {
+    "date": "2024-06-01",
+    "debit": 1634877.68,
+    "credit": null,
+    "balance": 5930558.84
+   },
+   {
+    "date": "2024-06-01",
+    "debit": null,
+    "credit": 782441.12,
+    "balance": 6712999.96
+   },
+   {
+    "date": "2024-08-01",
+    "debit": 1523695.68,
+    "credit": null,
+    "balance": 8236695.64
+   },
+   {
+    "date": "2024-08-01",
+    "debit": null,
+    "credit": 460596.88,
+    "balance": 8697292.52
+   },
+   {
+    "date": "2024-08-01",
+    "debit": 2174480.41,
+    "credit": null,
+    "balance": 10871772.93
+   },
+   {
+    "date": "2024-09-01",
+    "debit": 3506426.08,
+    "credit": null,
+    "balance": 7365346.85
+   },
+   {
+    "date": "2024-09-01",
+    "debit": 220707.11,
+    "credit": null,
+    "balance": 7144639.74
+   },
+   {
+    "date": "2024-10-01",
+    "debit": null,
+    "credit": 3185866.67,
+    "balance": 10330506.41
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4182,
+  "out": 1038,
+  "cost": 0.0
+ },
+ "latency_s": 132.14,
+ "at": 1790415134.141006
+}

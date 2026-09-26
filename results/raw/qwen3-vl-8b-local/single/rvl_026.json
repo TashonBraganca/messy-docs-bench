@@ -1,0 +1,22 @@
+{
+ "key": "dabaeaa6b8c6eeeb3e3daaaf41190f55d99a3c8fd1794e924c6d520232d47b9a",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_026",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"Adams Letter Co., Inc.\",\n  \"invoice_number\": \"5035\",\n  \"invoice_date\": \"AUGUST 9, 1982\",\n  \"total\": \"$1,275.66\"\n}",
+ "parsed": {
+  "vendor": "Adams Letter Co., Inc.",
+  "invoice_number": "5035",
+  "invoice_date": "AUGUST 9, 1982",
+  "total": "$1,275.66"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1246,
+  "out": 58,
+  "cost": 0.0
+ },
+ "latency_s": 10.6,
+ "at": 1790412797.9134898
+}

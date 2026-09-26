@@ -1,0 +1,26 @@
+{
+ "key": "aed55e2f52730316423bf0b8e8d839c68739f1342cd36edc681839ca45705a3c",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_023",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"YHM Aeon Tebrau City\",\n  \"date\": \"11/03/2018\",\n  \"address\": \"S117, Second Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor.\",\n  \"total\": \"49.70\"\n}\n```",
+ "parsed": {
+  "company": "YHM Aeon Tebrau City",
+  "date": "11/03/2018",
+  "address": "S117, Second Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor.",
+  "total": "49.70"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 124,
+  "cost": 0.0,
+  "notional_cost": 0.012496,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.77,
+ "at": 1790378718.1067069
+}

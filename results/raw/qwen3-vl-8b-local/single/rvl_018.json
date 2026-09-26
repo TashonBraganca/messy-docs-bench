@@ -1,0 +1,22 @@
+{
+ "key": "1309dc8570388a7692e9eb1d097f6068a0d4ef2566bad6bd1e57a05e0d8cde95",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_018",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"LEGGETT & LUSTIG RESEARCH, INC.\",\n  \"invoice_number\": null,\n  \"invoice_date\": \"February 29, 1980\",\n  \"total\": \"$27,000\"\n}",
+ "parsed": {
+  "vendor": "LEGGETT & LUSTIG RESEARCH, INC.",
+  "invoice_number": null,
+  "invoice_date": "February 29, 1980",
+  "total": "$27,000"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 56,
+  "cost": 0.0
+ },
+ "latency_s": 9.88,
+ "at": 1790412756.2826712
+}

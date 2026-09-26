@@ -1,0 +1,111 @@
+{
+ "key": "c6afbe52cea7ac07bd12f42f99856e7b2ac91c54bd643e2030076aab46a63763",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "stmt_004",
+ "type": "statements",
+ "text": "```json\n{\n  \"header\": {\n    \"bank_name\": \"IndusBank Limited\",\n    \"account_holder\": \"WELLNESS BRANDS INDIA\",\n    \"account_number\": \"60273451072\",\n    \"ifsc_code\": \"INDU0920381\",\n    \"opening_balance\": \"683025.55\",\n    \"start_date\": \"2024-01-01\",\n    \"end_date\": \"2024-03-31\"\n  },\n  \"transactions\": [\n    {\"date\": \"2024-01-01\", \"debit\": null, \"credit\": 92266.72, \"balance\": 775292.27},\n    {\"date\": \"2024-01-01\", \"debit\": null, \"credit\": 3160.61, \"balance\": 778452.88},\n    {\"date\": \"2024-01-01\", \"debit\": null, \"credit\": 115472.52, \"balance\": 893925.40},\n    {\"date\": \"2024-01-01\", \"debit\": 142414.11, \"credit\": null, \"balance\": 751511.29},\n    {\"date\": \"2024-01-02\", \"debit\": null, \"credit\": 8448.59, \"balance\": 759959.88},\n    {\"date\": \"2024-01-02\", \"debit\": null, \"credit\": 273995.46, \"balance\": 1033955.34},\n    {\"date\": \"2024-01-03\", \"debit\": 50055.40, \"credit\": null, \"balance\": 983899.94},\n    {\"date\": \"2024-01-03\", \"debit\": null, \"credit\": 134907.01, \"balance\": 1118806.95},\n    {\"date\": \"2024-01-03\", \"debit\": null, \"credit\": 1716455.03, \"balance\": 2835261.98},\n    {\"date\": \"2024-01-04\", \"debit\": 406209.36, \"credit\": null, \"balance\": 2429052.62},\n    {\"date\": \"2024-01-05\", \"debit\": 80220.44, \"credit\": null, \"balance\": 2134363.26},\n    {\"date\": \"2024-01-05\", \"debit\": 23948.95, \"credit\": null, \"balance\": 2405103.67},\n    {\"date\": \"2024-01-06\", \"debit\": null, \"credit\": 453030.27, \"balance\": 2858133.94}\n  ]\n}\n```",
+ "parsed": {
+  "header": {
+   "bank_name": "IndusBank Limited",
+   "account_holder": "WELLNESS BRANDS INDIA",
+   "account_number": "60273451072",
+   "ifsc_code": "INDU0920381",
+   "opening_balance": "683025.55",
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 92266.72,
+    "balance": 775292.27
+   },
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 3160.61,
+    "balance": 778452.88
+   },
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 115472.52,
+    "balance": 893925.4
+   },
+   {
+    "date": "2024-01-01",
+    "debit": 142414.11,
+    "credit": null,
+    "balance": 751511.29
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 8448.59,
+    "balance": 759959.88
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 273995.46,
+    "balance": 1033955.34
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 50055.4,
+    "credit": null,
+    "balance": 983899.94
+   },
+   {
+    "date": "2024-01-03",
+    "debit": null,
+    "credit": 134907.01,
+    "balance": 1118806.95
+   },
+   {
+    "date": "2024-01-03",
+    "debit": null,
+    "credit": 1716455.03,
+    "balance": 2835261.98
+   },
+   {
+    "date": "2024-01-04",
+    "debit": 406209.36,
+    "credit": null,
+    "balance": 2429052.62
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 80220.44,
+    "credit": null,
+    "balance": 2134363.26
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 23948.95,
+    "credit": null,
+    "balance": 2405103.67
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 453030.27,
+    "balance": 2858133.94
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 678,
+  "cost": 0.0,
+  "notional_cost": 0.024832,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 8.11,
+ "at": 1790378744.668044
+}

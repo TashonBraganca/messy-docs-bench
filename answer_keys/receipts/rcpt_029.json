@@ -1,0 +1,42 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "145,900",
+  "subtotal": "132,636",
+  "tax": "13,264",
+  "items": [
+   {
+    "name": "COLD OCHA",
+    "price": "10,909"
+   },
+   {
+    "name": "BCA PROMO",
+    "price": "54,455"
+   },
+   {
+    "name": "ABURA UDON SPICY",
+    "price": "0"
+   },
+   {
+    "name": ":-KAKE UDON",
+    "price": "0"
+   },
+   {
+    "name": "SKEWERED SHUMAI",
+    "price": "12,727"
+   },
+   {
+    "name": "SKEWERED TOFU ROLL",
+    "price": "12,727"
+   },
+   {
+    "name": "EBI TEMPURA",
+    "price": "13,636"
+   },
+   {
+    "name": "KITSUNE UDON (KIDS)",
+    "price": "28,182"
+   }
+  ]
+ }
+}

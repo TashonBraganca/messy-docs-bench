@@ -1,0 +1,24 @@
+{
+ "key": "1f9a33f2cb3dccd68d1a0f9b9c4622d503bf48379e04a662ab6f99053e124e4b",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "ctr_010",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"January 26, 1998\",\"effective_date\":null,\"expiration_date\":\"January 26, 1999\",\"governing_law\":\"State of California\",\"renewal_term\":null,\"notice_period_to_terminate_renewal\":null}",
+ "parsed": {
+  "agreement_date": "January 26, 1998",
+  "effective_date": null,
+  "expiration_date": "January 26, 1999",
+  "governing_law": "State of California",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 5154,
+  "out": 113,
+  "cost": 0.0
+ },
+ "latency_s": 2.84,
+ "at": 1790411035.6220548
+}

@@ -1,0 +1,28 @@
+{
+ "key": "b86f7d3c173e847e1d69592d0ef96585951c2e0ab90d19c4625180fdae942fb1",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "ctr_000",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"29/3/18\",\"effective_date\":null,\"expiration_date\":\"29/3/19\",\"governing_law\":\"Ohio\",\"renewal_term\":\"perpetual\",\"notice_period_to_terminate_renewal\":\"12 months\"}",
+ "parsed": {
+  "agreement_date": "29/3/18",
+  "effective_date": null,
+  "expiration_date": "29/3/19",
+  "governing_law": "Ohio",
+  "renewal_term": "perpetual",
+  "notice_period_to_terminate_renewal": "12 months"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 297,
+  "cost": 0.0,
+  "notional_cost": 0.048693999999999994,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.42,
+ "at": 1790378864.352909
+}

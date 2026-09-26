@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 0.7,
+ "truth": {
+  "employee_ssn": "942-96-8628",
+  "employer_ein": "52-8962375",
+  "employer_name_address": "Smith-Myers\n3132 Alexandra Springs Apt. 718\nNorth Kimberlybury, IL 75131",
+  "employee_first_name": "Samantha",
+  "employee_last_name": "Brewer",
+  "employee_address": "48611 Kevin Prairie Apt. 643\nNorth Amandamouth, IL 37018",
+  "box1_wages": "150,686.37",
+  "box2_federal_tax": "22,795.81",
+  "box3_ss_wages": "164,283.91",
+  "box4_ss_tax": "10,185.60",
+  "box5_medicare_wages": "164,283.91",
+  "box6_medicare_tax": "2,382.12",
+  "box12a_code": "D",
+  "box12a_amount": "13,597.54",
+  "box15_state": "IL",
+  "box16_state_wages": "150,686.37",
+  "box17_state_tax": "9,978.05"
+ }
+}

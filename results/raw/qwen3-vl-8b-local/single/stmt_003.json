@@ -1,0 +1,107 @@
+{
+ "key": "71f291f3f13f48302b8c93339af38c545e2128660f0d357f35ab316e06bd7a20",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "stmt_003",
+ "type": "statements",
+ "text": "{\n  \"header\": {\n    \"bank_name\": \"Metropolitan Bank\",\n    \"account_holder\": \"LOAN FINANCE CORP\",\n    \"account_number\": \"85630361321\",\n    \"ifsc_code\": \"METR0481887\",\n    \"opening_balance\": \"649036.11\",\n    \"start_date\": \"2024-01-01\",\n    \"end_date\": \"2024-03-31\"\n  },\n  \"transactions\": [\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": null,\n      \"credit\": 165870.21,\n      \"balance\": 814906.32\n    },\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": 12809.73,\n      \"credit\": null,\n      \"balance\": 802096.59\n    },\n    {\n      \"date\": \"2024-02-01\",\n      \"debit\": null,\n      \"credit\": 565068.86,\n      \"balance\": 1367165.45\n    },\n    {\n      \"date\": \"2024-03-01\",\n      \"debit\": null,\n      \"credit\": 15428.01,\n      \"balance\": 1382593.46\n    },\n    {\n      \"date\": \"2024-04-01\",\n      \"debit\": null,\n      \"credit\": 126384.01,\n      \"balance\": 1508977.47\n    },\n    {\n      \"date\": \"2024-04-01\",\n      \"debit\": 169940.83,\n      \"credit\": null,\n      \"balance\": 1339036.64\n    },\n    {\n      \"date\": \"2024-04-01\",\n      \"debit\": null,\n      \"credit\": 128549.17,\n      \"balance\": 1467585.81\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": null,\n      \"credit\": 524351.15,\n      \"balance\": 943234.66\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": 453730.21,\n      \"credit\": null,\n      \"balance\": 489504.45\n    },\n    {\n      \"date\": \"2024-06-01\",\n      \"debit\": null,\n      \"credit\": 265182.35,\n      \"balance\": 754686.8\n    },\n    {\n      \"date\": \"2024-08-01\",\n      \"debit\": null,\n      \"credit\": 8626.01,\n      \"balance\": 763312.81\n    },\n    {\n      \"date\": \"2024-08-01\",\n      \"debit\": 52041.58,\n      \"credit\": null,\n      \"balance\": 815354.39\n    },\n    {\n      \"date\": \"2024-08-01\",\n      \"debit\": 11303.52,\n      \"credit\": null,\n      \"balance\": 804050.87\n    }\n  ]\n}",
+ "parsed": {
+  "header": {
+   "bank_name": "Metropolitan Bank",
+   "account_holder": "LOAN FINANCE CORP",
+   "account_number": "85630361321",
+   "ifsc_code": "METR0481887",
+   "opening_balance": "649036.11",
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 165870.21,
+    "balance": 814906.32
+   },
+   {
+    "date": "2024-01-01",
+    "debit": 12809.73,
+    "credit": null,
+    "balance": 802096.59
+   },
+   {
+    "date": "2024-02-01",
+    "debit": null,
+    "credit": 565068.86,
+    "balance": 1367165.45
+   },
+   {
+    "date": "2024-03-01",
+    "debit": null,
+    "credit": 15428.01,
+    "balance": 1382593.46
+   },
+   {
+    "date": "2024-04-01",
+    "debit": null,
+    "credit": 126384.01,
+    "balance": 1508977.47
+   },
+   {
+    "date": "2024-04-01",
+    "debit": 169940.83,
+    "credit": null,
+    "balance": 1339036.64
+   },
+   {
+    "date": "2024-04-01",
+    "debit": null,
+    "credit": 128549.17,
+    "balance": 1467585.81
+   },
+   {
+    "date": "2024-05-01",
+    "debit": null,
+    "credit": 524351.15,
+    "balance": 943234.66
+   },
+   {
+    "date": "2024-05-01",
+    "debit": 453730.21,
+    "credit": null,
+    "balance": 489504.45
+   },
+   {
+    "date": "2024-06-01",
+    "debit": null,
+    "credit": 265182.35,
+    "balance": 754686.8
+   },
+   {
+    "date": "2024-08-01",
+    "debit": null,
+    "credit": 8626.01,
+    "balance": 763312.81
+   },
+   {
+    "date": "2024-08-01",
+    "debit": 52041.58,
+    "credit": null,
+    "balance": 815354.39
+   },
+   {
+    "date": "2024-08-01",
+    "debit": 11303.52,
+    "credit": null,
+    "balance": 804050.87
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4182,
+  "out": 851,
+  "cost": 0.0
+ },
+ "latency_s": 120.19,
+ "at": 1790414597.585515
+}

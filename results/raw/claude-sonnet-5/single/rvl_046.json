@@ -1,0 +1,26 @@
+{
+ "key": "b7846e60f4dd7a8d3d36f7483fa9923a9b517d8633c99b7c97a8ca79bf159a97",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_046",
+ "type": "invoices",
+ "text": "```json\n{\n  \"vendor\": \"MacNAUGHTON LITHOGRAPH COMPANY, INC.\",\n  \"invoice_number\": \"29791\",\n  \"invoice_date\": \"January 15, 1983\",\n  \"total\": \"683.58\"\n}\n```",
+ "parsed": {
+  "vendor": "MacNAUGHTON LITHOGRAPH COMPANY, INC.",
+  "invoice_number": "29791",
+  "invoice_date": "January 15, 1983",
+  "total": "683.58"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 87,
+  "cost": 0.0,
+  "notional_cost": 0.007886,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 7.36,
+ "at": 1790378618.999249
+}

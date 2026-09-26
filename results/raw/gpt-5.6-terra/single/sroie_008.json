@@ -1,0 +1,22 @@
+{
+ "key": "96ad0ad42421dbb8318c5fb3d668413fa8f93b35ddb882f9a1ac7806fb3459b6",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "sroie_008",
+ "type": "sroie",
+ "text": "{\"company\":\"SWC ENTERPRISE SDN BHD\",\"date\":\"08/01/2018\",\"address\":\"NO. 5-7, Jalan Mahagoni 7/1, Sekysen 4, Bandar Utama, 44300 Batang Kali, Selangor.\",\"total\":\"8.00\"}",
+ "parsed": {
+  "company": "SWC ENTERPRISE SDN BHD",
+  "date": "08/01/2018",
+  "address": "NO. 5-7, Jalan Mahagoni 7/1, Sekysen 4, Bandar Utama, 44300 Batang Kali, Selangor.",
+  "total": "8.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 854,
+  "out": 274,
+  "cost": 0.0
+ },
+ "latency_s": 6.08,
+ "at": 1790379257.014945
+}

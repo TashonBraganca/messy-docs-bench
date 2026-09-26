@@ -1,0 +1,31 @@
+{
+ "key": "7d640cd9f54685c2a9acedd719f6a989045c25c7b87c73ceb391dc108ed465e2",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rcpt_000",
+ "type": "receipts",
+ "text": "{\"total\": \"60.000\", \"subtotal\": \"60.000\", \"tax\": \"5.455\", \"items\": [{\"name\": \"-TICKET CP\", \"price\": \"60.000\"}]}",
+ "parsed": {
+  "total": "60.000",
+  "subtotal": "60.000",
+  "tax": "5.455",
+  "items": [
+   {
+    "name": "-TICKET CP",
+    "price": "60.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 284,
+  "cost": 0.0,
+  "notional_cost": 0.013696,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.13,
+ "at": 1790378149.305558
+}

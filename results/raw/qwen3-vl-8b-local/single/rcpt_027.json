@@ -1,0 +1,31 @@
+{
+ "key": "62c453c4d483fa316442b6db3594b9543720ef33359718f2d5acf1b75ba9df3b",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_027",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"61,600\",\n    \"subtotal\": \"56,000\",\n    \"tax\": \"5,600\",\n    \"items\": [\n        {\n            \"name\": \"PKT AYAM\",\n            \"price\": \"33,000\"\n        },\n        {\n            \"name\": \"GULAI OTAK\",\n            \"price\": \"23,000\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "61,600",
+  "subtotal": "56,000",
+  "tax": "5,600",
+  "items": [
+   {
+    "name": "PKT AYAM",
+    "price": "33,000"
+   },
+   {
+    "name": "GULAI OTAK",
+    "price": "23,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 99,
+  "cost": 0.0
+ },
+ "latency_s": 13.62,
+ "at": 1790413345.3181682
+}

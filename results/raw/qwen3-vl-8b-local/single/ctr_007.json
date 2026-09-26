@@ -1,0 +1,24 @@
+{
+ "key": "39b218021facf79f381e092bcbcdeec5aa0fe3a6d428acf4b57f038e1f27c796",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_007",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"March 3, 2000\",\n  \"effective_date\": \"March 3, 2000\",\n  \"expiration_date\": \"June 3, 2000\",\n  \"governing_law\": \"State of Delaware\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": null\n}",
+ "parsed": {
+  "agreement_date": "March 3, 2000",
+  "effective_date": "March 3, 2000",
+  "expiration_date": "June 3, 2000",
+  "governing_law": "State of Delaware",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 10581,
+  "out": 87,
+  "cost": 0.0
+ },
+ "latency_s": 62.47,
+ "at": 1790412443.733994
+}

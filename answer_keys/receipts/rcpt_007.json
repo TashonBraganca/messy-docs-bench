@@ -1,0 +1,18 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "111,000",
+  "subtotal": "100,909",
+  "tax": "10,091",
+  "items": [
+   {
+    "name": "Kupon 15",
+    "price": "100,000"
+   },
+   {
+    "name": "ADD CHICKEN BOX",
+    "price": "909"
+   }
+  ]
+ }
+}

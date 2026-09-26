@@ -1,0 +1,30 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "377,859",
+  "subtotal": "325,600",
+  "tax": "34,351",
+  "items": [
+   {
+    "name": "cashew nuts chkn",
+    "price": "64,500"
+   },
+   {
+    "name": "garlic pepper beef",
+    "price": "79,500"
+   },
+   {
+    "name": "red curry beef",
+    "price": "69,500"
+   },
+   {
+    "name": "phad thai",
+    "price": "64,500"
+   },
+   {
+    "name": "steamed rice",
+    "price": "47,600"
+   }
+  ]
+ }
+}

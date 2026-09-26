@@ -1,0 +1,47 @@
+{
+ "key": "d7f93e01a9158b4191fcd2e2143cac2774488e5d44ea6908a801568f4361fb31",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_017",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"Rp. 91,000\",\n    \"subtotal\": \"91,000\",\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"Goblin's Mace\",\n            \"price\": \"25,000\"\n        },\n        {\n            \"name\": \"Mozarella Hot Dog\",\n            \"price\": \"38,000\"\n        },\n        {\n            \"name\": \"Chili Pepper Croquette\",\n            \"price\": \"14,000\"\n        },\n        {\n            \"name\": \"Cheese Croquette\",\n            \"price\": \"14,000\"\n        },\n        {\n            \"name\": \"Plastik Amook\",\n            \"price\": \"0\"\n        },\n        {\n            \"name\": \"Plastik Putih\",\n            \"price\": \"0\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "Rp. 91,000",
+  "subtotal": "91,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Goblin's Mace",
+    "price": "25,000"
+   },
+   {
+    "name": "Mozarella Hot Dog",
+    "price": "38,000"
+   },
+   {
+    "name": "Chili Pepper Croquette",
+    "price": "14,000"
+   },
+   {
+    "name": "Cheese Croquette",
+    "price": "14,000"
+   },
+   {
+    "name": "Plastik Amook",
+    "price": "0"
+   },
+   {
+    "name": "Plastik Putih",
+    "price": "0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1335,
+  "out": 194,
+  "cost": 0.0
+ },
+ "latency_s": 20.45,
+ "at": 1790413199.661757
+}

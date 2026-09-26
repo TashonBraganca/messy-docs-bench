@@ -1,0 +1,24 @@
+{
+ "key": "7579d9b1b9ed74c49d77a775b0a8d29a911b84548a0f9292a42bfa0686db009b",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "ctr_006",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"26 September 2019\",\"effective_date\":\"26  September 2019\",\"expiration_date\":\"perpetual\",\"governing_law\":\"England and Wales\",\"renewal_term\":null,\"notice_period_to_terminate_renewal\":null}",
+ "parsed": {
+  "agreement_date": "26 September 2019",
+  "effective_date": "26  September 2019",
+  "expiration_date": "perpetual",
+  "governing_law": "England and Wales",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 11644,
+  "out": 155,
+  "cost": 0.0
+ },
+ "latency_s": 3.44,
+ "at": 1790411031.58725
+}

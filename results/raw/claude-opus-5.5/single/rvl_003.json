@@ -1,0 +1,26 @@
+{
+ "key": "1171c6568e6118bed08f130b93e60915ec60b3d813f57cd80c84faafa8d110e4",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rvl_003",
+ "type": "invoices",
+ "text": "{\"vendor\": \"HAZLETON LABORATORIES AMERICA, INC.\", \"invoice_number\": \"812516\", \"invoice_date\": \"02-06-89\", \"total\": \"$2,600.00\"}",
+ "parsed": {
+  "vendor": "HAZLETON LABORATORIES AMERICA, INC.",
+  "invoice_number": "812516",
+  "invoice_date": "02-06-89",
+  "total": "$2,600.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 69,
+  "cost": 0.0,
+  "notional_cost": 0.0149,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.0,
+ "at": 1790378148.1685429
+}

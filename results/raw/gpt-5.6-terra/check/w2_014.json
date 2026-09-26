@@ -1,0 +1,35 @@
+{
+ "key": "31a9cdc0754c4aa41ccfbfced580adc33be0aadba0443586bd47ae8b29b9de94",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "w2_014",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"917-40-2448\",\"employer_ein\":\"65-8363720\",\"employer_name_address\":\"Nixon-Kaufman\\n04352 Matthew Corner Suite 483\\nNewberry, IL 12409\",\"employee_first_name\":\"Joseph\",\"employee_last_name\":\"Davis\",\"employee_address\":\"060 Torres Fort Apt. 982\\nDurant, IL 20091\",\"box1_wages\":\"151,064.92\",\"box2_federal_tax\":\"19,589.51\",\"box3_ss_wages\":\"164,016.56\",\"box4_ss_tax\":\"10,169.03\",\"box5_medicare_wages\":\"164,016.56\",\"box6_medicare_tax\":\"2,378.24\",\"box12a_code\":\"D\",\"box12a_amount\":\"12,951.64\",\"box15_state\":\"IL\",\"box16_state_wages\":\"151,064.92\",\"box17_state_tax\":\"5,310.76\"}",
+ "parsed": {
+  "employee_ssn": "917-40-2448",
+  "employer_ein": "65-8363720",
+  "employer_name_address": "Nixon-Kaufman\n04352 Matthew Corner Suite 483\nNewberry, IL 12409",
+  "employee_first_name": "Joseph",
+  "employee_last_name": "Davis",
+  "employee_address": "060 Torres Fort Apt. 982\nDurant, IL 20091",
+  "box1_wages": "151,064.92",
+  "box2_federal_tax": "19,589.51",
+  "box3_ss_wages": "164,016.56",
+  "box4_ss_tax": "10,169.03",
+  "box5_medicare_wages": "164,016.56",
+  "box6_medicare_tax": "2,378.24",
+  "box12a_code": "D",
+  "box12a_amount": "12,951.64",
+  "box15_state": "IL",
+  "box16_state_wages": "151,064.92",
+  "box17_state_tax": "5,310.76"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1564,
+  "out": 448,
+  "cost": 0.0
+ },
+ "latency_s": 7.65,
+ "at": 1790411218.260967
+}

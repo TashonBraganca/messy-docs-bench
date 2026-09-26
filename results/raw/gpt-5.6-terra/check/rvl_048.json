@@ -1,0 +1,22 @@
+{
+ "key": "67a0b1921f773c4c59af387842a9b49c68b59c9ade0b1bcbddf425a705e8c9fb",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rvl_048",
+ "type": "invoices",
+ "text": "{\"vendor\":\"POWELL TATE\",\"invoice_number\":\"2568\",\"invoice_date\":\"December 31, 1993\",\"total\":\"2,872.34\"}",
+ "parsed": {
+  "vendor": "POWELL TATE",
+  "invoice_number": "2568",
+  "invoice_date": "December 31, 1993",
+  "total": "2,872.34"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1185,
+  "out": 37,
+  "cost": 0.0
+ },
+ "latency_s": 2.76,
+ "at": 1790411055.714775
+}

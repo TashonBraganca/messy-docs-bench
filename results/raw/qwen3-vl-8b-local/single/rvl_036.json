@@ -1,0 +1,22 @@
+{
+ "key": "fcd24083d83e1054759b8eb97fc132b2ba7283639f9ca2a1fa1aa46d78b0e423",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_036",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"JAMES ROSS LIMITED\",\n  \"invoice_number\": null,\n  \"invoice_date\": \"Dec 14/90\",\n  \"total\": \"US$273,685.00\"\n}",
+ "parsed": {
+  "vendor": "JAMES ROSS LIMITED",
+  "invoice_number": null,
+  "invoice_date": "Dec 14/90",
+  "total": "US$273,685.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1246,
+  "out": 53,
+  "cost": 0.0
+ },
+ "latency_s": 9.72,
+ "at": 1790412807.6389701
+}

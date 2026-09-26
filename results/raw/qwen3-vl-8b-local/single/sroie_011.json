@@ -1,0 +1,22 @@
+{
+ "key": "9572f3d12a6f79e8805f66a78e3e6e8e5733f184ae53ceec671b83094394e7c3",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_011",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"SECURE PARKING CORPORATION S/B\",\n  \"date\": \"23.03.18\",\n  \"address\": \"Riverwalk Village Batu 3, Jalan Ipoh 51200 KL.\",\n  \"total\": \"1.00\"\n}",
+ "parsed": {
+  "company": "SECURE PARKING CORPORATION S/B",
+  "date": "23.03.18",
+  "address": "Riverwalk Village Batu 3, Jalan Ipoh 51200 KL.",
+  "total": "1.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1202,
+  "out": 65,
+  "cost": 0.0
+ },
+ "latency_s": 10.23,
+ "at": 1790413541.9729679
+}

@@ -1,0 +1,43 @@
+{
+ "key": "6a585e08fb894ae923e8293ad3d474e47f87cbedbaf05530ea24535469d29c50",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_016",
+ "type": "receipts",
+ "text": "{\"total\":\"70,000\",\"subtotal\":\"63,636\",\"tax\":\"6,364\",\"items\":[{\"name\":\"[LG] BLACK SAKURA\",\"price\":\"59,091\"},{\"name\":\"LONGAN\",\"price\":\"0\"},{\"name\":\"ROASTED ALMOND\",\"price\":\"0\"},{\"name\":\"MANGGO\",\"price\":\"0\"},{\"name\":\"MINERAL WATER (bundling) 5k\",\"price\":\"4,545\"}]}",
+ "parsed": {
+  "total": "70,000",
+  "subtotal": "63,636",
+  "tax": "6,364",
+  "items": [
+   {
+    "name": "[LG] BLACK SAKURA",
+    "price": "59,091"
+   },
+   {
+    "name": "LONGAN",
+    "price": "0"
+   },
+   {
+    "name": "ROASTED ALMOND",
+    "price": "0"
+   },
+   {
+    "name": "MANGGO",
+    "price": "0"
+   },
+   {
+    "name": "MINERAL WATER (bundling) 5k",
+    "price": "4,545"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1165,
+  "out": 198,
+  "cost": 0.0
+ },
+ "latency_s": 6.73,
+ "at": 1790379221.826117
+}

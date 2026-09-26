@@ -1,0 +1,39 @@
+{
+ "key": "b2426daed113c68e9a0f1cdb6ab32693e5ab0c466cfdef68cf32ed9543979f1d",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "w2_026",
+ "type": "w2",
+ "text": "{\"employee_ssn\": \"967-91-9202\", \"employer_ein\": \"52-8057586\", \"employer_name_address\": \"Miller, Gonzalez and Mullins\\n1078 Martin Meadow\\nNorth Josephland, NJ 27808\", \"employee_first_name\": \"Cole\", \"employee_last_name\": \"Jimenez\", \"employee_address\": \"32679 Julie Vista Apt. 444\\nNathanview, NJ 26609\", \"box1_wages\": \"208,877.91\", \"box2_federal_tax\": \"29,996.67\", \"box3_ss_wages\": \"184,500.00\", \"box4_ss_tax\": \"11,439.00\", \"box5_medicare_wages\": \"215,096.11\", \"box6_medicare_tax\": \"3,118.89\", \"box12a_code\": \"D\", \"box12a_amount\": \"6,218.20\", \"box15_state\": \"NJ\", \"box16_state_wages\": \"208,877.91\", \"box17_state_tax\": \"9,727.12\"}",
+ "parsed": {
+  "employee_ssn": "967-91-9202",
+  "employer_ein": "52-8057586",
+  "employer_name_address": "Miller, Gonzalez and Mullins\n1078 Martin Meadow\nNorth Josephland, NJ 27808",
+  "employee_first_name": "Cole",
+  "employee_last_name": "Jimenez",
+  "employee_address": "32679 Julie Vista Apt. 444\nNathanview, NJ 26609",
+  "box1_wages": "208,877.91",
+  "box2_federal_tax": "29,996.67",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "215,096.11",
+  "box6_medicare_tax": "3,118.89",
+  "box12a_code": "D",
+  "box12a_amount": "6,218.20",
+  "box15_state": "NJ",
+  "box16_state_wages": "208,877.91",
+  "box17_state_tax": "9,727.12"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 320,
+  "cost": 0.0,
+  "notional_cost": 0.023248,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.06,
+ "at": 1790378827.1076531
+}

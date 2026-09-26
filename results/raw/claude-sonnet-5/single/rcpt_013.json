@@ -1,0 +1,35 @@
+{
+ "key": "e92e736f78780653bb080571d6c7907cf71519d76fa4b487ec2a805c9caa441a",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rcpt_013",
+ "type": "receipts",
+ "text": "```json\n{\n  \"total\": \"51,300\",\n  \"subtotal\": \"46,636\",\n  \"tax\": \"4,663\",\n  \"items\": [\n    {\"name\": \"BASO KUAH\", \"price\": \"43,636\"},\n    {\"name\": \"A.MINERAL GELAS\", \"price\": \"3,000\"}\n  ]\n}\n```",
+ "parsed": {
+  "total": "51,300",
+  "subtotal": "46,636",
+  "tax": "4,663",
+  "items": [
+   {
+    "name": "BASO KUAH",
+    "price": "43,636"
+   },
+   {
+    "name": "A.MINERAL GELAS",
+    "price": "3,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 106,
+  "cost": 0.0,
+  "notional_cost": 0.009612,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.66,
+ "at": 1790378644.4439528
+}

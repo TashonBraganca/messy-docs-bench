@@ -1,0 +1,31 @@
+{
+ "key": "55ad5d02d4090b0df6a092e6c9d8cc8bd253d7fa16f374a72191e7a5aee784c7",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_021",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"Rp38.000\",\n    \"subtotal\": null,\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"NASI GOR SFD TLR\",\n            \"price\": \"Rp35.000\"\n        },\n        {\n            \"name\": \"ES TEH TAWAR\",\n            \"price\": \"Rp3.000\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "Rp38.000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "NASI GOR SFD TLR",
+    "price": "Rp35.000"
+   },
+   {
+    "name": "ES TEH TAWAR",
+    "price": "Rp3.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1335,
+  "out": 94,
+  "cost": 0.0
+ },
+ "latency_s": 13.98,
+ "at": 1790413257.482326
+}

@@ -1,0 +1,28 @@
+{
+ "key": "bb1e0876f96ba9ee973e5af0d562f285a0c8e16af51ea9f36188d689b250fa7e",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "ctr_014",
+ "type": "contracts",
+ "text": "```json\n{\n  \"agreement_date\": null,\n  \"effective_date\": \"2018\",\n  \"expiration_date\": \"31 December 2024\",\n  \"governing_law\": \"England\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": null\n}\n```",
+ "parsed": {
+  "agreement_date": null,
+  "effective_date": "2018",
+  "expiration_date": "31 December 2024",
+  "governing_law": "England",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 91,
+  "cost": 0.0,
+  "notional_cost": 0.072482,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 3.7,
+ "at": 1790378895.078998
+}

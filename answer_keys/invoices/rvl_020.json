@@ -1,0 +1,12 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Tong McKnew Associates",
+  "invoice_number": "12562",
+  "invoice_date": "October 4, 1995",
+  "total": "1,426.00"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

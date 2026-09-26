@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 1.6,
+ "truth": {
+  "employee_ssn": "958-98-3430",
+  "employer_ein": "87-1543610",
+  "employer_name_address": "Wright-Sanchez\n9351 King Gardens\nLake Lindsey, NJ 86133",
+  "employee_first_name": "Steven",
+  "employee_last_name": "Johnson",
+  "employee_address": "3750 Hall Causeway\nNew Teresa, NJ 76941",
+  "box1_wages": "172,014.06",
+  "box2_federal_tax": "30,362.83",
+  "box3_ss_wages": "182,758.00",
+  "box4_ss_tax": "11,331.00",
+  "box5_medicare_wages": "182,758.00",
+  "box6_medicare_tax": "2,649.99",
+  "box12a_code": "D",
+  "box12a_amount": "10,743.94",
+  "box15_state": "NJ",
+  "box16_state_wages": "172,014.06",
+  "box17_state_tax": "4,402.55"
+ }
+}

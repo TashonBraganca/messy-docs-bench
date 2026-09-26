@@ -1,0 +1,35 @@
+{
+ "key": "651aae104265d001ff429001cc43c9a7773f7672b4e0abc93833875362df744e",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_001",
+ "type": "receipts",
+ "text": "{\"total\":\"91000\",\"subtotal\":null,\"tax\":null,\"items\":[{\"name\":\"J.STB PROMO\",\"price\":\"17500\"},{\"name\":\"Y.B.BAT\",\"price\":\"46000\"},{\"name\":\"Y.BASO PROM\",\"price\":\"27500\"}]}",
+ "parsed": {
+  "total": "91000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "J.STB PROMO",
+    "price": "17500"
+   },
+   {
+    "name": "Y.B.BAT",
+    "price": "46000"
+   },
+   {
+    "name": "Y.BASO PROM",
+    "price": "27500"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1050,
+  "out": 147,
+  "cost": 0.0
+ },
+ "latency_s": 4.93,
+ "at": 1790379197.817495
+}

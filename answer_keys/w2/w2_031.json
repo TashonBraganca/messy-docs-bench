@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 1.6,
+ "truth": {
+  "employee_ssn": "935-13-2169",
+  "employer_ein": "86-3662118",
+  "employer_name_address": "White-Robinson\n265 Edward Stream Apt. 080\nDavidmouth, MA 72597",
+  "employee_first_name": "Melinda",
+  "employee_last_name": "Strickland",
+  "employee_address": "9366 Griffin Mill Apt. 009\nMarshallmouth, MA 81578",
+  "box1_wages": "199,700.03",
+  "box2_federal_tax": "42,322.10",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "220,522.53",
+  "box6_medicare_tax": "3,197.58",
+  "box12a_code": "D",
+  "box12a_amount": "20,822.50",
+  "box15_state": "MA",
+  "box16_state_wages": "199,700.03",
+  "box17_state_tax": "8,198.78"
+ }
+}

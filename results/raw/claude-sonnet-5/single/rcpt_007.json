@@ -1,0 +1,35 @@
+{
+ "key": "397059b54412e17efbad1bfac5bc9c71e4a33cff10b4db2372288ef77e3b5303",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rcpt_007",
+ "type": "receipts",
+ "text": "```json\n{\n  \"total\": \"111,000\",\n  \"subtotal\": \"100,909\",\n  \"tax\": \"10,091\",\n  \"items\": [\n    {\"name\": \"Kupon 15\", \"price\": \"100,000\"},\n    {\"name\": \"ADD CHICKEN BOX\", \"price\": \"909\"}\n  ]\n}\n```",
+ "parsed": {
+  "total": "111,000",
+  "subtotal": "100,909",
+  "tax": "10,091",
+  "items": [
+   {
+    "name": "Kupon 15",
+    "price": "100,000"
+   },
+   {
+    "name": "ADD CHICKEN BOX",
+    "price": "909"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 104,
+  "cost": 0.0,
+  "notional_cost": 0.006372,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.78,
+ "at": 1790378633.9623759
+}

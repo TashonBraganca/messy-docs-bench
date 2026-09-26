@@ -1,0 +1,22 @@
+{
+ "key": "4fae1b20df0b04fb2816a30337d63e4c1394e5e1f3cebc5e22d4b225093fe75b",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_048",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"POWELL TATE, a Cassidy Company\",\n  \"invoice_number\": \"2568\",\n  \"invoice_date\": \"December 31, 1993\",\n  \"total\": \"2,872.34\"\n}",
+ "parsed": {
+  "vendor": "POWELL TATE, a Cassidy Company",
+  "invoice_number": "2568",
+  "invoice_date": "December 31, 1993",
+  "total": "2,872.34"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 60,
+  "cost": 0.0
+ },
+ "latency_s": 9.78,
+ "at": 1790412847.186004
+}

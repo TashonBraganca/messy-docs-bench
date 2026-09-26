@@ -1,0 +1,39 @@
+{
+ "key": "366328735df8ef639948aea82145c543005d6811587682ed7e6da270b7dae571",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "w2_028",
+ "type": "w2",
+ "text": "{\"employee_ssn\": \"956-55-9689\", \"employer_ein\": \"59-6389499\", \"employer_name_address\": \"Conrad LLC\\n9401 Robinson Land\\nDonaldborough, MA 33913\", \"employee_first_name\": \"Benjamin\", \"employee_last_name\": \"Oconnor\", \"employee_address\": \"56529 Miller Bypass\\nKelleyland, MA 54000\", \"box1_wages\": \"35,365.11\", \"box2_federal_tax\": \"7,528.84\", \"box3_ss_wages\": \"37,581.66\", \"box4_ss_tax\": \"2,330.06\", \"box5_medicare_wages\": \"37,581.66\", \"box6_medicare_tax\": \"544.93\", \"box12a_code\": \"D\", \"box12a_amount\": \"2,216.55\", \"box15_state\": \"MA\", \"box16_state_wages\": \"35,365.11\", \"box17_state_tax\": \"2,312.51\"}",
+ "parsed": {
+  "employee_ssn": "956-55-9689",
+  "employer_ein": "59-6389499",
+  "employer_name_address": "Conrad LLC\n9401 Robinson Land\nDonaldborough, MA 33913",
+  "employee_first_name": "Benjamin",
+  "employee_last_name": "Oconnor",
+  "employee_address": "56529 Miller Bypass\nKelleyland, MA 54000",
+  "box1_wages": "35,365.11",
+  "box2_federal_tax": "7,528.84",
+  "box3_ss_wages": "37,581.66",
+  "box4_ss_tax": "2,330.06",
+  "box5_medicare_wages": "37,581.66",
+  "box6_medicare_tax": "544.93",
+  "box12a_code": "D",
+  "box12a_amount": "2,216.55",
+  "box15_state": "MA",
+  "box16_state_wages": "35,365.11",
+  "box17_state_tax": "2,312.51"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 303,
+  "cost": 0.0,
+  "notional_cost": 0.022908,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.96,
+ "at": 1790378832.499207
+}

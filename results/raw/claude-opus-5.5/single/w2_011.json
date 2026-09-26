@@ -1,0 +1,39 @@
+{
+ "key": "78e291b96a7557977b879e66ceed003f56ee17303eec5d23cf30a92033554ea2",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "w2_011",
+ "type": "w2",
+ "text": "{\"employee_ssn\": \"997-21-3289\", \"employer_ein\": \"83-4390356\", \"employer_name_address\": \"Warner-Cruz\\n113 Christopher Groves Apt. 242\\nAtkinsonview, WA 53709\", \"employee_first_name\": \"Edward\", \"employee_last_name\": \"Calhoun\", \"employee_address\": \"514 Lauren Falls Suite 140\\nPort Jorgebury, WA 09233\", \"box1_wages\": \"154,288.30\", \"box2_federal_tax\": \"20,409.87\", \"box3_ss_wages\": \"169,055.94\", \"box4_ss_tax\": \"10,481.47\", \"box5_medicare_wages\": \"169,055.94\", \"box6_medicare_tax\": \"2,451.31\", \"box12a_code\": \"D\", \"box12a_amount\": \"14,767.64\", \"box15_state\": \"WA\", \"box16_state_wages\": null, \"box17_state_tax\": null}",
+ "parsed": {
+  "employee_ssn": "997-21-3289",
+  "employer_ein": "83-4390356",
+  "employer_name_address": "Warner-Cruz\n113 Christopher Groves Apt. 242\nAtkinsonview, WA 53709",
+  "employee_first_name": "Edward",
+  "employee_last_name": "Calhoun",
+  "employee_address": "514 Lauren Falls Suite 140\nPort Jorgebury, WA 09233",
+  "box1_wages": "154,288.30",
+  "box2_federal_tax": "20,409.87",
+  "box3_ss_wages": "169,055.94",
+  "box4_ss_tax": "10,481.47",
+  "box5_medicare_wages": "169,055.94",
+  "box6_medicare_tax": "2,451.31",
+  "box12a_code": "D",
+  "box12a_amount": "14,767.64",
+  "box15_state": "WA",
+  "box16_state_wages": null,
+  "box17_state_tax": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 307,
+  "cost": 0.0,
+  "notional_cost": 0.018196,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 4.76,
+ "at": 1790378797.0238411
+}

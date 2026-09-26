@@ -1,0 +1,39 @@
+{
+ "key": "4a088efc1524523739b9ad29d41129feeef1544028d52e982431d5cf945b4ee3",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rcpt_028",
+ "type": "receipts",
+ "text": "```json\n{\n  \"total\": \"426,195\",\n  \"subtotal\": \"369,000\",\n  \"tax\": \"38,745\",\n  \"items\": [\n    {\"name\": \"SAMGYOPSAL\", \"price\": \"194,000\"},\n    {\"name\": \"SUL LUNG TANG\", \"price\": \"75,000\"},\n    {\"name\": \"MAKOLI\", \"price\": \"100,000\"}\n  ]\n}\n```",
+ "parsed": {
+  "total": "426,195",
+  "subtotal": "369,000",
+  "tax": "38,745",
+  "items": [
+   {
+    "name": "SAMGYOPSAL",
+    "price": "194,000"
+   },
+   {
+    "name": "SUL LUNG TANG",
+    "price": "75,000"
+   },
+   {
+    "name": "MAKOLI",
+    "price": "100,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 131,
+  "cost": 0.0,
+  "notional_cost": 0.014446,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.87,
+ "at": 1790378673.8194492
+}

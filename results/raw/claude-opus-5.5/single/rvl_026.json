@@ -1,0 +1,26 @@
+{
+ "key": "dc5029622eed94207138f6ba3e4d2d6c2ff14546cc134fdf3ae32bd5012737ab",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rvl_026",
+ "type": "invoices",
+ "text": "{\"vendor\": \"Adams Letter Co., Inc.\", \"invoice_number\": \"5035\", \"invoice_date\": \"AUGUST 9, 1982\", \"total\": \"1,275.66\"}",
+ "parsed": {
+  "vendor": "Adams Letter Co., Inc.",
+  "invoice_number": "5035",
+  "invoice_date": "AUGUST 9, 1982",
+  "total": "1,275.66"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 65,
+  "cost": 0.0,
+  "notional_cost": 0.014812,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 4.97,
+ "at": 1790378613.5574121
+}

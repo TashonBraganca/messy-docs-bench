@@ -1,0 +1,22 @@
+{
+ "key": "fb6f3916b26ec518f7cb6fc8a0a96252edff76f2b6b8638ac5df5b8dabc6bdf9",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rvl_007",
+ "type": "invoices",
+ "text": "{\"vendor\":\"Branham, Inc.\",\"invoice_number\":\"E800896\",\"invoice_date\":null,\"total\":\"1,345.76\"}",
+ "parsed": {
+  "vendor": "Branham, Inc.",
+  "invoice_number": "E800896",
+  "invoice_date": null,
+  "total": "1,345.76"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1059,
+  "out": 284,
+  "cost": 0.0
+ },
+ "latency_s": 6.81,
+ "at": 1790379177.275336
+}

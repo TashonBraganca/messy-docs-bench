@@ -1,0 +1,47 @@
+{
+ "key": "5ad73be735ed70ba7953520c3557a7b57ed2ce613b058f61669e697dd7f8fd72",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_017",
+ "type": "receipts",
+ "text": "{\"total\":\"Rp. 91,000\",\"subtotal\":\"91,000\",\"tax\":null,\"items\":[{\"name\":\"Goblin's Mace\",\"price\":\"25,000\"},{\"name\":\"Mozarella Hot Dog\",\"price\":\"38,000\"},{\"name\":\"Chili Pepper Croquette\",\"price\":\"14,000\"},{\"name\":\"Cheese Croquette\",\"price\":\"14,000\"},{\"name\":\"Plastik Amook\",\"price\":\"0\"},{\"name\":\"Plastik Putih Take Away\",\"price\":\"0\"}]}",
+ "parsed": {
+  "total": "Rp. 91,000",
+  "subtotal": "91,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Goblin's Mace",
+    "price": "25,000"
+   },
+   {
+    "name": "Mozarella Hot Dog",
+    "price": "38,000"
+   },
+   {
+    "name": "Chili Pepper Croquette",
+    "price": "14,000"
+   },
+   {
+    "name": "Cheese Croquette",
+    "price": "14,000"
+   },
+   {
+    "name": "Plastik Amook",
+    "price": "0"
+   },
+   {
+    "name": "Plastik Putih Take Away",
+    "price": "0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1050,
+  "out": 466,
+  "cost": 0.0
+ },
+ "latency_s": 7.65,
+ "at": 1790379227.524586
+}

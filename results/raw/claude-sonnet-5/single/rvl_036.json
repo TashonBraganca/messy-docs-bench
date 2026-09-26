@@ -1,0 +1,26 @@
+{
+ "key": "806275b4d1aa8870fee5996e34d2243e1df27d240b436b4464ec773d293df7f2",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_036",
+ "type": "invoices",
+ "text": "```json\n{\n  \"vendor\": \"JAMES ROSS LIMITED\",\n  \"invoice_number\": \"8674\",\n  \"invoice_date\": \"Dec 14/90\",\n  \"total\": \"US$273,685.00\"\n}\n```",
+ "parsed": {
+  "vendor": "JAMES ROSS LIMITED",
+  "invoice_number": "8674",
+  "invoice_date": "Dec 14/90",
+  "total": "US$273,685.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 77,
+  "cost": 0.0,
+  "notional_cost": 0.00777,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.87,
+ "at": 1790378611.6347399
+}

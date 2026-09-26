@@ -1,0 +1,35 @@
+{
+ "key": "5211d3503b029724c23d296d9a5b2706637e383bbdd1aed0c8131b187f406d54",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_022",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"961-50-8592\",\"employer_ein\":\"29-8825061\",\"employer_name_address\":\"Newmain-Stephenson\\n383 Susan Squares Suite 903\\nDyerchester, GA 11129\",\"employee_first_name\":\"Jonathan\",\"employee_last_name\":\"Crook\",\"employee_address\":\"70565 Gonzalez Union Suite 813\\nBookport, GA 25920\",\"box1_wages\":\"78,658.37\",\"box2_federal_tax\":\"7,383.72\",\"box3_ss_wages\":\"86,300.85\",\"box4_ss_tax\":\"5,350.65\",\"box5_medicare_wages\":\"86,300.85\",\"box6_medicare_tax\":\"1,251.36\",\"box12a_code\":\"D\",\"box12a_amount\":\"7,642.48\",\"box15_state\":\"GA\",\"box16_state_wages\":\"78,658.37\",\"box17_state_tax\":\"1,871.60\"}",
+ "parsed": {
+  "employee_ssn": "961-50-8592",
+  "employer_ein": "29-8825061",
+  "employer_name_address": "Newmain-Stephenson\n383 Susan Squares Suite 903\nDyerchester, GA 11129",
+  "employee_first_name": "Jonathan",
+  "employee_last_name": "Crook",
+  "employee_address": "70565 Gonzalez Union Suite 813\nBookport, GA 25920",
+  "box1_wages": "78,658.37",
+  "box2_federal_tax": "7,383.72",
+  "box3_ss_wages": "86,300.85",
+  "box4_ss_tax": "5,350.65",
+  "box5_medicare_wages": "86,300.85",
+  "box6_medicare_tax": "1,251.36",
+  "box12a_code": "D",
+  "box12a_amount": "7,642.48",
+  "box15_state": "GA",
+  "box16_state_wages": "78,658.37",
+  "box17_state_tax": "1,871.60"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1243,
+  "out": 404,
+  "cost": 0.0
+ },
+ "latency_s": 6.7,
+ "at": 1790379364.404145
+}

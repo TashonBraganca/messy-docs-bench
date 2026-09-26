@@ -1,0 +1,26 @@
+{
+ "key": "e8b2f9671b02323c6a6f2de21b10fddab77f2dd40aff64182250bb3d6fca1d77",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_027",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"Triple Six Point Enterprise 666\",\n  \"date\": \"22-03-2018\",\n  \"address\": \"No 14&16 Jalan Permas 4/3 Bandar Baru Permas Jaya\",\n  \"total\": \"22.60\"\n}\n```",
+ "parsed": {
+  "company": "Triple Six Point Enterprise 666",
+  "date": "22-03-2018",
+  "address": "No 14&16 Jalan Permas 4/3 Bandar Baru Permas Jaya",
+  "total": "22.60"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 93,
+  "cost": 0.0,
+  "notional_cost": 0.012185999999999999,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.8,
+ "at": 1790378725.749551
+}

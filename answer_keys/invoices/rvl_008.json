@@ -1,0 +1,15 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Creative Communications, spol. s r.o.",
+  "invoice_number": null,
+  "invoice_date": "9.1.1995",
+  "total": "60,000.00"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "invoice_number: 'Faktura c.' box is empty; 'HDC-100' is the order number",
+  "total is in Czech koruna (Kc)"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

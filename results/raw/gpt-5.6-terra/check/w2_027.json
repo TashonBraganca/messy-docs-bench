@@ -1,0 +1,35 @@
+{
+ "key": "bdf713dd16cb300bd4d1c4d157e0b9c941d8c1d7e86f4da731f7ff9510fdb4cd",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "w2_027",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"958-98-3430\",\"employer_ein\":\"87-1543810\",\"employer_name_address\":\"Wright-Sanchez\\n9351 King Gardens\\nLake Lindsley, NJ 56133\",\"employee_first_name\":\"Steven\",\"employee_last_name\":\"Johnson\",\"employee_address\":\"3750 Hall Causeway\\nNew Tresa, NJ 76941\",\"box1_wages\":\"172,014.06\",\"box2_federal_tax\":\"30,363.33\",\"box3_ss_wages\":\"182,758.00\",\"box4_ss_tax\":\"11,331.00\",\"box5_medicare_wages\":\"182,758.00\",\"box6_medicare_tax\":\"2,649.99\",\"box12a_code\":\"D\",\"box12a_amount\":\"10,743.94\",\"box15_state\":\"NJ\",\"box16_state_wages\":\"172,014.06\",\"box17_state_tax\":\"4,402.55\"}",
+ "parsed": {
+  "employee_ssn": "958-98-3430",
+  "employer_ein": "87-1543810",
+  "employer_name_address": "Wright-Sanchez\n9351 King Gardens\nLake Lindsley, NJ 56133",
+  "employee_first_name": "Steven",
+  "employee_last_name": "Johnson",
+  "employee_address": "3750 Hall Causeway\nNew Tresa, NJ 76941",
+  "box1_wages": "172,014.06",
+  "box2_federal_tax": "30,363.33",
+  "box3_ss_wages": "182,758.00",
+  "box4_ss_tax": "11,331.00",
+  "box5_medicare_wages": "182,758.00",
+  "box6_medicare_tax": "2,649.99",
+  "box12a_code": "D",
+  "box12a_amount": "10,743.94",
+  "box15_state": "NJ",
+  "box16_state_wages": "172,014.06",
+  "box17_state_tax": "4,402.55"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1157,
+  "out": 435,
+  "cost": 0.0
+ },
+ "latency_s": 5.76,
+ "at": 1790411246.659752
+}

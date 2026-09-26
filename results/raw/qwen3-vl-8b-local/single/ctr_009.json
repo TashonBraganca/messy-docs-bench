@@ -1,0 +1,24 @@
+{
+ "key": "3411c44ae49caf74f4268f31e8d2f0b966adb7ca3eb7d54e34d1d50bb2af8f7b",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_009",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": null,\n  \"effective_date\": null,\n  \"expiration_date\": \"3 years from the date hereof\",\n  \"governing_law\": \"the laws of the State of New York, without giving effect to its principles of conflicts of laws, other than Section 5-1401 of the New York General Obligations Law\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": null\n}",
+ "parsed": {
+  "agreement_date": null,
+  "effective_date": null,
+  "expiration_date": "3 years from the date hereof",
+  "governing_law": "the laws of the State of New York, without giving effect to its principles of conflicts of laws, other than Section 5-1401 of the New York General Obligations Law",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 5756,
+  "out": 103,
+  "cost": 0.0
+ },
+ "latency_s": 34.74,
+ "at": 1790412494.9242601
+}

@@ -1,0 +1,22 @@
+{
+ "key": "4657efeadfc970cd5a84cf62616eca6a33ccd0bb64b44ea9ab18d2f052c9e09b",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_024",
+ "type": "sroie",
+ "text": "{\n    \"company\": \"TONY ROMA'S AEON TEBRAU CITY\",\n    \"date\": \"03 Mar 19\",\n    \"address\": \"LOT G112, AEON MALL TEBRAU CITY NO 1 JALAN DESA TEBRAU 81100 JOHOR BAHRU\",\n    \"total\": \"269.40\"\n}",
+ "parsed": {
+  "company": "TONY ROMA'S AEON TEBRAU CITY",
+  "date": "03 Mar 19",
+  "address": "LOT G112, AEON MALL TEBRAU CITY NO 1 JALAN DESA TEBRAU 81100 JOHOR BAHRU",
+  "total": "269.40"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1763,
+  "out": 90,
+  "cost": 0.0
+ },
+ "latency_s": 15.79,
+ "at": 1790413830.4775639
+}

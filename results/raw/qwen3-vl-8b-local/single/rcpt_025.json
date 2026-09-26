@@ -1,0 +1,35 @@
+{
+ "key": "26a1ad528844ba99def5d72f28246654e69a3195767b4ffb307cec27244ace84",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_025",
+ "type": "receipts",
+ "text": "{\n  \"total\": \"43,000\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"items\": [\n    {\n      \"name\": \"1 TWIST STRAWBERRY DONUT\",\n      \"price\": \"10,000\"\n    },\n    {\n      \"name\": \"1 TLJ CROQUETTE\",\n      \"price\": \"17,000\"\n    },\n    {\n      \"name\": \"1 POTATO PEPPER BAGEL\",\n      \"price\": \"16,000\"\n    }\n  ]\n}",
+ "parsed": {
+  "total": "43,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "1 TWIST STRAWBERRY DONUT",
+    "price": "10,000"
+   },
+   {
+    "name": "1 TLJ CROQUETTE",
+    "price": "17,000"
+   },
+   {
+    "name": "1 POTATO PEPPER BAGEL",
+    "price": "16,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 125,
+  "cost": 0.0
+ },
+ "latency_s": 14.49,
+ "at": 1790413315.929893
+}

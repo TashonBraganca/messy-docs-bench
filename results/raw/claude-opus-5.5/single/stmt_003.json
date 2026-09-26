@@ -1,0 +1,111 @@
+{
+ "key": "3fbb4a9b434208d44a12091e5e821b6d2509a541c58473fc10137b6bcf5469c8",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "stmt_003",
+ "type": "statements",
+ "text": "{\"header\": {\"bank_name\": \"Metropolitan Bank\", \"account_holder\": \"LOAN FINANCE CORP\", \"account_number\": \"85630361321\", \"ifsc_code\": \"METR0481887\", \"opening_balance\": 649036.11, \"start_date\": \"2024-01-01\", \"end_date\": \"2024-03-31\"}, \"transactions\": [{\"date\": \"2024-01-01\", \"debit\": null, \"credit\": 165870.21, \"balance\": 814906.32}, {\"date\": \"2024-01-01\", \"debit\": 12809.73, \"credit\": null, \"balance\": 802096.59}, {\"date\": \"2024-01-02\", \"debit\": null, \"credit\": 565068.86, \"balance\": 1367165.45}, {\"date\": \"2024-01-03\", \"debit\": null, \"credit\": 15428.01, \"balance\": 1382593.46}, {\"date\": \"2024-01-04\", \"debit\": null, \"credit\": 126384.01, \"balance\": 1508977.47}, {\"date\": \"2024-01-04\", \"debit\": 169940.83, \"credit\": null, \"balance\": 1339036.64}, {\"date\": \"2024-01-04\", \"debit\": null, \"credit\": 128549.17, \"balance\": 1467585.81}, {\"date\": \"2024-01-05\", \"debit\": 524351.15, \"credit\": null, \"balance\": 943234.66}, {\"date\": \"2024-01-05\", \"debit\": 453730.21, \"credit\": null, \"balance\": 489504.45}, {\"date\": \"2024-01-06\", \"debit\": null, \"credit\": 265182.35, \"balance\": 754686.80}, {\"date\": \"2024-01-08\", \"debit\": null, \"credit\": 8626.01, \"balance\": 763312.81}, {\"date\": \"2024-01-08\", \"debit\": null, \"credit\": 52041.58, \"balance\": 815354.39}, {\"date\": \"2024-01-08\", \"debit\": 11303.52, \"credit\": null, \"balance\": 804050.87}]}",
+ "parsed": {
+  "header": {
+   "bank_name": "Metropolitan Bank",
+   "account_holder": "LOAN FINANCE CORP",
+   "account_number": "85630361321",
+   "ifsc_code": "METR0481887",
+   "opening_balance": 649036.11,
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 165870.21,
+    "balance": 814906.32
+   },
+   {
+    "date": "2024-01-01",
+    "debit": 12809.73,
+    "credit": null,
+    "balance": 802096.59
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 565068.86,
+    "balance": 1367165.45
+   },
+   {
+    "date": "2024-01-03",
+    "debit": null,
+    "credit": 15428.01,
+    "balance": 1382593.46
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 126384.01,
+    "balance": 1508977.47
+   },
+   {
+    "date": "2024-01-04",
+    "debit": 169940.83,
+    "credit": null,
+    "balance": 1339036.64
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 128549.17,
+    "balance": 1467585.81
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 524351.15,
+    "credit": null,
+    "balance": 943234.66
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 453730.21,
+    "credit": null,
+    "balance": 489504.45
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 265182.35,
+    "balance": 754686.8
+   },
+   {
+    "date": "2024-01-08",
+    "debit": null,
+    "credit": 8626.01,
+    "balance": 763312.81
+   },
+   {
+    "date": "2024-01-08",
+    "debit": null,
+    "credit": 52041.58,
+    "balance": 815354.39
+   },
+   {
+    "date": "2024-01-08",
+    "debit": 11303.52,
+    "credit": null,
+    "balance": 804050.87
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 630,
+  "cost": 0.0,
+  "notional_cost": 0.0482,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 7.45,
+ "at": 1790378761.2054331
+}

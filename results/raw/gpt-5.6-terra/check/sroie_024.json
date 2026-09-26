@@ -1,0 +1,22 @@
+{
+ "key": "fe0016a5ae13f78848830d43662c932d3eb6ff78fcd267f603bb120ab2300858",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "sroie_024",
+ "type": "sroie",
+ "text": "{\"company\":\"RESTAURANT TONY'S AEON TEBRAU CITY\",\"date\":\"03 Mar 19\",\"address\":\"LOT G 12, AEON MALL TEBRAU CITY NO 1 JALAN DESA TEBRAU 81100 JOHOR BAHRU\",\"total\":\"269.40\"}",
+ "parsed": {
+  "company": "RESTAURANT TONY'S AEON TEBRAU CITY",
+  "date": "03 Mar 19",
+  "address": "LOT G 12, AEON MALL TEBRAU CITY NO 1 JALAN DESA TEBRAU 81100 JOHOR BAHRU",
+  "total": "269.40"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1234,
+  "out": 214,
+  "cost": 0.0
+ },
+ "latency_s": 5.63,
+ "at": 1790411143.0425248
+}

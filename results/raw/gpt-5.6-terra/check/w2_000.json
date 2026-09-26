@@ -1,0 +1,35 @@
+{
+ "key": "742b179ec2eef80be030d92b9c72349d516ea4dffa93da728e4be214a2354980",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "w2_000",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"906-19-9779\",\"employer_ein\":\"22-7135241\",\"employer_name_address\":\"Gould-Foster\\n81590 Benjamin Mews\\nJonesland, TX 72727\",\"employee_first_name\":\"Roger\",\"employee_last_name\":\"Serrano\",\"employee_address\":\"90996 Theresa Cape\\nWest Robert, TX 71369\",\"box1_wages\":\"91,396.33\",\"box2_federal_tax\":\"16,695.30\",\"box3_ss_wages\":\"96,367.53\",\"box4_ss_tax\":\"5,974.79\",\"box5_medicare_wages\":\"96,367.53\",\"box6_medicare_tax\":\"1,397.33\",\"box12a_code\":\"D\",\"box12a_amount\":\"4,971.20\",\"box15_state\":\"TX\",\"box16_state_wages\":null,\"box17_state_tax\":null}",
+ "parsed": {
+  "employee_ssn": "906-19-9779",
+  "employer_ein": "22-7135241",
+  "employer_name_address": "Gould-Foster\n81590 Benjamin Mews\nJonesland, TX 72727",
+  "employee_first_name": "Roger",
+  "employee_last_name": "Serrano",
+  "employee_address": "90996 Theresa Cape\nWest Robert, TX 71369",
+  "box1_wages": "91,396.33",
+  "box2_federal_tax": "16,695.30",
+  "box3_ss_wages": "96,367.53",
+  "box4_ss_tax": "5,974.79",
+  "box5_medicare_wages": "96,367.53",
+  "box6_medicare_tax": "1,397.33",
+  "box12a_code": "D",
+  "box12a_amount": "4,971.20",
+  "box15_state": "TX",
+  "box16_state_wages": null,
+  "box17_state_tax": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1549,
+  "out": 257,
+  "cost": 0.0
+ },
+ "latency_s": 5.03,
+ "at": 1790411187.483574
+}

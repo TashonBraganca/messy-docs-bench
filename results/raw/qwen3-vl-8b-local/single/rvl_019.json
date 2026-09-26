@@ -1,0 +1,22 @@
+{
+ "key": "03477b283b34f517334a4c49e6ef2676fbda27da5bcb5f5d23eb52b4546caa44",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_019",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"RESEARCH TRIANGLE INSTITUTE\",\n  \"invoice_number\": \"31T 2552-11A\",\n  \"invoice_date\": \"December 30, 1983\",\n  \"total\": \"$7,753.68\"\n}",
+ "parsed": {
+  "vendor": "RESEARCH TRIANGLE INSTITUTE",
+  "invoice_number": "31T 2552-11A",
+  "invoice_date": "December 30, 1983",
+  "total": "$7,753.68"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 65,
+  "cost": 0.0
+ },
+ "latency_s": 10.55,
+ "at": 1790412766.829907
+}

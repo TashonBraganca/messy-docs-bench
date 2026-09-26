@@ -1,0 +1,39 @@
+{
+ "key": "292b5ba356582a2fde7b3bf8418d3281642e895fb864ab1aedf1ffaa882619a0",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "w2_015",
+ "type": "w2",
+ "text": "```json\n{\n  \"employee_ssn\": \"046-62-5028\",\n  \"employer_ein\": \"85-7379223\",\n  \"employer_name_address\": \"Ramsey-Day\\n868 Renee Terrace\\nPort Glendabury, IL 11654\",\n  \"employee_first_name\": \"Anthony\",\n  \"employee_last_name\": \"Anderson\",\n  \"employee_address\": \"67800 Tracy Alley Suite 188\\nLake Aliciafort, IL 33556\",\n  \"box1_wages\": \"61,194.81\",\n  \"box2_federal_tax\": \"10,290.10\",\n  \"box3_ss_wages\": \"63,153.87\",\n  \"box4_ss_tax\": \"3,915.54\",\n  \"box5_medicare_wages\": \"63,153.87\",\n  \"box6_medicare_tax\": \"915.73\",\n  \"box12a_code\": \"D\",\n  \"box12a_amount\": \"1,959.06\",\n  \"box15_state\": \"IL\",\n  \"box16_state_wages\": \"61,194.81\",\n  \"box17_state_tax\": \"1,957.33\"\n}\n```",
+ "parsed": {
+  "employee_ssn": "046-62-5028",
+  "employer_ein": "85-7379223",
+  "employer_name_address": "Ramsey-Day\n868 Renee Terrace\nPort Glendabury, IL 11654",
+  "employee_first_name": "Anthony",
+  "employee_last_name": "Anderson",
+  "employee_address": "67800 Tracy Alley Suite 188\nLake Aliciafort, IL 33556",
+  "box1_wages": "61,194.81",
+  "box2_federal_tax": "10,290.10",
+  "box3_ss_wages": "63,153.87",
+  "box4_ss_tax": "3,915.54",
+  "box5_medicare_wages": "63,153.87",
+  "box6_medicare_tax": "915.73",
+  "box12a_code": "D",
+  "box12a_amount": "1,959.06",
+  "box15_state": "IL",
+  "box16_state_wages": "61,194.81",
+  "box17_state_tax": "1,957.33"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 351,
+  "cost": 0.0,
+  "notional_cost": 0.009782,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.91,
+ "at": 1790378788.226913
+}

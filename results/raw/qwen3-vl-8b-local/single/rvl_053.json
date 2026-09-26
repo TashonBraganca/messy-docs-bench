@@ -1,0 +1,22 @@
+{
+ "key": "558ab5ee6e3608dba814d6b2f6380eff3f67caf414e1d7f22024f45be2f31b69",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_053",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"Newsday\",\n  \"invoice_number\": \"6166-501535-5-03\",\n  \"invoice_date\": \"11-13-88\",\n  \"total\": \"7,558.00\"\n}",
+ "parsed": {
+  "vendor": "Newsday",
+  "invoice_number": "6166-501535-5-03",
+  "invoice_date": "11-13-88",
+  "total": "7,558.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 63,
+  "cost": 0.0
+ },
+ "latency_s": 10.18,
+ "at": 1790412857.371327
+}

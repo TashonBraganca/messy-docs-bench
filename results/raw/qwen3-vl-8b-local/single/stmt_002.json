@@ -1,0 +1,107 @@
+{
+ "key": "b514361abad5598389ea9c9183e919d2b5b9d1966a37c9971d6c38b86b21cc6b",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "stmt_002",
+ "type": "statements",
+ "text": "{\n  \"header\": {\n    \"bank_name\": \"Velocity Banking Corporation\",\n    \"account_holder\": \"HEALTHPLUS PHARMA LTD\",\n    \"account_number\": \"83981788719\",\n    \"ifsc_code\": \"VELO0218697\",\n    \"opening_balance\": \"201049.75\",\n    \"start_date\": \"2024-01-01\",\n    \"end_date\": \"2024-03-31\"\n  },\n  \"transactions\": [\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": null,\n      \"credit\": 247043.19,\n      \"balance\": 448092.94\n    },\n    {\n      \"date\": \"2024-01-02\",\n      \"debit\": null,\n      \"credit\": 134742.38,\n      \"balance\": 582835.32\n    },\n    {\n      \"date\": \"2024-01-02\",\n      \"debit\": null,\n      \"credit\": 73964.13,\n      \"balance\": 656799.45\n    },\n    {\n      \"date\": \"2024-01-03\",\n      \"debit\": 44306.53,\n      \"credit\": null,\n      \"balance\": 612492.92\n    },\n    {\n      \"date\": \"2024-01-05\",\n      \"debit\": 11329.42,\n      \"credit\": null,\n      \"balance\": 601163.5\n    },\n    {\n      \"date\": \"2024-01-05\",\n      \"debit\": 8873.1,\n      \"credit\": null,\n      \"balance\": 592290.4\n    },\n    {\n      \"date\": \"2024-01-09\",\n      \"debit\": null,\n      \"credit\": 3706.78,\n      \"balance\": 595997.18\n    },\n    {\n      \"date\": \"2024-01-09\",\n      \"debit\": null,\n      \"credit\": 769482.01,\n      \"balance\": 1365479.19\n    },\n    {\n      \"date\": \"2024-01-10\",\n      \"debit\": 453459.01,\n      \"credit\": null,\n      \"balance\": 912020.18\n    },\n    {\n      \"date\": \"2024-01-12\",\n      \"debit\": 17304.4,\n      \"credit\": null,\n      \"balance\": 894715.78\n    },\n    {\n      \"date\": \"2024-01-12\",\n      \"debit\": 63241.15,\n      \"credit\": null,\n      \"balance\": 831474.63\n    },\n    {\n      \"date\": \"2024-01-12\",\n      \"debit\": 19960.56,\n      \"credit\": null,\n      \"balance\": 811514.07\n    },\n    {\n      \"date\": \"2024-01-13\",\n      \"debit\": 30427.64,\n      \"credit\": null,\n      \"balance\": 781086.43\n    }\n  ]\n}",
+ "parsed": {
+  "header": {
+   "bank_name": "Velocity Banking Corporation",
+   "account_holder": "HEALTHPLUS PHARMA LTD",
+   "account_number": "83981788719",
+   "ifsc_code": "VELO0218697",
+   "opening_balance": "201049.75",
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 247043.19,
+    "balance": 448092.94
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 134742.38,
+    "balance": 582835.32
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 73964.13,
+    "balance": 656799.45
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 44306.53,
+    "credit": null,
+    "balance": 612492.92
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 11329.42,
+    "credit": null,
+    "balance": 601163.5
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 8873.1,
+    "credit": null,
+    "balance": 592290.4
+   },
+   {
+    "date": "2024-01-09",
+    "debit": null,
+    "credit": 3706.78,
+    "balance": 595997.18
+   },
+   {
+    "date": "2024-01-09",
+    "debit": null,
+    "credit": 769482.01,
+    "balance": 1365479.19
+   },
+   {
+    "date": "2024-01-10",
+    "debit": 453459.01,
+    "credit": null,
+    "balance": 912020.18
+   },
+   {
+    "date": "2024-01-12",
+    "debit": 17304.4,
+    "credit": null,
+    "balance": 894715.78
+   },
+   {
+    "date": "2024-01-12",
+    "debit": 63241.15,
+    "credit": null,
+    "balance": 831474.63
+   },
+   {
+    "date": "2024-01-12",
+    "debit": 19960.56,
+    "credit": null,
+    "balance": 811514.07
+   },
+   {
+    "date": "2024-01-13",
+    "debit": 30427.64,
+    "credit": null,
+    "balance": 781086.43
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4182,
+  "out": 839,
+  "cost": 0.0
+ },
+ "latency_s": 85.36,
+ "at": 1790414477.3877602
+}

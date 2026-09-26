@@ -1,0 +1,35 @@
+{
+ "key": "be95a8774dfdb27bd11938ae8fc5244251e8cad86746350742565fc747536e2b",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_019",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"959-10-7671\",\"employer_ein\":\"96-7398490\",\"employer_name_address\":\"Goodwin, Newman and Mitchell\\n227 Cooper Hills\\nQuarryview, GA 53743\",\"employee_first_name\":\"Diana\",\"employee_last_name\":\"Turner\",\"employee_address\":\"22138 Pierce Mission Suite 762\\nEast Chester, GA 45321\",\"box1_wages\":\"127,491.40\",\"box2_federal_tax\":\"31,512.52\",\"box3_ss_wages\":\"141,119.44\",\"box4_ss_tax\":\"8,349.41\",\"box5_medicare_wages\":\"141,119.44\",\"box6_medicare_tax\":\"2,046.23\",\"box12a_code\":\"D\",\"box12a_amount\":\"13,628.04\",\"box15_state\":\"GA\",\"box16_state_wages\":\"127,491.40\",\"box17_state_tax\":\"6,185.59\"}",
+ "parsed": {
+  "employee_ssn": "959-10-7671",
+  "employer_ein": "96-7398490",
+  "employer_name_address": "Goodwin, Newman and Mitchell\n227 Cooper Hills\nQuarryview, GA 53743",
+  "employee_first_name": "Diana",
+  "employee_last_name": "Turner",
+  "employee_address": "22138 Pierce Mission Suite 762\nEast Chester, GA 45321",
+  "box1_wages": "127,491.40",
+  "box2_federal_tax": "31,512.52",
+  "box3_ss_wages": "141,119.44",
+  "box4_ss_tax": "8,349.41",
+  "box5_medicare_wages": "141,119.44",
+  "box6_medicare_tax": "2,046.23",
+  "box12a_code": "D",
+  "box12a_amount": "13,628.04",
+  "box15_state": "GA",
+  "box16_state_wages": "127,491.40",
+  "box17_state_tax": "6,185.59"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 868,
+  "out": 615,
+  "cost": 0.0
+ },
+ "latency_s": 7.53,
+ "at": 1790379359.536035
+}

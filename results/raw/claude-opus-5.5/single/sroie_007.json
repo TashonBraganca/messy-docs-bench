@@ -1,0 +1,26 @@
+{
+ "key": "ac43514470b7db706df5ad8240abfd2e4156e6bbad0fc8508569249a875c7e32",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "sroie_007",
+ "type": "sroie",
+ "text": "{\"company\": \"CROSS CHANNEL NETWORK SDN. BHD.\", \"date\": \"31/12/2017\", \"address\": \"47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR.\", \"total\": \"7.95\"}",
+ "parsed": {
+  "company": "CROSS CHANNEL NETWORK SDN. BHD.",
+  "date": "31/12/2017",
+  "address": "47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR.",
+  "total": "7.95"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 114,
+  "cost": 0.0,
+  "notional_cost": 0.013464,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.28,
+ "at": 1790378706.25542
+}

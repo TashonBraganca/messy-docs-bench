@@ -1,0 +1,39 @@
+{
+ "key": "234c10a3c36fa7137016589b3b5035b306e0579082874147a647e932d76cb8ba",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "w2_004",
+ "type": "w2",
+ "text": "{\"employee_ssn\": \"931-57-7024\", \"employer_ein\": \"90-1395392\", \"employer_name_address\": \"Nichols-Bishop\\n89078 Sanders Lock Apt. 760\\nNorth Tracey, NY 58254\", \"employee_first_name\": \"Francis\", \"employee_last_name\": \"Peterson\", \"employee_address\": \"09281 Austin Cliffs\\nNew Nicholas, NY 83654\", \"box1_wages\": \"61,390.16\", \"box2_federal_tax\": \"5,708.43\", \"box3_ss_wages\": \"66,829.37\", \"box4_ss_tax\": \"4,143.42\", \"box5_medicare_wages\": \"66,829.37\", \"box6_medicare_tax\": \"969.03\", \"box12a_code\": \"D\", \"box12a_amount\": \"5,439.21\", \"box15_state\": \"NY\", \"box16_state_wages\": \"61,390.16\", \"box17_state_tax\": \"3,482.06\"}",
+ "parsed": {
+  "employee_ssn": "931-57-7024",
+  "employer_ein": "90-1395392",
+  "employer_name_address": "Nichols-Bishop\n89078 Sanders Lock Apt. 760\nNorth Tracey, NY 58254",
+  "employee_first_name": "Francis",
+  "employee_last_name": "Peterson",
+  "employee_address": "09281 Austin Cliffs\nNew Nicholas, NY 83654",
+  "box1_wages": "61,390.16",
+  "box2_federal_tax": "5,708.43",
+  "box3_ss_wages": "66,829.37",
+  "box4_ss_tax": "4,143.42",
+  "box5_medicare_wages": "66,829.37",
+  "box6_medicare_tax": "969.03",
+  "box12a_code": "D",
+  "box12a_amount": "5,439.21",
+  "box15_state": "NY",
+  "box16_state_wages": "61,390.16",
+  "box17_state_tax": "3,482.06"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 313,
+  "cost": 0.0,
+  "notional_cost": 0.0231,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 4.98,
+ "at": 1790378785.554825
+}

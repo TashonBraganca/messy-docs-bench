@@ -1,0 +1,24 @@
+{
+ "key": "55c5b18a983df0524993817b5d0a9f071399650d87acad016d49738d39b6c049",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_005",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"May 25, 1999\",\n  \"effective_date\": \"May 25, 1999\",\n  \"expiration_date\": null,\n  \"governing_law\": \"State of Nevada\",\n  \"renewal_term\": \"1 year\",\n  \"notice_period_to_terminate_renewal\": \"120 days\"\n}",
+ "parsed": {
+  "agreement_date": "May 25, 1999",
+  "effective_date": "May 25, 1999",
+  "expiration_date": null,
+  "governing_law": "State of Nevada",
+  "renewal_term": "1 year",
+  "notice_period_to_terminate_renewal": "120 days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4578,
+  "out": 86,
+  "cost": 0.0
+ },
+ "latency_s": 28.05,
+ "at": 1790412312.511883
+}

@@ -1,0 +1,14 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": null,
+  "subtotal": "36000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Bumbu Kaldu Ayam 1",
+    "price": "36000"
+   }
+  ]
+ }
+}

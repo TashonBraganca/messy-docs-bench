@@ -1,0 +1,47 @@
+{
+ "key": "48489ca1093b5b9c6dfb42823cf53ac6518b67164cc0c383f311074bb9c57146",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_014",
+ "type": "receipts",
+ "text": "{\n  \"total\": \"281,435\",\n  \"subtotal\": \"238,000\",\n  \"tax\": null,\n  \"items\": [\n    {\n      \"name\": \"1 RedVelvet Cheese Slc\",\n      \"price\": \"38,000\"\n    },\n    {\n      \"name\": \"1 Chicken Baked Rice\",\n      \"price\": \"55,000\"\n    },\n    {\n      \"name\": \"1 Fish n Chips\",\n      \"price\": \"65,000\"\n    },\n    {\n      \"name\": \"1 Mushroom Soup\",\n      \"price\": \"35,000\"\n    },\n    {\n      \"name\": \"1 Chamomile\",\n      \"price\": \"25,000\"\n    },\n    {\n      \"name\": \"1 Iced Tea\",\n      \"price\": \"20,000\"\n    }\n  ]\n}",
+ "parsed": {
+  "total": "281,435",
+  "subtotal": "238,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "1 RedVelvet Cheese Slc",
+    "price": "38,000"
+   },
+   {
+    "name": "1 Chicken Baked Rice",
+    "price": "55,000"
+   },
+   {
+    "name": "1 Fish n Chips",
+    "price": "65,000"
+   },
+   {
+    "name": "1 Mushroom Soup",
+    "price": "35,000"
+   },
+   {
+    "name": "1 Chamomile",
+    "price": "25,000"
+   },
+   {
+    "name": "1 Iced Tea",
+    "price": "20,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4215,
+  "out": 201,
+  "cost": 0.0
+ },
+ "latency_s": 58.81,
+ "at": 1790413146.2227252
+}

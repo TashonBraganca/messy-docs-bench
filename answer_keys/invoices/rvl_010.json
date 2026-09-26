@@ -1,0 +1,15 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Authenticolor Inc.",
+  "invoice_number": "50285",
+  "invoice_date": "07/27/87",
+  "total": "521.04"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "invoice_number: printed digit faint, handwritten '50285' nearby",
+  "total: last digit faint; 501.00 + 20.04 = 521.04"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

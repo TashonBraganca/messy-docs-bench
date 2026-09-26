@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 0.3,
+ "truth": {
+  "employee_ssn": "906-19-9779",
+  "employer_ein": "22-7135241",
+  "employer_name_address": "Gould-Foster\n81590 Benjamin Mews\nJonesland, TX 72727",
+  "employee_first_name": "Roger",
+  "employee_last_name": "Serrano",
+  "employee_address": "90996 Theresa Cape\nWest Robert, TX 71369",
+  "box1_wages": "91,396.33",
+  "box2_federal_tax": "16,695.30",
+  "box3_ss_wages": "96,367.53",
+  "box4_ss_tax": "5,974.79",
+  "box5_medicare_wages": "96,367.53",
+  "box6_medicare_tax": "1,397.33",
+  "box12a_code": "D",
+  "box12a_amount": "4,971.20",
+  "box15_state": "TX",
+  "box16_state_wages": "",
+  "box17_state_tax": ""
+ }
+}

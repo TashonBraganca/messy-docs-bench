@@ -1,0 +1,26 @@
+{
+ "key": "8cd7b31151e24869c5351c1fe8a55f1e6866214ac507c75b9668dc44be920a57",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_029",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"UNIHAKKA INTERNATIONAL SDN BHD\",\n  \"date\": \"20 Mar 2018 17:55\",\n  \"address\": \"12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor\",\n  \"total\": \"6.60\"\n}\n```",
+ "parsed": {
+  "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "20 Mar 2018 17:55",
+  "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",
+  "total": "6.60"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 123,
+  "cost": 0.0,
+  "notional_cost": 0.012482,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.24,
+ "at": 1790378728.2303329
+}

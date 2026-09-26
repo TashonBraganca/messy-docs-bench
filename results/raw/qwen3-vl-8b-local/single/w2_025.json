@@ -1,0 +1,35 @@
+{
+ "key": "5164dd41056cae645785252d46488b7f0a05358093e70faae7f4faa4005113fa",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "w2_025",
+ "type": "w2",
+ "text": "{\n    \"employee_ssn\": \"913-91-8875\",\n    \"employer_ein\": \"62-8358509\",\n    \"employer_name_address\": \"Lee-Brown\\n4590 Francis Spurs Suite 440.\\nNorth Margaretville, NJ 62784\",\n    \"employee_first_name\": \"Jennifer\",\n    \"employee_last_name\": \"Owens\",\n    \"employee_address\": \"6727 Alan Streets Suite 293\\nMichellemouth, NJ 47930\",\n    \"box1_wages\": \"106,450.60\",\n    \"box2_federal_tax\": \"17,573.49\",\n    \"box3_ss_wages\": \"109,505.05\",\n    \"box4_ss_tax\": \"6,789.31\",\n    \"box5_medicare_wages\": \"109,505.05\",\n    \"box6_medicare_tax\": \"1,587.82\",\n    \"box12a_code\": \"D\",\n    \"box12a_amount\": \"3,054.45\",\n    \"box15_state\": \"NJ\",\n    \"box16_state_wages\": \"106,450.60\",\n    \"box17_state_tax\": \"5,679.02\"\n}",
+ "parsed": {
+  "employee_ssn": "913-91-8875",
+  "employer_ein": "62-8358509",
+  "employer_name_address": "Lee-Brown\n4590 Francis Spurs Suite 440.\nNorth Margaretville, NJ 62784",
+  "employee_first_name": "Jennifer",
+  "employee_last_name": "Owens",
+  "employee_address": "6727 Alan Streets Suite 293\nMichellemouth, NJ 47930",
+  "box1_wages": "106,450.60",
+  "box2_federal_tax": "17,573.49",
+  "box3_ss_wages": "109,505.05",
+  "box4_ss_tax": "6,789.31",
+  "box5_medicare_wages": "109,505.05",
+  "box6_medicare_tax": "1,587.82",
+  "box12a_code": "D",
+  "box12a_amount": "3,054.45",
+  "box15_state": "NJ",
+  "box16_state_wages": "106,450.60",
+  "box17_state_tax": "5,679.02"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1325,
+  "out": 321,
+  "cost": 0.0
+ },
+ "latency_s": 37.61,
+ "at": 1790416284.775712
+}

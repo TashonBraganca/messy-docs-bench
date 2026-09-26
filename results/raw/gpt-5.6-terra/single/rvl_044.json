@@ -1,0 +1,22 @@
+{
+ "key": "c18ee0e6835f2cd8c1df0e5d3bb54d909fa520e26977c1ecce012d9348dd2f74",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rvl_044",
+ "type": "invoices",
+ "text": "{\"vendor\":\"HAZLETON LABORATORIES AMERICA, INC.\",\"invoice_number\":\"CR600S\",\"invoice_date\":\"December 2, 1985\",\"total\":\"$11,280.00\"}",
+ "parsed": {
+  "vendor": "HAZLETON LABORATORIES AMERICA, INC.",
+  "invoice_number": "CR600S",
+  "invoice_date": "December 2, 1985",
+  "total": "$11,280.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1088,
+  "out": 319,
+  "cost": 0.0
+ },
+ "latency_s": 6.11,
+ "at": 1790379192.824459
+}

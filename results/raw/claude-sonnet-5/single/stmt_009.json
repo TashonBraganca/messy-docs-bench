@@ -1,0 +1,135 @@
+{
+ "key": "5352eb26b56013b6429211789758ecdaa42ef269019b60be5613b08b566afd2a",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "stmt_009",
+ "type": "statements",
+ "text": "```json\n{\n  \"header\": {\n    \"bank_name\": \"UNITY NATIONAL BANK\",\n    \"account_holder\": \"RETAIL SOLUTIONS INDIA\",\n    \"account_number\": \"10808517005\",\n    \"ifsc_code\": \"UNIT0160226\",\n    \"opening_balance\": 3348842.80,\n    \"start_date\": \"2024-01-01\",\n    \"end_date\": \"2024-03-31\"\n  },\n  \"transactions\": [\n    {\"date\": \"2024-01-01\", \"debit\": null, \"credit\": 296023.14, \"balance\": 3644865.94},\n    {\"date\": \"2024-01-01\", \"debit\": 148571.53, \"credit\": null, \"balance\": 3496294.41},\n    {\"date\": \"2024-01-01\", \"debit\": null, \"credit\": 546926.67, \"balance\": 4043221.08},\n    {\"date\": \"2024-01-01\", \"debit\": null, \"credit\": 5595283.82, \"balance\": 9638504.90},\n    {\"date\": \"2024-01-02\", \"debit\": null, \"credit\": 3887954.03, \"balance\": 13526458.93},\n    {\"date\": \"2024-01-02\", \"debit\": 2887048.32, \"credit\": null, \"balance\": 10639410.61},\n    {\"date\": \"2024-01-03\", \"debit\": 3886009.12, \"credit\": null, \"balance\": 6753401.49},\n    {\"date\": \"2024-01-03\", \"debit\": 1861869.26, \"credit\": null, \"balance\": 4891532.23},\n    {\"date\": \"2024-01-03\", \"debit\": null, \"credit\": 5120181.45, \"balance\": 10011713.68},\n    {\"date\": \"2024-01-03\", \"debit\": 1070784.33, \"credit\": null, \"balance\": 8940929.35},\n    {\"date\": \"2024-01-04\", \"debit\": null, \"credit\": 242968.78, \"balance\": 9183898.13},\n    {\"date\": \"2024-01-06\", \"debit\": 2456828.87, \"credit\": null, \"balance\": 6727069.26},\n    {\"date\": \"2024-01-06\", \"debit\": 3333221.96, \"credit\": null, \"balance\": 3393847.30},\n    {\"date\": \"2024-01-06\", \"debit\": null, \"credit\": 476937.28, \"balance\": 3870784.58},\n    {\"date\": \"2024-01-08\", \"debit\": null, \"credit\": 1884894.63, \"balance\": 5755679.21},\n    {\"date\": \"2024-01-08\", \"debit\": 1631716.50, \"credit\": null, \"balance\": 4123962.71},\n    {\"date\": \"2024-01-08\", \"debit\": null, \"credit\": 1128969.46, \"balance\": 5252932.17}\n  ]\n}\n```",
+ "parsed": {
+  "header": {
+   "bank_name": "UNITY NATIONAL BANK",
+   "account_holder": "RETAIL SOLUTIONS INDIA",
+   "account_number": "10808517005",
+   "ifsc_code": "UNIT0160226",
+   "opening_balance": 3348842.8,
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 296023.14,
+    "balance": 3644865.94
+   },
+   {
+    "date": "2024-01-01",
+    "debit": 148571.53,
+    "credit": null,
+    "balance": 3496294.41
+   },
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 546926.67,
+    "balance": 4043221.08
+   },
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 5595283.82,
+    "balance": 9638504.9
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 3887954.03,
+    "balance": 13526458.93
+   },
+   {
+    "date": "2024-01-02",
+    "debit": 2887048.32,
+    "credit": null,
+    "balance": 10639410.61
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 3886009.12,
+    "credit": null,
+    "balance": 6753401.49
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 1861869.26,
+    "credit": null,
+    "balance": 4891532.23
+   },
+   {
+    "date": "2024-01-03",
+    "debit": null,
+    "credit": 5120181.45,
+    "balance": 10011713.68
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 1070784.33,
+    "credit": null,
+    "balance": 8940929.35
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 242968.78,
+    "balance": 9183898.13
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 2456828.87,
+    "credit": null,
+    "balance": 6727069.26
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 3333221.96,
+    "credit": null,
+    "balance": 3393847.3
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 476937.28,
+    "balance": 3870784.58
+   },
+   {
+    "date": "2024-01-08",
+    "debit": null,
+    "credit": 1884894.63,
+    "balance": 5755679.21
+   },
+   {
+    "date": "2024-01-08",
+    "debit": 1631716.5,
+    "credit": null,
+    "balance": 4123962.71
+   },
+   {
+    "date": "2024-01-08",
+    "debit": null,
+    "credit": 1128969.46,
+    "balance": 5252932.17
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 880,
+  "cost": 0.0,
+  "notional_cost": 0.026855999999999998,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 9.65,
+ "at": 1790378761.949018
+}

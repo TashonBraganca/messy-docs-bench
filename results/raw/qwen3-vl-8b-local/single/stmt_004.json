@@ -1,0 +1,107 @@
+{
+ "key": "d401582e490a886298d9d1619708ee0ac7f3c7c959449c1687d10bad57fea0d2",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "stmt_004",
+ "type": "statements",
+ "text": "{\n  \"header\": {\n    \"bank_name\": \"IndusBank Limited\",\n    \"account_holder\": \"WELLNESS BRANDS INDIA\",\n    \"account_number\": \"60273451072\",\n    \"ifsc_code\": \"INDU0920381\",\n    \"opening_balance\": \"683025.55\",\n    \"start_date\": \"2024-01-01\",\n    \"end_date\": \"2024-03-31\"\n  },\n  \"transactions\": [\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": null,\n      \"credit\": 92266.72,\n      \"balance\": 775292.27\n    },\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": null,\n      \"credit\": 3160.61,\n      \"balance\": 778452.88\n    },\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": null,\n      \"credit\": 115472.52,\n      \"balance\": 893925.4\n    },\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": 142414.11,\n      \"credit\": null,\n      \"balance\": 751511.29\n    },\n    {\n      \"date\": \"2024-02-01\",\n      \"debit\": null,\n      \"credit\": 8448.59,\n      \"balance\": 759959.88\n    },\n    {\n      \"date\": \"2024-02-01\",\n      \"debit\": null,\n      \"credit\": 273995.46,\n      \"balance\": 1033955.34\n    },\n    {\n      \"date\": \"2024-03-01\",\n      \"debit\": 50055.4,\n      \"credit\": null,\n      \"balance\": 983899.94\n    },\n    {\n      \"date\": \"2024-03-01\",\n      \"debit\": null,\n      \"credit\": 134907.01,\n      \"balance\": 1118806.95\n    },\n    {\n      \"date\": \"2024-03-01\",\n      \"debit\": null,\n      \"credit\": 1716455.03,\n      \"balance\": 2835261.98\n    },\n    {\n      \"date\": \"2024-04-01\",\n      \"debit\": 406209.36,\n      \"credit\": null,\n      \"balance\": 2429052.62\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": 80220.44,\n      \"credit\": null,\n      \"balance\": 1134363.26\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": 23948.95,\n      \"credit\": null,\n      \"balance\": 2405103.67\n    },\n    {\n      \"date\": \"2024-06-01\",\n      \"debit\": null,\n      \"credit\": 453030.27,\n      \"balance\": 2858133.94\n    }\n  ]\n}",
+ "parsed": {
+  "header": {
+   "bank_name": "IndusBank Limited",
+   "account_holder": "WELLNESS BRANDS INDIA",
+   "account_number": "60273451072",
+   "ifsc_code": "INDU0920381",
+   "opening_balance": "683025.55",
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 92266.72,
+    "balance": 775292.27
+   },
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 3160.61,
+    "balance": 778452.88
+   },
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 115472.52,
+    "balance": 893925.4
+   },
+   {
+    "date": "2024-01-01",
+    "debit": 142414.11,
+    "credit": null,
+    "balance": 751511.29
+   },
+   {
+    "date": "2024-02-01",
+    "debit": null,
+    "credit": 8448.59,
+    "balance": 759959.88
+   },
+   {
+    "date": "2024-02-01",
+    "debit": null,
+    "credit": 273995.46,
+    "balance": 1033955.34
+   },
+   {
+    "date": "2024-03-01",
+    "debit": 50055.4,
+    "credit": null,
+    "balance": 983899.94
+   },
+   {
+    "date": "2024-03-01",
+    "debit": null,
+    "credit": 134907.01,
+    "balance": 1118806.95
+   },
+   {
+    "date": "2024-03-01",
+    "debit": null,
+    "credit": 1716455.03,
+    "balance": 2835261.98
+   },
+   {
+    "date": "2024-04-01",
+    "debit": 406209.36,
+    "credit": null,
+    "balance": 2429052.62
+   },
+   {
+    "date": "2024-05-01",
+    "debit": 80220.44,
+    "credit": null,
+    "balance": 1134363.26
+   },
+   {
+    "date": "2024-05-01",
+    "debit": 23948.95,
+    "credit": null,
+    "balance": 2405103.67
+   },
+   {
+    "date": "2024-06-01",
+    "debit": null,
+    "credit": 453030.27,
+    "balance": 2858133.94
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4182,
+  "out": 853,
+  "cost": 0.0
+ },
+ "latency_s": 128.86,
+ "at": 1790414726.460686
+}

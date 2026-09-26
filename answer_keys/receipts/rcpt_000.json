@@ -1,0 +1,14 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "60.000",
+  "subtotal": "60.000",
+  "tax": "5.455",
+  "items": [
+   {
+    "name": "-TICKET CP",
+    "price": "60.000"
+   }
+  ]
+ }
+}

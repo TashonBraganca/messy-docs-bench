@@ -1,0 +1,31 @@
+{
+ "key": "31089bca59747f12f62b7de42a190428318772029e9ec9ae0ec45ea65c44eedc",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_019",
+ "type": "receipts",
+ "text": "{\"total\":\"176000\",\"subtotal\":\"160000\",\"tax\":\"16000\",\"items\":[{\"name\":\"4 AMBUSH DBL CHS\",\"price\":\"60000\"},{\"name\":\"10 AMBUSH CHS BOK\",\"price\":\"100000\"}]}",
+ "parsed": {
+  "total": "176000",
+  "subtotal": "160000",
+  "tax": "16000",
+  "items": [
+   {
+    "name": "4 AMBUSH DBL CHS",
+    "price": "60000"
+   },
+   {
+    "name": "10 AMBUSH CHS BOK",
+    "price": "100000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 833,
+  "out": 161,
+  "cost": 0.0
+ },
+ "latency_s": 5.9,
+ "at": 1790411085.932661
+}

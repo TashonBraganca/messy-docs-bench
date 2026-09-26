@@ -1,0 +1,26 @@
+{
+ "key": "d132c590dec3286eb3fa79a55a4af9f074965993243c25dc8cd61f60da7c911b",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_014",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"UROKO JAPANESE CUISINE SDN BHD\",\n  \"date\": \"20/03/2018\",\n  \"address\": \"22A-1, JALAN 17/54, SECTION 17, 46400 PETALING JAYA, SELANGOR.\",\n  \"total\": \"53.00\"\n}\n```",
+ "parsed": {
+  "company": "UROKO JAPANESE CUISINE SDN BHD",
+  "date": "20/03/2018",
+  "address": "22A-1, JALAN 17/54, SECTION 17, 46400 PETALING JAYA, SELANGOR.",
+  "total": "53.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 109,
+  "cost": 0.0,
+  "notional_cost": 0.007354,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.5,
+ "at": 1790378700.485874
+}

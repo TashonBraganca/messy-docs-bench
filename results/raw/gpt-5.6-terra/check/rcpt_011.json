@@ -1,0 +1,27 @@
+{
+ "key": "d56ee58b70b9dc8337cdd5cf851d62a1ec61c6f2dce5b26de4cd9e52473704e9",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_011",
+ "type": "receipts",
+ "text": "{\"total\":\"230,000\",\"subtotal\":null,\"tax\":null,\"items\":[{\"name\":\"BANABERRY FRESH CREAM CAK\",\"price\":\"230,000\"}]}",
+ "parsed": {
+  "total": "230,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "BANABERRY FRESH CREAM CAK",
+    "price": "230,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 812,
+  "out": 90,
+  "cost": 0.0
+ },
+ "latency_s": 4.84,
+ "at": 1790411074.950575
+}

@@ -1,0 +1,22 @@
+{
+ "key": "63376a37c52ce981e75180fa54ae067fb5643d03ac7e9a78bf3a9005cc0b1181",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_017",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"TED HENG STATIONERY & BOOKS\",\n  \"date\": \"29/01/2018\",\n  \"address\": \"NO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI SELANGOR DARUL EHSAN\",\n  \"total\": \"1.05\"\n}",
+ "parsed": {
+  "company": "TED HENG STATIONERY & BOOKS",
+  "date": "29/01/2018",
+  "address": "NO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI SELANGOR DARUL EHSAN",
+  "total": "1.05"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2335,
+  "out": 84,
+  "cost": 0.0
+ },
+ "latency_s": 21.76,
+ "at": 1790413684.4919071
+}

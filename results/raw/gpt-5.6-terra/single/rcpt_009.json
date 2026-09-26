@@ -1,0 +1,27 @@
+{
+ "key": "737b3d4a131bcb8cc482cd24f1712baecb48071cce6c868475b1787facbcd97c",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_009",
+ "type": "receipts",
+ "text": "{\"total\":null,\"subtotal\":\"36000\",\"tax\":null,\"items\":[{\"name\":\"Bumbu Kaldu Ayam 1\",\"price\":\"36000\"}]}",
+ "parsed": {
+  "total": null,
+  "subtotal": "36000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Bumbu Kaldu Ayam 1",
+    "price": "36000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 712,
+  "out": 171,
+  "cost": 0.0
+ },
+ "latency_s": 6.06,
+ "at": 1790379214.304381
+}

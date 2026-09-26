@@ -1,0 +1,31 @@
+{
+ "key": "7aa118acc8cc7f9864d824ccd5e0da96353802214484f2490db3e11cb7f172f1",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_013",
+ "type": "receipts",
+ "text": "{\"total\":\"51.300\",\"subtotal\":\"46.636\",\"tax\":\"4.664\",\"items\":[{\"name\":\"NASI KUAH\",\"price\":\"43.636\"},{\"name\":\"AIRMINERAL GELAS\",\"price\":\"3.000\"}]}",
+ "parsed": {
+  "total": "51.300",
+  "subtotal": "46.636",
+  "tax": "4.664",
+  "items": [
+   {
+    "name": "NASI KUAH",
+    "price": "43.636"
+   },
+   {
+    "name": "AIRMINERAL GELAS",
+    "price": "3.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1285,
+  "out": 236,
+  "cost": 0.0
+ },
+ "latency_s": 6.44,
+ "at": 1790411080.027565
+}

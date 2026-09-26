@@ -1,0 +1,28 @@
+{
+ "key": "c0ada210891cc7c42d67574280bc27426476210fd8c15cba8a0aaab935377eca",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "ctr_014",
+ "type": "contracts",
+ "text": "{\"agreement_date\": \"2018\", \"effective_date\": \"2018\", \"expiration_date\": \"31 December 2024\", \"governing_law\": \"England\", \"renewal_term\": null, \"notice_period_to_terminate_renewal\": null}",
+ "parsed": {
+  "agreement_date": "2018",
+  "effective_date": "2018",
+  "expiration_date": "31 December 2024",
+  "governing_law": "England",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 254,
+  "cost": 0.0,
+  "notional_cost": 0.14772000000000002,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.01,
+ "at": 1790378894.532675
+}

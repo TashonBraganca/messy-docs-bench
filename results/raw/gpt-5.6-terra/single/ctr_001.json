@@ -1,0 +1,24 @@
+{
+ "key": "7d3cdcfa8ce66f7a38356d77cee2fab3efdcff123593c4fb9ed13b2d2cdae276",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "ctr_001",
+ "type": "contracts",
+ "text": "{\"agreement_date\":null,\"effective_date\":\"1.4.2011\",\"expiration_date\":null,\"governing_law\":\"State of Israel\",\"renewal_term\":\"one (1) year increments\",\"notice_period_to_terminate_renewal\":\"ninety (90) days\"}",
+ "parsed": {
+  "agreement_date": null,
+  "effective_date": "1.4.2011",
+  "expiration_date": null,
+  "governing_law": "State of Israel",
+  "renewal_term": "one (1) year increments",
+  "notice_period_to_terminate_renewal": "ninety (90) days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 8327,
+  "out": 295,
+  "cost": 0.0
+ },
+ "latency_s": 4.77,
+ "at": 1790379159.976744
+}

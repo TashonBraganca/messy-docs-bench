@@ -1,0 +1,39 @@
+{
+ "key": "d5f55a53e06a00168faa78381eaee0eaeb29bffe24d48751378f17cc187a3262",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "w2_012",
+ "type": "w2",
+ "text": "{\"employee_ssn\": \"930-76-6406\", \"employer_ein\": \"31-4607823\", \"employer_name_address\": \"Roy-Chavez\\n649 Bradley Station Apt. 124\\nEast Jamesport, TX 82902\", \"employee_first_name\": \"Kevin\", \"employee_last_name\": \"Malone\", \"employee_address\": \"8245 Virginia Camp Apt. 088\\nNew Thomas, TX 59097\", \"box1_wages\": \"224,320.54\", \"box2_federal_tax\": \"46,287.97\", \"box3_ss_wages\": \"184,500.00\", \"box4_ss_tax\": \"11,439.00\", \"box5_medicare_wages\": \"236,510.14\", \"box6_medicare_tax\": \"3,429.40\", \"box12a_code\": \"D\", \"box12a_amount\": \"12,189.60\", \"box15_state\": \"TX\", \"box16_state_wages\": null, \"box17_state_tax\": null}",
+ "parsed": {
+  "employee_ssn": "930-76-6406",
+  "employer_ein": "31-4607823",
+  "employer_name_address": "Roy-Chavez\n649 Bradley Station Apt. 124\nEast Jamesport, TX 82902",
+  "employee_first_name": "Kevin",
+  "employee_last_name": "Malone",
+  "employee_address": "8245 Virginia Camp Apt. 088\nNew Thomas, TX 59097",
+  "box1_wages": "224,320.54",
+  "box2_federal_tax": "46,287.97",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "236,510.14",
+  "box6_medicare_tax": "3,429.40",
+  "box12a_code": "D",
+  "box12a_amount": "12,189.60",
+  "box15_state": "TX",
+  "box16_state_wages": null,
+  "box17_state_tax": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 305,
+  "cost": 0.0,
+  "notional_cost": 0.02294,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.66,
+ "at": 1790378801.827747
+}

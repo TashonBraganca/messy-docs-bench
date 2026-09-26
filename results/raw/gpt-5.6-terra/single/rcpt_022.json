@@ -1,0 +1,31 @@
+{
+ "key": "357c1c87c0f69ca82a7344834f7e1dc81e3dfe40260862671475d937341b2569",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_022",
+ "type": "receipts",
+ "text": "{\"total\":\"40,000\",\"subtotal\":null,\"tax\":null,\"items\":[{\"name\":\"2 [MD] SOFT STEAMED CHEESEC\",\"price\":\"20,000\"},{\"name\":\"2 [MD] SOFT STEAMED CHOCOCA\",\"price\":\"20,000\"}]}",
+ "parsed": {
+  "total": "40,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "2 [MD] SOFT STEAMED CHEESEC",
+    "price": "20,000"
+   },
+   {
+    "name": "2 [MD] SOFT STEAMED CHOCOCA",
+    "price": "20,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1165,
+  "out": 162,
+  "cost": 0.0
+ },
+ "latency_s": 5.82,
+ "at": 1790379233.437737
+}

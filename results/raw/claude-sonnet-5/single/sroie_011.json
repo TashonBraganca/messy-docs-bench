@@ -1,0 +1,26 @@
+{
+ "key": "c11193eefebe66c200a89099da105faac3adc18c443b5f44c6da34b744bd2470",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_011",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"SECURE PARKING CORPORATION S/B\",\n  \"date\": \"23.03.18\",\n  \"address\": \"Riverwalk Village, Batu 3, Jalan Ipoh, 51200 KL.\",\n  \"total\": \"1.00\"\n}\n```",
+ "parsed": {
+  "company": "SECURE PARKING CORPORATION S/B",
+  "date": "23.03.18",
+  "address": "Riverwalk Village, Batu 3, Jalan Ipoh, 51200 KL.",
+  "total": "1.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 95,
+  "cost": 0.0,
+  "notional_cost": 0.00625,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.71,
+ "at": 1790378694.980323
+}

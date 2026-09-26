@@ -1,0 +1,18 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "63.000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "Lemon Tea (L)",
+    "price": "25.000"
+   },
+   {
+    "name": "Caramel Small",
+    "price": "38.000"
+   }
+  ]
+ }
+}

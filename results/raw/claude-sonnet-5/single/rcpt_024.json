@@ -1,0 +1,39 @@
+{
+ "key": "688901387c7617c4ec93b6d38767adbab0ac17a9bda33344e8b259b46c4bac5c",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rcpt_024",
+ "type": "receipts",
+ "text": "```json\n{\n  \"total\": \"Rp.118.000\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"items\": [\n    {\"name\": \"Corn Flakes Cookies\", \"price\": \"Rp.56.000\"},\n    {\"name\": \"Chokoreto Cookies\", \"price\": \"Rp.62.000\"},\n    {\"name\": \"Plastic Bag Medium\", \"price\": \"Rp.0\"}\n  ]\n}\n```",
+ "parsed": {
+  "total": "Rp.118.000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "Corn Flakes Cookies",
+    "price": "Rp.56.000"
+   },
+   {
+    "name": "Chokoreto Cookies",
+    "price": "Rp.62.000"
+   },
+   {
+    "name": "Plastic Bag Medium",
+    "price": "Rp.0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 144,
+  "cost": 0.0,
+  "notional_cost": 0.006768,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.67,
+ "at": 1790378664.0994911
+}

@@ -1,0 +1,35 @@
+{
+ "key": "1d4a401e9fc04f962857efbd7723ea7572fd1de48308ca77177e276c2906eea5",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rcpt_012",
+ "type": "receipts",
+ "text": "{\"total\": \"120,000\", \"subtotal\": null, \"tax\": null, \"items\": [{\"name\": \"BLUS WANITA\", \"price\": \"120,000\"}, {\"name\": \"SHOPPING BAG\", \"price\": \"0\"}]}",
+ "parsed": {
+  "total": "120,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "BLUS WANITA",
+    "price": "120,000"
+   },
+   {
+    "name": "SHOPPING BAG",
+    "price": "0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 77,
+  "cost": 0.0,
+  "notional_cost": 0.011692000000000001,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.19,
+ "at": 1790378656.5775318
+}

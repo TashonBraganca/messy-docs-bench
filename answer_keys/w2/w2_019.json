@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 1.6,
+ "truth": {
+  "employee_ssn": "959-10-7671",
+  "employer_ein": "96-7398490",
+  "employer_name_address": "Goodwin, Newman and Mitchell\n227 Cooper Hills\nJoanneview, GA 53743",
+  "employee_first_name": "Diana",
+  "employee_last_name": "Turner",
+  "employee_address": "22138 Pierce Mission Suite 762\nEast Christopher, GA 45321",
+  "box1_wages": "127,491.40",
+  "box2_federal_tax": "31,512.52",
+  "box3_ss_wages": "141,119.44",
+  "box4_ss_tax": "8,749.41",
+  "box5_medicare_wages": "141,119.44",
+  "box6_medicare_tax": "2,046.23",
+  "box12a_code": "D",
+  "box12a_amount": "13,628.04",
+  "box15_state": "GA",
+  "box16_state_wages": "127,491.40",
+  "box17_state_tax": "6,185.59"
+ }
+}

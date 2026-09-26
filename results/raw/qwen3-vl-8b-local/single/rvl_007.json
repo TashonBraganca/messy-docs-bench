@@ -1,0 +1,22 @@
+{
+ "key": "9f544f2b1610d360ffea209ee92fe14b9555387dceb5a84d9c3e0768a8d6ed96",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_007",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"Branham, INC.\",\n  \"invoice_number\": \"E800896\",\n  \"invoice_date\": \"5-13-88\",\n  \"total\": \"1,345.76\"\n}",
+ "parsed": {
+  "vendor": "Branham, INC.",
+  "invoice_number": "E800896",
+  "invoice_date": "5-13-88",
+  "total": "1,345.76"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1217,
+  "out": 56,
+  "cost": 0.0
+ },
+ "latency_s": 11.66,
+ "at": 1790412687.547443
+}

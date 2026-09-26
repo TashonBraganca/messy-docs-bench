@@ -1,0 +1,27 @@
+{
+ "key": "7118c5dd404e095adf2519e43fd20bc65f6b545e23a760f96ab37ea29e3ee36e",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_010",
+ "type": "receipts",
+ "text": "{\"total\":\"17,000\",\"subtotal\":\"17,000\",\"tax\":null,\"items\":[{\"name\":\"CINNAMON SUGAR\",\"price\":\"17,000\"}]}",
+ "parsed": {
+  "total": "17,000",
+  "subtotal": "17,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "CINNAMON SUGAR",
+    "price": "17,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 812,
+  "out": 78,
+  "cost": 0.0
+ },
+ "latency_s": 4.17,
+ "at": 1790411073.663587
+}

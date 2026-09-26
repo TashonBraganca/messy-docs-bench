@@ -1,0 +1,18 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "28,000",
+  "subtotal": "28,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "JASMINE MT ( L )",
+    "price": "24,000"
+   },
+   {
+    "name": "COCONUT JELLY ( L )",
+    "price": "4,000"
+   }
+  ]
+ }
+}

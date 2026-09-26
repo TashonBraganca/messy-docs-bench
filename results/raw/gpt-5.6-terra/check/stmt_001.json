@@ -1,0 +1,107 @@
+{
+ "key": "fba4d3ea1ba8141ca583a941a499f500f5738e29fe1040b0bd785e6a41195fe9",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "stmt_001",
+ "type": "statements",
+ "text": "{\"header\":{\"bank_name\":\"Royal Commerce Bank\",\"account_holder\":\"CYBERCRAFT SYSTEMS\",\"account_number\":\"42164130224\",\"ifsc_code\":\"ROYA0928120\",\"opening_balance\":779226.50,\"start_date\":\"2024-01-01\",\"end_date\":\"2024-03-31\"},\"transactions\":[{\"date\":\"2024-01-01\",\"debit\":null,\"credit\":356170.85,\"balance\":1135397.35},{\"date\":\"2024-01-01\",\"debit\":null,\"credit\":1028496.88,\"balance\":2163894.23},{\"date\":\"2024-01-02\",\"debit\":null,\"credit\":775244.98,\"balance\":2939139.21},{\"date\":\"2024-01-03\",\"debit\":1077520.90,\"credit\":null,\"balance\":1861618.31},{\"date\":\"2024-01-03\",\"debit\":null,\"credit\":317463.52,\"balance\":2179081.83},{\"date\":\"2024-01-03\",\"debit\":null,\"credit\":3922223.29,\"balance\":6101305.12},{\"date\":\"2024-01-03\",\"debit\":2890764.32,\"credit\":null,\"balance\":3210540.80},{\"date\":\"2024-01-04\",\"debit\":null,\"credit\":278567.37,\"balance\":3489108.17},{\"date\":\"2024-01-05\",\"debit\":97645.06,\"credit\":null,\"balance\":1288624.93},{\"date\":\"2024-01-05\",\"debit\":null,\"credit\":1087430.54,\"balance\":4576538.71},{\"date\":\"2024-01-06\",\"debit\":14692.53,\"credit\":null,\"balance\":4561846.18},{\"date\":\"2024-01-06\",\"debit\":null,\"credit\":649094.95,\"balance\":5210941.13},{\"date\":\"2024-01-06\",\"debit\":null,\"credit\":56091.17,\"balance\":5267032.30}]}",
+ "parsed": {
+  "header": {
+   "bank_name": "Royal Commerce Bank",
+   "account_holder": "CYBERCRAFT SYSTEMS",
+   "account_number": "42164130224",
+   "ifsc_code": "ROYA0928120",
+   "opening_balance": 779226.5,
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 356170.85,
+    "balance": 1135397.35
+   },
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 1028496.88,
+    "balance": 2163894.23
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 775244.98,
+    "balance": 2939139.21
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 1077520.9,
+    "credit": null,
+    "balance": 1861618.31
+   },
+   {
+    "date": "2024-01-03",
+    "debit": null,
+    "credit": 317463.52,
+    "balance": 2179081.83
+   },
+   {
+    "date": "2024-01-03",
+    "debit": null,
+    "credit": 3922223.29,
+    "balance": 6101305.12
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 2890764.32,
+    "credit": null,
+    "balance": 3210540.8
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 278567.37,
+    "balance": 3489108.17
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 97645.06,
+    "credit": null,
+    "balance": 1288624.93
+   },
+   {
+    "date": "2024-01-05",
+    "debit": null,
+    "credit": 1087430.54,
+    "balance": 4576538.71
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 14692.53,
+    "credit": null,
+    "balance": 4561846.18
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 649094.95,
+    "balance": 5210941.13
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 56091.17,
+    "balance": 5267032.3
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1794,
+  "out": 1250,
+  "cost": 0.0
+ },
+ "latency_s": 14.97,
+ "at": 1790411163.190889
+}

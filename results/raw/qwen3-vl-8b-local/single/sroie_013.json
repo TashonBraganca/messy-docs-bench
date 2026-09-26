@@ -1,0 +1,22 @@
+{
+ "key": "889354b434aacd5d22fdab536446709e0c185b8e35d4084531bf5ee65f37c45c",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_013",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"OLDTOWN WHITE COFFEE\",\n  \"date\": \"22 Mar 18\",\n  \"address\": \"Sri Rampai\",\n  \"total\": \"30.24\"\n}",
+ "parsed": {
+  "company": "OLDTOWN WHITE COFFEE",
+  "date": "22 Mar 18",
+  "address": "Sri Rampai",
+  "total": "30.24"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1423,
+  "out": 49,
+  "cost": 0.0
+ },
+ "latency_s": 10.88,
+ "at": 1790413559.4375648
+}

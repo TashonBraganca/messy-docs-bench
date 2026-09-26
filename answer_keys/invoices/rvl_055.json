@@ -1,0 +1,14 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "The Andrew Jergens Company",
+  "invoice_number": "101786-A",
+  "invoice_date": null,
+  "total": "189,285.12"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "invoice_date: shipping date says 'VARIOUS', no invoice date"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

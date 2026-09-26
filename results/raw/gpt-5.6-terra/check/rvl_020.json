@@ -1,0 +1,22 @@
+{
+ "key": "e1676290deea08a0e545c161fcefdfb1ad619fd6096f38cd3e2cc25d7e758166",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rvl_020",
+ "type": "invoices",
+ "text": "{\"vendor\":\"TOM MCKEW, INC.\",\"invoice_number\":\"12562\",\"invoice_date\":\"October 4, 1995\",\"total\":\"$1,426\"}",
+ "parsed": {
+  "vendor": "TOM MCKEW, INC.",
+  "invoice_number": "12562",
+  "invoice_date": "October 4, 1995",
+  "total": "$1,426"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1185,
+  "out": 115,
+  "cost": 0.0
+ },
+ "latency_s": 3.41,
+ "at": 1790411049.87052
+}

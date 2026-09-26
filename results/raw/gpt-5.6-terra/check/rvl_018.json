@@ -1,0 +1,22 @@
+{
+ "key": "28de48b51a5455486f57440a00fae5ccbf590ca52e93a6f8571cad124cc654f5",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rvl_018",
+ "type": "invoices",
+ "text": "{\"vendor\":\"LEGGETT & LUSTIG RESEARCH, INC.\",\"invoice_number\":\"LLR-126\",\"invoice_date\":\"February 29, 1980\",\"total\":\"$27,000\"}",
+ "parsed": {
+  "vendor": "LEGGETT & LUSTIG RESEARCH, INC.",
+  "invoice_number": "LLR-126",
+  "invoice_date": "February 29, 1980",
+  "total": "$27,000"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1191,
+  "out": 80,
+  "cost": 0.0
+ },
+ "latency_s": 3.09,
+ "at": 1790411047.264964
+}

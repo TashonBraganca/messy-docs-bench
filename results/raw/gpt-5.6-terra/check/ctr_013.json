@@ -1,0 +1,24 @@
+{
+ "key": "6158c7f95a3c44d83605e5d61099a10a57028e94c0912a4dd5944325bba278f8",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "ctr_013",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"11th day of December, 2015\",\"effective_date\":null,\"expiration_date\":\"December 11, 2018\",\"governing_law\":\"Taiwan\",\"renewal_term\":null,\"notice_period_to_terminate_renewal\":null}",
+ "parsed": {
+  "agreement_date": "11th day of December, 2015",
+  "effective_date": null,
+  "expiration_date": "December 11, 2018",
+  "governing_law": "Taiwan",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 3051,
+  "out": 59,
+  "cost": 0.0
+ },
+ "latency_s": 2.19,
+ "at": 1790411036.9752462
+}

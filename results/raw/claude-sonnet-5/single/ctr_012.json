@@ -1,0 +1,28 @@
+{
+ "key": "119c249099e3050b9f6f7dafdba5bb2e4a5d2d16c024efa2dcdc76ab18c0d38a",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "ctr_012",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"August 9, 1999\",\"effective_date\":null,\"expiration_date\":null,\"governing_law\":\"New York\",\"renewal_term\":\"1 year\",\"notice_period_to_terminate_renewal\":\"90 days\"}",
+ "parsed": {
+  "agreement_date": "August 9, 1999",
+  "effective_date": null,
+  "expiration_date": null,
+  "governing_law": "New York",
+  "renewal_term": "1 year",
+  "notice_period_to_terminate_renewal": "90 days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 342,
+  "cost": 0.0,
+  "notional_cost": 0.030272,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.88,
+ "at": 1790378895.7777789
+}

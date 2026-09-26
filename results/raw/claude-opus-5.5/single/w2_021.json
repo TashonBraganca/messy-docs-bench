@@ -1,0 +1,39 @@
+{
+ "key": "45d10f381006a3406307114c86df10185e5cece4260f1032c4bd409da9cb7daf",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "w2_021",
+ "type": "w2",
+ "text": "{\"employee_ssn\": \"942-96-8628\", \"employer_ein\": \"52-8962375\", \"employer_name_address\": \"Smith-Myers\\n3132 Alexandra Springs Apt. 718\\nNorth Kimberlybury, IL 75131\", \"employee_first_name\": \"Samantha\", \"employee_last_name\": \"Brewer\", \"employee_address\": \"48611 Kevin Prairie Apt. 643\\nNorth Amandamouth, IL 37018\", \"box1_wages\": \"150,686.37\", \"box2_federal_tax\": \"22,795.81\", \"box3_ss_wages\": \"164,283.91\", \"box4_ss_tax\": \"10,185.60\", \"box5_medicare_wages\": \"164,283.91\", \"box6_medicare_tax\": \"2,382.12\", \"box12a_code\": \"D\", \"box12a_amount\": \"13,597.54\", \"box15_state\": \"IL\", \"box16_state_wages\": \"150,686.37\", \"box17_state_tax\": \"9,978.05\"}",
+ "parsed": {
+  "employee_ssn": "942-96-8628",
+  "employer_ein": "52-8962375",
+  "employer_name_address": "Smith-Myers\n3132 Alexandra Springs Apt. 718\nNorth Kimberlybury, IL 75131",
+  "employee_first_name": "Samantha",
+  "employee_last_name": "Brewer",
+  "employee_address": "48611 Kevin Prairie Apt. 643\nNorth Amandamouth, IL 37018",
+  "box1_wages": "150,686.37",
+  "box2_federal_tax": "22,795.81",
+  "box3_ss_wages": "164,283.91",
+  "box4_ss_tax": "10,185.60",
+  "box5_medicare_wages": "164,283.91",
+  "box6_medicare_tax": "2,382.12",
+  "box12a_code": "D",
+  "box12a_amount": "13,597.54",
+  "box15_state": "IL",
+  "box16_state_wages": "150,686.37",
+  "box17_state_tax": "9,978.05"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 326,
+  "cost": 0.0,
+  "notional_cost": 0.023375999999999997,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.99,
+ "at": 1790378819.478178
+}

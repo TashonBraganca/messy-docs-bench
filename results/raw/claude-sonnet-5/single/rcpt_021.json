@@ -1,0 +1,35 @@
+{
+ "key": "14002cdf03022c20e9112dcd30ef3d4faf4a9a7fd23f3e0b97422cc2831b36bf",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rcpt_021",
+ "type": "receipts",
+ "text": "```json\n{\n  \"total\": \"38.000\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"items\": [\n    {\"name\": \"NASI GOR SFD TLR\", \"price\": \"35.000\"},\n    {\"name\": \"ES TEH TAWAR\", \"price\": \"3.000\"}\n  ]\n}\n```",
+ "parsed": {
+  "total": "38.000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "NASI GOR SFD TLR",
+    "price": "35.000"
+   },
+   {
+    "name": "ES TEH TAWAR",
+    "price": "3.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 104,
+  "cost": 0.0,
+  "notional_cost": 0.010208,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.85,
+ "at": 1790378658.813025
+}

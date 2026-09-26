@@ -1,0 +1,35 @@
+{
+ "key": "49967b83692ef61a935709e1ed5cf44f4b74236376ed9f655cb1105939b234bc",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_024",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"Rp.118.000\",\n    \"subtotal\": null,\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"5001-Corn Flakes Cookies\",\n            \"price\": \"Rp.56.000\"\n        },\n        {\n            \"name\": \"5003-Chokoreto Cookies\",\n            \"price\": \"Rp.62.000\"\n        },\n        {\n            \"name\": \"6002-Plastic Bag Medium\",\n            \"price\": \"Rp.0\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "Rp.118.000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "5001-Corn Flakes Cookies",
+    "price": "Rp.56.000"
+   },
+   {
+    "name": "5003-Chokoreto Cookies",
+    "price": "Rp.62.000"
+   },
+   {
+    "name": "6002-Plastic Bag Medium",
+    "price": "Rp.0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1215,
+  "out": 131,
+  "cost": 0.0
+ },
+ "latency_s": 14.82,
+ "at": 1790413301.434315
+}

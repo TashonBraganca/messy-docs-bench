@@ -1,0 +1,27 @@
+{
+ "key": "4533b07f5d6e98ff7a28f12d6ec776cd263a962373cc251a8c890ae88783312b",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_000",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"60.000\",\n    \"subtotal\": \"60.000\",\n    \"tax\": \"5.455\",\n    \"items\": [\n        {\n            \"name\": \"-TICKET CP\",\n            \"price\": \"60.000\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "60.000",
+  "subtotal": "60.000",
+  "tax": "5.455",
+  "items": [
+   {
+    "name": "-TICKET CP",
+    "price": "60.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1215,
+  "out": 71,
+  "cost": 0.0
+ },
+ "latency_s": 10.66,
+ "at": 1790412877.582458
+}

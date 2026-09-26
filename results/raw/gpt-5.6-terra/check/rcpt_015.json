@@ -1,0 +1,31 @@
+{
+ "key": "e76f5e0b547acc9fb756828110e5ab4c20c928d5afeb6b918b781d3d87b77318",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_015",
+ "type": "receipts",
+ "text": "{\"total\":\"63.000\",\"subtotal\":null,\"tax\":null,\"items\":[{\"name\":\"Lemon Tea (L)\",\"price\":\"25.000\"},{\"name\":\"Caramel Small\",\"price\":\"38.000\"}]}",
+ "parsed": {
+  "total": "63.000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "Lemon Tea (L)",
+    "price": "25.000"
+   },
+   {
+    "name": "Caramel Small",
+    "price": "38.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 824,
+  "out": 95,
+  "cost": 0.0
+ },
+ "latency_s": 4.59,
+ "at": 1790411079.547872
+}

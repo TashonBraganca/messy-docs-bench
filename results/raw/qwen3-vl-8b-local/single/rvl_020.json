@@ -1,0 +1,22 @@
+{
+ "key": "f01fbf93f5ae92de560c1f9358ce99e85f59c67d4c59576b5e13d6f938282689",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_020",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"TONG MCKNEW INC\",\n  \"invoice_number\": \"12562\",\n  \"invoice_date\": \"October 4, 1995\",\n  \"total\": \"$1,426\"\n}",
+ "parsed": {
+  "vendor": "TONG MCKNEW INC",
+  "invoice_number": "12562",
+  "invoice_date": "October 4, 1995",
+  "total": "$1,426"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 54,
+  "cost": 0.0
+ },
+ "latency_s": 9.92,
+ "at": 1790412776.745989
+}

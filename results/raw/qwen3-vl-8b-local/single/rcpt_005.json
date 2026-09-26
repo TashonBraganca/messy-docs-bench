@@ -1,0 +1,27 @@
+{
+ "key": "dae197ce9ef2463954b7e8a42abf9333481b4a0e8612876b4c229becfc0a0a60",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_005",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"31.000\",\n    \"subtotal\": \"28.182\",\n    \"tax\": \"2.818\",\n    \"items\": [\n        {\n            \"name\": \"TRAD KY TOAST CARTE\",\n            \"price\": \"28.182\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "31.000",
+  "subtotal": "28.182",
+  "tax": "2.818",
+  "items": [
+   {
+    "name": "TRAD KY TOAST CARTE",
+    "price": "28.182"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4215,
+  "out": 74,
+  "cost": 0.0
+ },
+ "latency_s": 55.33,
+ "at": 1790412984.7120771
+}

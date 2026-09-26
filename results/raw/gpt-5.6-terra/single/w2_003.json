@@ -1,0 +1,35 @@
+{
+ "key": "4c53023df95c36cb13d748d089d5c8f7e63bd5449d6b65cccd42e4be25b0f2d5",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_003",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"983-84-2185\",\"employer_ein\":\"12-7056978\",\"employer_name_address\":\"Tate and Sons\\n672 Moser Harbors\\nPort Russell, IL 72619\",\"employee_first_name\":\"Joshua\",\"employee_last_name\":\"Perry\",\"employee_address\":\"632 Gregory Fort Apt 079\\nWest Julian, IL 19559\",\"box1_wages\":\"30,933.81\",\"box2_federal_tax\":\"8,010.42\",\"box3_ss_wages\":\"34,134.45\",\"box4_ss_tax\":\"2,116.34\",\"box5_medicare_wages\":\"34,134.45\",\"box6_medicare_tax\":\"494.95\",\"box12a_code\":\"D\",\"box12a_amount\":\"3,200.00\",\"box15_state\":\"IL\",\"box16_state_wages\":\"30,933.81\",\"box17_state_tax\":\"2,155.54\"}",
+ "parsed": {
+  "employee_ssn": "983-84-2185",
+  "employer_ein": "12-7056978",
+  "employer_name_address": "Tate and Sons\n672 Moser Harbors\nPort Russell, IL 72619",
+  "employee_first_name": "Joshua",
+  "employee_last_name": "Perry",
+  "employee_address": "632 Gregory Fort Apt 079\nWest Julian, IL 19559",
+  "box1_wages": "30,933.81",
+  "box2_federal_tax": "8,010.42",
+  "box3_ss_wages": "34,134.45",
+  "box4_ss_tax": "2,116.34",
+  "box5_medicare_wages": "34,134.45",
+  "box6_medicare_tax": "494.95",
+  "box12a_code": "D",
+  "box12a_amount": "3,200.00",
+  "box15_state": "IL",
+  "box16_state_wages": "30,933.81",
+  "box17_state_tax": "2,155.54"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 963,
+  "out": 614,
+  "cost": 0.0
+ },
+ "latency_s": 7.98,
+ "at": 1790379329.131826
+}

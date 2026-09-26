@@ -1,0 +1,26 @@
+{
+ "key": "e1f275f01562c1efa7b858b94e704f8a2bc91af366808195a9a3e0d841531795",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "sroie_015",
+ "type": "sroie",
+ "text": "{\"company\": \"TEO HENG STATIONERY & BOOKS\", \"date\": \"27/01/2018\", \"address\": \"NO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI SELANGOR DARUL EHSAN\", \"total\": \"27.35\"}",
+ "parsed": {
+  "company": "TEO HENG STATIONERY & BOOKS",
+  "date": "27/01/2018",
+  "address": "NO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI SELANGOR DARUL EHSAN",
+  "total": "27.35"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 97,
+  "cost": 0.0,
+  "notional_cost": 0.036516,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 7.02,
+ "at": 1790378725.007735
+}

@@ -1,0 +1,22 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "Rp 138.000",
+  "subtotal": "Rp 138.000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Nasi Cap Cay Porsi B esar",
+    "price": "65.000"
+   },
+   {
+    "name": "Teh Tawar",
+    "price": null
+   },
+   {
+    "name": "Fu Yung Hai",
+    "price": "65.000"
+   }
+  ]
+ }
+}

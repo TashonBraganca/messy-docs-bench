@@ -1,0 +1,22 @@
+{
+ "key": "385a75c7ac3af876f5d6374f5bd1ce276efbe2b3cd61772a24c4f3f54c1f760d",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_027",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"Triple Six Point Enterprise 666\",\n  \"date\": \"22-03-2013 04:01:20 PM\",\n  \"address\": \"No 14&16 Jalan Permas 4/3 Bandar Baru Permas Jay\",\n  \"total\": \"22.60\"\n}",
+ "parsed": {
+  "company": "Triple Six Point Enterprise 666",
+  "date": "22-03-2013 04:01:20 PM",
+  "address": "No 14&16 Jalan Permas 4/3 Bandar Baru Permas Jay",
+  "total": "22.60"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1763,
+  "out": 82,
+  "cost": 0.0
+ },
+ "latency_s": 15.66,
+ "at": 1790413877.075202
+}

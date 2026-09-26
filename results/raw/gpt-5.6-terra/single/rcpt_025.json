@@ -1,0 +1,35 @@
+{
+ "key": "5d2058d7aadc621859599a91ae3e647e2b68e28a4c33771fb3e3bb3ef4515f73",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_025",
+ "type": "receipts",
+ "text": "{\"total\":\"43,000\",\"subtotal\":null,\"tax\":null,\"items\":[{\"name\":\"TWIST STRAWBERRY DONUT\",\"price\":\"10,000\"},{\"name\":\"TLJ CROQUETTE\",\"price\":\"17,000\"},{\"name\":\"POTATO PEPPER BAGEL\",\"price\":\"16,000\"}]}",
+ "parsed": {
+  "total": "43,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "TWIST STRAWBERRY DONUT",
+    "price": "10,000"
+   },
+   {
+    "name": "TLJ CROQUETTE",
+    "price": "17,000"
+   },
+   {
+    "name": "POTATO PEPPER BAGEL",
+    "price": "16,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1165,
+  "out": 102,
+  "cost": 0.0
+ },
+ "latency_s": 5.65,
+ "at": 1790379239.09127
+}

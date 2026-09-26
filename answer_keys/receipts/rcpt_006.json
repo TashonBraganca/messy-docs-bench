@@ -1,0 +1,22 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "46,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "EGG TART",
+    "price": "13,000"
+   },
+   {
+    "name": "CHOCO CUS ARD PASTRY",
+    "price": "24,000"
+   },
+   {
+    "name": "REDBEAN BREAD",
+    "price": "9,000"
+   }
+  ]
+ }
+}

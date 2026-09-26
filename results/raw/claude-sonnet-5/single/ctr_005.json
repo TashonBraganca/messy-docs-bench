@@ -1,0 +1,28 @@
+{
+ "key": "28a023aebe726b4554b7de8875602e9c4522e79a52a477b70f7887006c0c86e6",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "ctr_005",
+ "type": "contracts",
+ "text": "{\"agreement_date\": \"May 25, 1999\", \"effective_date\": \"May 25, 1999\", \"expiration_date\": \"perpetual\", \"governing_law\": \"Nevada\", \"renewal_term\": \"1 year\", \"notice_period_to_terminate_renewal\": \"120 days\"}",
+ "parsed": {
+  "agreement_date": "May 25, 1999",
+  "effective_date": "May 25, 1999",
+  "expiration_date": "perpetual",
+  "governing_law": "Nevada",
+  "renewal_term": "1 year",
+  "notice_period_to_terminate_renewal": "120 days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 553,
+  "cost": 0.0,
+  "notional_cost": 0.03591,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 7.28,
+ "at": 1790378875.061461
+}

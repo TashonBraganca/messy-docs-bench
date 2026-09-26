@@ -1,0 +1,22 @@
+{
+ "key": "55c6743fc265c45e81c700414bcd65ec6b591607c55b7de85d568216e1e5f8bd",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "sroie_027",
+ "type": "sroie",
+ "text": "{\"company\":\"Triple Six Point Enterprise 666\",\"date\":\"22-03-2018 04:01:20 PM\",\"address\":\"No 148 1&? Jalan Permas 4/3 Bandar Baru Permas Jaya\",\"total\":\"22.60\"}",
+ "parsed": {
+  "company": "Triple Six Point Enterprise 666",
+  "date": "22-03-2018 04:01:20 PM",
+  "address": "No 148 1&? Jalan Permas 4/3 Bandar Baru Permas Jaya",
+  "total": "22.60"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1104,
+  "out": 493,
+  "cost": 0.0
+ },
+ "latency_s": 7.55,
+ "at": 1790379285.914603
+}

@@ -1,0 +1,28 @@
+{
+ "key": "e9b05906d5051065c1b4471ec35ab60057c4eb0a027396f8bfff0f21857dac8e",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "ctr_007",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"March 3, 2000\",\"effective_date\":\"March 3, 2000\",\"expiration_date\":\"June 3, 2001\",\"governing_law\":\"Delaware\",\"renewal_term\":null,\"notice_period_to_terminate_renewal\":null}",
+ "parsed": {
+  "agreement_date": "March 3, 2000",
+  "effective_date": "March 3, 2000",
+  "expiration_date": "June 3, 2001",
+  "governing_law": "Delaware",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 243,
+  "cost": 0.0,
+  "notional_cost": 0.07369,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.13,
+ "at": 1790378880.1899421
+}

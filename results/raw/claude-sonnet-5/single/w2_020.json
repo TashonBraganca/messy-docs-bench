@@ -1,0 +1,39 @@
+{
+ "key": "8bdba910fa6da9ec4959c4856329c3efab41be5b159b1f1569b7bcb0bfe723e9",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "w2_020",
+ "type": "w2",
+ "text": "```json\n{\n  \"employee_ssn\": \"964-17-9948\",\n  \"employer_ein\": \"82-9603014\",\n  \"employer_name_address\": \"Davis, Allen and Green\\n66683 Nelson Terrace\\nSouth Joshuastad, CA 16999\",\n  \"employee_first_name\": \"Gloria\",\n  \"employee_last_name\": \"Moreno\",\n  \"employee_address\": \"43667 Finley Vista\\nEast Antoniofort, CA 77463\",\n  \"box1_wages\": \"176,994.03\",\n  \"box2_federal_tax\": \"46,166.26\",\n  \"box3_ss_wages\": \"184,500.00\",\n  \"box4_ss_tax\": \"11,439.00\",\n  \"box5_medicare_wages\": \"193,279.05\",\n  \"box6_medicare_tax\": \"2,802.55\",\n  \"box12a_code\": \"D\",\n  \"box12a_amount\": \"16,285.02\",\n  \"box15_state\": \"CA\",\n  \"box16_state_wages\": \"176,994.03\",\n  \"box17_state_tax\": \"6,210.28\"\n}\n```",
+ "parsed": {
+  "employee_ssn": "964-17-9948",
+  "employer_ein": "82-9603014",
+  "employer_name_address": "Davis, Allen and Green\n66683 Nelson Terrace\nSouth Joshuastad, CA 16999",
+  "employee_first_name": "Gloria",
+  "employee_last_name": "Moreno",
+  "employee_address": "43667 Finley Vista\nEast Antoniofort, CA 77463",
+  "box1_wages": "176,994.03",
+  "box2_federal_tax": "46,166.26",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "193,279.05",
+  "box6_medicare_tax": "2,802.55",
+  "box12a_code": "D",
+  "box12a_amount": "16,285.02",
+  "box15_state": "CA",
+  "box16_state_wages": "176,994.03",
+  "box17_state_tax": "6,210.28"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 353,
+  "cost": 0.0,
+  "notional_cost": 0.012386000000000001,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.53,
+ "at": 1790378798.4554749
+}

@@ -1,0 +1,12 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Research Triangle Institute",
+  "invoice_number": "311T 3668-4A",
+  "invoice_date": "April 27, 1987",
+  "total": "60.78"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

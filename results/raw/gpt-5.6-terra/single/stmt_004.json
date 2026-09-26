@@ -1,0 +1,107 @@
+{
+ "key": "3bf721995df51b96364351e3f45a669a2964b8053f49f6c8910c06f55b6a6852",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "stmt_004",
+ "type": "statements",
+ "text": "{\"header\":{\"bank_name\":\"IndusBank Limited\",\"account_holder\":\"WELLNESS BRANDS INDIA\",\"account_number\":\"0727451072\",\"ifsc_code\":\"INDU0920381\",\"opening_balance\":683025.55,\"start_date\":\"2024-01-01\",\"end_date\":\"2024-03-31\"},\"transactions\":[{\"date\":\"2024-01-01\",\"debit\":null,\"credit\":92266.72,\"balance\":775292.27},{\"date\":\"2024-01-01\",\"debit\":null,\"credit\":3160.61,\"balance\":778452.88},{\"date\":\"2024-01-01\",\"debit\":null,\"credit\":115472.52,\"balance\":893925.40},{\"date\":\"2024-01-01\",\"debit\":142414.11,\"credit\":null,\"balance\":751511.29},{\"date\":\"2024-01-02\",\"debit\":null,\"credit\":8448.59,\"balance\":759959.88},{\"date\":\"2024-01-02\",\"debit\":null,\"credit\":273995.46,\"balance\":1033955.34},{\"date\":\"2024-01-03\",\"debit\":50055.40,\"credit\":null,\"balance\":983899.94},{\"date\":\"2024-01-03\",\"debit\":null,\"credit\":134907.01,\"balance\":1118806.95},{\"date\":\"2024-01-03\",\"debit\":null,\"credit\":1716455.03,\"balance\":2835261.98},{\"date\":\"2024-01-04\",\"debit\":406209.36,\"credit\":null,\"balance\":2429052.62},{\"date\":\"2024-01-05\",\"debit\":80220.44,\"credit\":null,\"balance\":1134363.26},{\"date\":\"2024-01-05\",\"debit\":23948.95,\"credit\":null,\"balance\":2405103.67},{\"date\":\"2024-01-06\",\"debit\":null,\"credit\":453030.27,\"balance\":2858133.94}]}",
+ "parsed": {
+  "header": {
+   "bank_name": "IndusBank Limited",
+   "account_holder": "WELLNESS BRANDS INDIA",
+   "account_number": "0727451072",
+   "ifsc_code": "INDU0920381",
+   "opening_balance": 683025.55,
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 92266.72,
+    "balance": 775292.27
+   },
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 3160.61,
+    "balance": 778452.88
+   },
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 115472.52,
+    "balance": 893925.4
+   },
+   {
+    "date": "2024-01-01",
+    "debit": 142414.11,
+    "credit": null,
+    "balance": 751511.29
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 8448.59,
+    "balance": 759959.88
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 273995.46,
+    "balance": 1033955.34
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 50055.4,
+    "credit": null,
+    "balance": 983899.94
+   },
+   {
+    "date": "2024-01-03",
+    "debit": null,
+    "credit": 134907.01,
+    "balance": 1118806.95
+   },
+   {
+    "date": "2024-01-03",
+    "debit": null,
+    "credit": 1716455.03,
+    "balance": 2835261.98
+   },
+   {
+    "date": "2024-01-04",
+    "debit": 406209.36,
+    "credit": null,
+    "balance": 2429052.62
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 80220.44,
+    "credit": null,
+    "balance": 1134363.26
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 23948.95,
+    "credit": null,
+    "balance": 2405103.67
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 453030.27,
+    "balance": 2858133.94
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1181,
+  "out": 1453,
+  "cost": 0.0
+ },
+ "latency_s": 16.64,
+ "at": 1790379308.746874
+}

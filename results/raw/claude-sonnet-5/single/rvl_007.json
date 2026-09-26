@@ -1,0 +1,26 @@
+{
+ "key": "3792071c3f18d51739bac36732719b2e0afec6474035ec82aeffbc44e760924c",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_007",
+ "type": "invoices",
+ "text": "{\"vendor\": \"Branham, Inc.\", \"invoice_number\": \"E800896\", \"invoice_date\": null, \"total\": \"1,345.76\"}",
+ "parsed": {
+  "vendor": "Branham, Inc.",
+  "invoice_number": "E800896",
+  "invoice_date": null,
+  "total": "1,345.76"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 50,
+  "cost": 0.0,
+  "notional_cost": 0.007648,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.82,
+ "at": 1790378590.629921
+}

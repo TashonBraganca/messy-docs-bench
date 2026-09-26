@@ -1,0 +1,35 @@
+{
+ "key": "2dc372411b9896219b082e35d5729c34ac38f274c0747dc7d3d498d91ea103ac",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_031",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"935-39-2169\",\"employer_ein\":\"86-3692115\",\"employer_name_address\":\"White's Robotics\\n265 Edward Stein Apt. 080\\nDavidmouth, MA 72597\",\"employee_first_name\":\"Melinda\",\"employee_last_name\":\"Strickland\",\"employee_address\":\"5366 Griffin Mill Apt. 006\\nMarshalmouth, MA 81578\",\"box1_wages\":\"196,200.03\",\"box2_federal_tax\":\"42,322.10\",\"box3_ss_wages\":\"184,500.00\",\"box4_ss_tax\":\"11,439.00\",\"box5_medicare_wages\":\"220,522.63\",\"box6_medicare_tax\":\"3,197.58\",\"box12a_code\":\"D\",\"box12a_amount\":\"20,822.50\",\"box15_state\":\"MA\",\"box16_state_wages\":\"199,709.08\",\"box17_state_tax\":\"8,119.78\"}",
+ "parsed": {
+  "employee_ssn": "935-39-2169",
+  "employer_ein": "86-3692115",
+  "employer_name_address": "White's Robotics\n265 Edward Stein Apt. 080\nDavidmouth, MA 72597",
+  "employee_first_name": "Melinda",
+  "employee_last_name": "Strickland",
+  "employee_address": "5366 Griffin Mill Apt. 006\nMarshalmouth, MA 81578",
+  "box1_wages": "196,200.03",
+  "box2_federal_tax": "42,322.10",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "220,522.63",
+  "box6_medicare_tax": "3,197.58",
+  "box12a_code": "D",
+  "box12a_amount": "20,822.50",
+  "box15_state": "MA",
+  "box16_state_wages": "199,709.08",
+  "box17_state_tax": "8,119.78"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 868,
+  "out": 713,
+  "cost": 0.0
+ },
+ "latency_s": 8.85,
+ "at": 1790379384.3017018
+}

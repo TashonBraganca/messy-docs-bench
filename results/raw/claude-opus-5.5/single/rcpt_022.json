@@ -1,0 +1,35 @@
+{
+ "key": "e0aa877603134949f408c913506b7c3bcee6573b0d1f34ac7d768b5b4fe2dd4f",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rcpt_022",
+ "type": "receipts",
+ "text": "{\"total\": \"40,000\", \"subtotal\": null, \"tax\": null, \"items\": [{\"name\": \"[MD] SOFT STEAMED CHEESEC\", \"price\": \"20,000\"}, {\"name\": \"[MD] SOFT STEAMED CHOCOCA\", \"price\": \"20,000\"}]}",
+ "parsed": {
+  "total": "40,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "[MD] SOFT STEAMED CHEESEC",
+    "price": "20,000"
+   },
+   {
+    "name": "[MD] SOFT STEAMED CHOCOCA",
+    "price": "20,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 101,
+  "cost": 0.0,
+  "notional_cost": 0.018628,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.02,
+ "at": 1790378675.946321
+}

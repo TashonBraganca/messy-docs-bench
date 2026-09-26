@@ -1,0 +1,39 @@
+{
+ "key": "58ad378976702fae5d37495de107d2ead2a1c2ff01934e60a78ab82d4c5fc93e",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "w2_000",
+ "type": "w2",
+ "text": "```json\n{\n  \"employee_ssn\": \"906-19-9779\",\n  \"employer_ein\": \"22-7135241\",\n  \"employer_name_address\": \"Gould-Foster\\n81590 Benjamin Mews\\nJonesland, TX 72727\",\n  \"employee_first_name\": \"Roger\",\n  \"employee_last_name\": \"Serrano\",\n  \"employee_address\": \"90996 Theresa Cape\\nWest Robert, TX 71369\",\n  \"box1_wages\": \"91,396.33\",\n  \"box2_federal_tax\": \"16,695.30\",\n  \"box3_ss_wages\": \"96,367.53\",\n  \"box4_ss_tax\": \"5,974.79\",\n  \"box5_medicare_wages\": \"96,367.53\",\n  \"box6_medicare_tax\": \"1,397.33\",\n  \"box12a_code\": \"D\",\n  \"box12a_amount\": \"4,971.20\",\n  \"box15_state\": \"TX\",\n  \"box16_state_wages\": null,\n  \"box17_state_tax\": null\n}\n```",
+ "parsed": {
+  "employee_ssn": "906-19-9779",
+  "employer_ein": "22-7135241",
+  "employer_name_address": "Gould-Foster\n81590 Benjamin Mews\nJonesland, TX 72727",
+  "employee_first_name": "Roger",
+  "employee_last_name": "Serrano",
+  "employee_address": "90996 Theresa Cape\nWest Robert, TX 71369",
+  "box1_wages": "91,396.33",
+  "box2_federal_tax": "16,695.30",
+  "box3_ss_wages": "96,367.53",
+  "box4_ss_tax": "5,974.79",
+  "box5_medicare_wages": "96,367.53",
+  "box6_medicare_tax": "1,397.33",
+  "box12a_code": "D",
+  "box12a_amount": "4,971.20",
+  "box15_state": "TX",
+  "box16_state_wages": null,
+  "box17_state_tax": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 331,
+  "cost": 0.0,
+  "notional_cost": 0.011982000000000001,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 6.07,
+ "at": 1790378153.906294
+}

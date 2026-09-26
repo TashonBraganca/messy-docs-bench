@@ -1,0 +1,26 @@
+{
+ "key": "b4f88371f35387b4cd525b67027bdd6a75a5a583efe5796b4e9755f4b0a3884e",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_026",
+ "type": "invoices",
+ "text": "```json\n{\"vendor\": \"Adams Letter Co., Inc.\", \"invoice_number\": \"5035\", \"invoice_date\": \"AUGUST 9, 1982\", \"total\": \"1,275.66\"}\n```",
+ "parsed": {
+  "vendor": "Adams Letter Co., Inc.",
+  "invoice_number": "5035",
+  "invoice_date": "AUGUST 9, 1982",
+  "total": "1,275.66"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 70,
+  "cost": 0.0,
+  "notional_cost": 0.007712,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.95,
+ "at": 1790378606.915072
+}

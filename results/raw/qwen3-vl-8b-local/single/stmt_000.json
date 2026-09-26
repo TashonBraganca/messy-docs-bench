@@ -1,0 +1,107 @@
+{
+ "key": "98add4f846700a9feef2b8c79c42596395e199b7e3f84c337c57554d57b9d110",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "stmt_000",
+ "type": "statements",
+ "text": "{\n  \"header\": {\n    \"bank_name\": \"Progressive National Bank\",\n    \"account_holder\": \"TRADE LINKS INDIA\",\n    \"account_number\": \"78439336112\",\n    \"ifsc_code\": \"PROG0920445\",\n    \"opening_balance\": \"59131.72\",\n    \"start_date\": \"2024-01-01\",\n    \"end_date\": \"2024-03-31\"\n  },\n  \"transactions\": [\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": null,\n      \"credit\": 6086.63,\n      \"balance\": 65218.35\n    },\n    {\n      \"date\": \"2024-01-02\",\n      \"debit\": 23702.04,\n      \"credit\": null,\n      \"balance\": 41516.31\n    },\n    {\n      \"date\": \"2024-01-03\",\n      \"debit\": 9055.89,\n      \"credit\": null,\n      \"balance\": 32460.42\n    },\n    {\n      \"date\": \"2024-01-04\",\n      \"debit\": 2177.93,\n      \"credit\": null,\n      \"balance\": 30282.49\n    },\n    {\n      \"date\": \"2024-01-04\",\n      \"debit\": null,\n      \"credit\": 661.06,\n      \"balance\": 30943.55\n    },\n    {\n      \"date\": \"2024-01-04\",\n      \"debit\": null,\n      \"credit\": 1789.08,\n      \"balance\": 32732.63\n    },\n    {\n      \"date\": \"2024-01-05\",\n      \"debit\": null,\n      \"credit\": 4795.06,\n      \"balance\": 37527.69\n    },\n    {\n      \"date\": \"2024-01-05\",\n      \"debit\": 652.28,\n      \"credit\": null,\n      \"balance\": 36875.41\n    },\n    {\n      \"date\": \"2024-01-05\",\n      \"debit\": null,\n      \"credit\": 1212.22,\n      \"balance\": 38087.63\n    },\n    {\n      \"date\": \"2024-01-05\",\n      \"debit\": 407.72,\n      \"credit\": null,\n      \"balance\": 37679.91\n    },\n    {\n      \"date\": \"2024-01-06\",\n      \"debit\": 20253.8,\n      \"credit\": null,\n      \"balance\": 17426.11\n    },\n    {\n      \"date\": \"2024-01-06\",\n      \"debit\": null,\n      \"credit\": 2574.63,\n      \"balance\": 20000.74\n    },\n    {\n      \"date\": \"2024-01-06\",\n      \"debit\": 571.24,\n      \"credit\": null,\n      \"balance\": 19429.5\n    }\n  ]\n}",
+ "parsed": {
+  "header": {
+   "bank_name": "Progressive National Bank",
+   "account_holder": "TRADE LINKS INDIA",
+   "account_number": "78439336112",
+   "ifsc_code": "PROG0920445",
+   "opening_balance": "59131.72",
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 6086.63,
+    "balance": 65218.35
+   },
+   {
+    "date": "2024-01-02",
+    "debit": 23702.04,
+    "credit": null,
+    "balance": 41516.31
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 9055.89,
+    "credit": null,
+    "balance": 32460.42
+   },
+   {
+    "date": "2024-01-04",
+    "debit": 2177.93,
+    "credit": null,
+    "balance": 30282.49
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 661.06,
+    "balance": 30943.55
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 1789.08,
+    "balance": 32732.63
+   },
+   {
+    "date": "2024-01-05",
+    "debit": null,
+    "credit": 4795.06,
+    "balance": 37527.69
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 652.28,
+    "credit": null,
+    "balance": 36875.41
+   },
+   {
+    "date": "2024-01-05",
+    "debit": null,
+    "credit": 1212.22,
+    "balance": 38087.63
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 407.72,
+    "credit": null,
+    "balance": 37679.91
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 20253.8,
+    "credit": null,
+    "balance": 17426.11
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 2574.63,
+    "balance": 20000.74
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 571.24,
+    "credit": null,
+    "balance": 19429.5
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4182,
+  "out": 810,
+  "cost": 0.0
+ },
+ "latency_s": 108.92,
+ "at": 1790414021.024711
+}

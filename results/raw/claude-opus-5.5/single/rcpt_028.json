@@ -1,0 +1,39 @@
+{
+ "key": "77ddffc39b2929909a0ebbe537302b44655515a8d2742670c98caa31be3fffbf",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rcpt_028",
+ "type": "receipts",
+ "text": "{\"total\": \"426,195\", \"subtotal\": \"369,000\", \"tax\": \"38,745\", \"items\": [{\"name\": \"SAMGYOPSAL\", \"price\": \"194,000\"}, {\"name\": \"SUL LUNG TANG\", \"price\": \"75,000\"}, {\"name\": \"MAKOLI\", \"price\": \"100,000\"}]}",
+ "parsed": {
+  "total": "426,195",
+  "subtotal": "369,000",
+  "tax": "38,745",
+  "items": [
+   {
+    "name": "SAMGYOPSAL",
+    "price": "194,000"
+   },
+   {
+    "name": "SUL LUNG TANG",
+    "price": "75,000"
+   },
+   {
+    "name": "MAKOLI",
+    "price": "100,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 110,
+  "cost": 0.0,
+  "notional_cost": 0.027984000000000002,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 7.66,
+ "at": 1790378690.765198
+}

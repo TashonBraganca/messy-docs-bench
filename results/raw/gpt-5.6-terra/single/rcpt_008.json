@@ -1,0 +1,35 @@
+{
+ "key": "e7439980970de7f0a778a01779e811b09b192f6a3c0e90c266a4e9c798cad186",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_008",
+ "type": "receipts",
+ "text": "{\"total\":\"50,000\",\"subtotal\":\"45,455\",\"tax\":\"4,545\",\"items\":[{\"name\":\"[REG] BLACK SAKURA\",\"price\":\"45,455\"},{\"name\":\"COOKIE DOH SAUCES\",\"price\":\"0\"},{\"name\":\"NATA DE COCO\",\"price\":\"0\"}]}",
+ "parsed": {
+  "total": "50,000",
+  "subtotal": "45,455",
+  "tax": "4,545",
+  "items": [
+   {
+    "name": "[REG] BLACK SAKURA",
+    "price": "45,455"
+   },
+   {
+    "name": "COOKIE DOH SAUCES",
+    "price": "0"
+   },
+   {
+    "name": "NATA DE COCO",
+    "price": "0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1165,
+  "out": 67,
+  "cost": 0.0
+ },
+ "latency_s": 5.04,
+ "at": 1790379209.502163
+}

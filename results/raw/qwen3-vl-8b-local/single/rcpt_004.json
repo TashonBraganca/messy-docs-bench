@@ -1,0 +1,35 @@
+{
+ "key": "f3e6af216e4d997a5167740010836ae9a109ddb9d64cab3d920775dc515585e5",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_004",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"174,600\",\n    \"subtotal\": \"194,000\",\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"ICE BLACKCOFFE\",\n            \"price\": \"82,000\"\n        },\n        {\n            \"name\": \"AVOCADO COFFEE\",\n            \"price\": \"61,000\"\n        },\n        {\n            \"name\": \"CHIKEN KATSU FF\",\n            \"price\": \"51,000\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "174,600",
+  "subtotal": "194,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "ICE BLACKCOFFE",
+    "price": "82,000"
+   },
+   {
+    "name": "AVOCADO COFFEE",
+    "price": "61,000"
+   },
+   {
+    "name": "CHIKEN KATSU FF",
+    "price": "51,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 125,
+  "cost": 0.0
+ },
+ "latency_s": 14.17,
+ "at": 1790412929.3782349
+}

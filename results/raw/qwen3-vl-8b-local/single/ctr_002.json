@@ -1,0 +1,24 @@
+{
+ "key": "4c779dab299dc421ed4020a115b9d4fb0bfd5f8922f10fe046fd9be05c728249",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_002",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"July 20, 2008\",\n  \"effective_date\": \"1st day of October, 2008\",\n  \"expiration_date\": \"October 1, 2013\",\n  \"governing_law\": \"Victoria, Australia\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": null\n}",
+ "parsed": {
+  "agreement_date": "July 20, 2008",
+  "effective_date": "1st day of October, 2008",
+  "expiration_date": "October 1, 2013",
+  "governing_law": "Victoria, Australia",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 11542,
+  "out": 90,
+  "cost": 0.0
+ },
+ "latency_s": 47.44,
+ "at": 1790412185.532436
+}

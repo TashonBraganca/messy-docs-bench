@@ -1,0 +1,31 @@
+{
+ "key": "40a8ac5e2d20950f87c32b7aee141ba2fa3dabeaa8ed79d01a311e985cd71742",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rcpt_018",
+ "type": "receipts",
+ "text": "{\"total\": null, \"subtotal\": \"156000\", \"tax\": null, \"items\": [{\"name\": \"Propolis Cair\", \"price\": \"156000\"}]}",
+ "parsed": {
+  "total": null,
+  "subtotal": "156000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Propolis Cair",
+    "price": "156000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 145,
+  "cost": 0.0,
+  "notional_cost": 0.013035999999999999,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.3,
+ "at": 1790378668.5798242
+}

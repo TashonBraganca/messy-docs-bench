@@ -1,0 +1,22 @@
+{
+ "key": "3d017479dcd3e46657683648d2e1e861fa43d5b91530a04f776ad4d4d27f2734",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_029",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"UNIHAKKA INTERNATIONAL SDN BHD\",\n  \"date\": \"20 Mar 2018 17:55\",\n  \"address\": \"12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor\",\n  \"total\": \"$6.60\"\n}",
+ "parsed": {
+  "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "20 Mar 2018 17:55",
+  "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",
+  "total": "$6.60"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1763,
+  "out": 89,
+  "cost": 0.0
+ },
+ "latency_s": 17.23,
+ "at": 1790413912.100658
+}

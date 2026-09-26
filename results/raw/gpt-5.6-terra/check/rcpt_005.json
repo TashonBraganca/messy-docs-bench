@@ -1,0 +1,27 @@
+{
+ "key": "ba8aae8882a281cc561716cb4f7721ea92a39250c79170ba2cc914c2182ec012",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_005",
+ "type": "receipts",
+ "text": "{\"total\":\"31.000\",\"subtotal\":\"28.182\",\"tax\":\"2.818\",\"items\":[{\"name\":\"TRAD KY TOAST CARTE\",\"price\":\"28.182\"}]}",
+ "parsed": {
+  "total": "31.000",
+  "subtotal": "28.182",
+  "tax": "2.818",
+  "items": [
+   {
+    "name": "TRAD KY TOAST CARTE",
+    "price": "28.182"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1471,
+  "out": 100,
+  "cost": 0.0
+ },
+ "latency_s": 8.05,
+ "at": 1790411069.099284
+}

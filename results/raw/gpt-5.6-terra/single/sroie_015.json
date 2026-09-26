@@ -1,0 +1,22 @@
+{
+ "key": "a198a17c55c6b42b4e19aec4ed55f6e4c5f827ce86b71891f214596e07e289f1",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "sroie_015",
+ "type": "sroie",
+ "text": "{\"company\":\"TEO HENG STATIONERY & BOOKS\",\"date\":\"27/01/2018\",\"address\":\"NO. 5A, JALAN BESAR, 86000 BATU PAHAT\",\"total\":\"27.35\"}",
+ "parsed": {
+  "company": "TEO HENG STATIONERY & BOOKS",
+  "date": "27/01/2018",
+  "address": "NO. 5A, JALAN BESAR, 86000 BATU PAHAT",
+  "total": "27.35"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1104,
+  "out": 296,
+  "cost": 0.0
+ },
+ "latency_s": 6.41,
+ "at": 1790379265.713655
+}

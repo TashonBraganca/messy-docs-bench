@@ -1,0 +1,31 @@
+{
+ "key": "5da1d1d5aecfada9fb6422289dfa127149492f807a682dd7ada4b59f3baa31b2",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rcpt_011",
+ "type": "receipts",
+ "text": "{\"total\": \"230,000\", \"subtotal\": null, \"tax\": null, \"items\": [{\"name\": \"BANABERRY FRESH CREAM CAK\", \"price\": \"230,000\"}]}",
+ "parsed": {
+  "total": "230,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "BANABERRY FRESH CREAM CAK",
+    "price": "230,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 63,
+  "cost": 0.0,
+  "notional_cost": 0.011404,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 4.98,
+ "at": 1790378652.575464
+}

@@ -1,0 +1,24 @@
+{
+ "key": "5f413e62fd6f7300d895196661c2854e042b724efee162858c1c6d9db62f9cf6",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "ctr_012",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"August 9, 1999\",\"effective_date\":null,\"expiration_date\":null,\"governing_law\":\"State of New York\",\"renewal_term\":\"one year\",\"notice_period_to_terminate_renewal\":\"ninety (90) days\"}",
+ "parsed": {
+  "agreement_date": "August 9, 1999",
+  "effective_date": null,
+  "expiration_date": null,
+  "governing_law": "State of New York",
+  "renewal_term": "one year",
+  "notice_period_to_terminate_renewal": "ninety (90) days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 3997,
+  "out": 139,
+  "cost": 0.0
+ },
+ "latency_s": 3.3,
+ "at": 1790379168.5931242
+}

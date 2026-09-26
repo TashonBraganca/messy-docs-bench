@@ -1,0 +1,31 @@
+{
+ "key": "c161a33178d4d0f2faefea66527bf1d0cab42ecf47ac7c38e10487e57c289e3b",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_027",
+ "type": "receipts",
+ "text": "{\"total\":\"61,600\",\"subtotal\":\"56,000\",\"tax\":\"5,600\",\"items\":[{\"name\":\"PKT AYAM\",\"price\":\"33,000\"},{\"name\":\"GULAI OTAK\",\"price\":\"23,000\"}]}",
+ "parsed": {
+  "total": "61,600",
+  "subtotal": "56,000",
+  "tax": "5,600",
+  "items": [
+   {
+    "name": "PKT AYAM",
+    "price": "33,000"
+   },
+   {
+    "name": "GULAI OTAK",
+    "price": "23,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1284,
+  "out": 53,
+  "cost": 0.0
+ },
+ "latency_s": 4.94,
+ "at": 1790411097.513104
+}

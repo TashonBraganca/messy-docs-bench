@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 0.3,
+ "truth": {
+  "employee_ssn": "925-55-3773",
+  "employer_ein": "69-7730754",
+  "employer_name_address": "Peck, Hamilton and Wiggins\n43483 Green Manor\nNorth Renee, CA 46872",
+  "employee_first_name": "Rachael",
+  "employee_last_name": "Bates",
+  "employee_address": "282 Monique Trail Apt. 902\nEast Thomas, CA 95553",
+  "box1_wages": "187,788.95",
+  "box2_federal_tax": "40,360.19",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "204,369.41",
+  "box6_medicare_tax": "2,963.36",
+  "box12a_code": "D",
+  "box12a_amount": "16,580.46",
+  "box15_state": "CA",
+  "box16_state_wages": "187,788.95",
+  "box17_state_tax": "14,845.28"
+ }
+}

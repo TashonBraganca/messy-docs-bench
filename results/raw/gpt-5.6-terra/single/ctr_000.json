@@ -1,0 +1,24 @@
+{
+ "key": "567295ad497de01f39415bdd6917b33dfff33b6d6ecacb8f4980c549a656d08a",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "ctr_000",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"29/3/18\",\"effective_date\":\"29/3/18\",\"expiration_date\":\"29/3/19\",\"governing_law\":\"Ohio law\",\"renewal_term\":\"indefinitely\",\"notice_period_to_terminate_renewal\":\"twelve (12) months\"}",
+ "parsed": {
+  "agreement_date": "29/3/18",
+  "effective_date": "29/3/18",
+  "expiration_date": "29/3/19",
+  "governing_law": "Ohio law",
+  "renewal_term": "indefinitely",
+  "notice_period_to_terminate_renewal": "twelve (12) months"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 7057,
+  "out": 457,
+  "cost": 0.0
+ },
+ "latency_s": 6.57,
+ "at": 1790379161.781364
+}

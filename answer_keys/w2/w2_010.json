@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 1.0,
+ "truth": {
+  "employee_ssn": "916-39-9323",
+  "employer_ein": "92-2758623",
+  "employer_name_address": "Jones-Allen\n41252 Andrade Mountain\nLake Stephanie, TX 52701",
+  "employee_first_name": "Nicole",
+  "employee_last_name": "Martin",
+  "employee_address": "68656 Michael Course\nAndrewside, TX 60619",
+  "box1_wages": "46,382.53",
+  "box2_federal_tax": "11,789.88",
+  "box3_ss_wages": "50,956.22",
+  "box4_ss_tax": "3,159.29",
+  "box5_medicare_wages": "50,956.22",
+  "box6_medicare_tax": "738.87",
+  "box12a_code": "D",
+  "box12a_amount": "4,573.69",
+  "box15_state": "TX",
+  "box16_state_wages": "",
+  "box17_state_tax": ""
+ }
+}

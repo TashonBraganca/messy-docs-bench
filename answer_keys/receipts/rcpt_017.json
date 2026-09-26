@@ -1,0 +1,34 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "Rp. 91,000",
+  "subtotal": "91,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Goblin's Mace",
+    "price": "25,000"
+   },
+   {
+    "name": "Mozarella Hot Dog",
+    "price": "38,000"
+   },
+   {
+    "name": "Chili Pepper Croquette",
+    "price": "14,000"
+   },
+   {
+    "name": "Cheese Croquette",
+    "price": "14,000"
+   },
+   {
+    "name": "Plastik Amook",
+    "price": "0"
+   },
+   {
+    "name": "Plastik Putih Take Away",
+    "price": "0"
+   }
+  ]
+ }
+}

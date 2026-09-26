@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 1.0,
+ "truth": {
+  "employee_ssn": "917-40-2448",
+  "employer_ein": "65-8363720",
+  "employer_name_address": "Nixon-Kaufman\n04352 Matthew Corner Suite 483\nNew Kimberly, IL 12409",
+  "employee_first_name": "Joseph",
+  "employee_last_name": "Davis",
+  "employee_address": "060 Torres Fort Apt. 982\nDuranfort, IL 20091",
+  "box1_wages": "151,064.92",
+  "box2_federal_tax": "19,589.51",
+  "box3_ss_wages": "164,016.56",
+  "box4_ss_tax": "10,169.03",
+  "box5_medicare_wages": "164,016.56",
+  "box6_medicare_tax": "2,378.24",
+  "box12a_code": "D",
+  "box12a_amount": "12,951.64",
+  "box15_state": "IL",
+  "box16_state_wages": "151,064.92",
+  "box17_state_tax": "5,310.76"
+ }
+}

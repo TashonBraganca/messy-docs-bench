@@ -1,0 +1,47 @@
+{
+ "key": "ca16b2f3268fc16f6118007da7ac7fbcee429ae6bdff9ae1eefdeeefce5a7830",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_014",
+ "type": "receipts",
+ "text": "{\"total\":\"281,435\",\"subtotal\":\"238,000\",\"tax\":\"25,585\",\"items\":[{\"name\":\"RedVelvet Cheese Slc\",\"price\":\"38,000\"},{\"name\":\"Chicken Baked Rice\",\"price\":\"55,000\"},{\"name\":\"Fish n Chips\",\"price\":\"65,000\"},{\"name\":\"Mushroom Soup\",\"price\":\"35,000\"},{\"name\":\"Chamomile\",\"price\":\"25,000\"},{\"name\":\"Ice Tea\",\"price\":\"20,000\"}]}",
+ "parsed": {
+  "total": "281,435",
+  "subtotal": "238,000",
+  "tax": "25,585",
+  "items": [
+   {
+    "name": "RedVelvet Cheese Slc",
+    "price": "38,000"
+   },
+   {
+    "name": "Chicken Baked Rice",
+    "price": "55,000"
+   },
+   {
+    "name": "Fish n Chips",
+    "price": "65,000"
+   },
+   {
+    "name": "Mushroom Soup",
+    "price": "35,000"
+   },
+   {
+    "name": "Chamomile",
+    "price": "25,000"
+   },
+   {
+    "name": "Ice Tea",
+    "price": "20,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1550,
+  "out": 203,
+  "cost": 0.0
+ },
+ "latency_s": 6.16,
+ "at": 1790411079.832781
+}

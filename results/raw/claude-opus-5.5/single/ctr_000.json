@@ -1,0 +1,28 @@
+{
+ "key": "8e705c57fa475604ea84d882bbccf28ecc0f7432afd6ae3be768939aaab725a7",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "ctr_000",
+ "type": "contracts",
+ "text": "{\"agreement_date\": \"29/3/18\", \"effective_date\": null, \"expiration_date\": \"29/3/19\", \"governing_law\": \"Ohio\", \"renewal_term\": \"perpetual\", \"notice_period_to_terminate_renewal\": \"12 months\"}",
+ "parsed": {
+  "agreement_date": "29/3/18",
+  "effective_date": null,
+  "expiration_date": "29/3/19",
+  "governing_law": "Ohio",
+  "renewal_term": "perpetual",
+  "notice_period_to_terminate_renewal": "12 months"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 441,
+  "cost": 0.0,
+  "notional_cost": 0.099756,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 7.97,
+ "at": 1790378866.903291
+}

@@ -1,0 +1,22 @@
+{
+ "key": "3e8354d8544204efcc41a15e6211757c5bfba4a3e65062387f840467d9fd1099",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_026",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"YONG TAT HARDWARE TRADING\",\n  \"date\": \"13/03/2018\",\n  \"address\": \"NO 4,JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR.\",\n  \"total\": \"72.00\"\n}",
+ "parsed": {
+  "company": "YONG TAT HARDWARE TRADING",
+  "date": "13/03/2018",
+  "address": "NO 4,JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR.",
+  "total": "72.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1763,
+  "out": 87,
+  "cost": 0.0
+ },
+ "latency_s": 15.48,
+ "at": 1790413861.409128
+}

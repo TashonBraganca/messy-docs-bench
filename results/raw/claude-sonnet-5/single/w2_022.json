@@ -1,0 +1,39 @@
+{
+ "key": "ecf35854f80e149b5e03889d06ee885c6247125c7a192b772d7dc9a11d641a9a",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "w2_022",
+ "type": "w2",
+ "text": "```json\n{\n  \"employee_ssn\": \"961-50-8592\",\n  \"employer_ein\": \"29-8825061\",\n  \"employer_name_address\": \"Newman-Stephenson\\n383 Susan Squares Suite 003\\nDyerchester, GA 11129\",\n  \"employee_first_name\": \"Jonathan\",\n  \"employee_last_name\": \"Contreras\",\n  \"employee_address\": \"70565 Gonzalez Union Suite 813\\nBookerport, GA 25920\",\n  \"box1_wages\": \"78,658.37\",\n  \"box2_federal_tax\": \"7,338.72\",\n  \"box3_ss_wages\": \"86,300.85\",\n  \"box4_ss_tax\": \"5,350.65\",\n  \"box5_medicare_wages\": \"86,300.85\",\n  \"box6_medicare_tax\": \"1,251.36\",\n  \"box12a_code\": \"D\",\n  \"box12a_amount\": \"7,642.48\",\n  \"box15_state\": \"GA\",\n  \"box16_state_wages\": \"78,658.37\",\n  \"box17_state_tax\": \"1,871.60\"\n}\n```",
+ "parsed": {
+  "employee_ssn": "961-50-8592",
+  "employer_ein": "29-8825061",
+  "employer_name_address": "Newman-Stephenson\n383 Susan Squares Suite 003\nDyerchester, GA 11129",
+  "employee_first_name": "Jonathan",
+  "employee_last_name": "Contreras",
+  "employee_address": "70565 Gonzalez Union Suite 813\nBookerport, GA 25920",
+  "box1_wages": "78,658.37",
+  "box2_federal_tax": "7,338.72",
+  "box3_ss_wages": "86,300.85",
+  "box4_ss_tax": "5,350.65",
+  "box5_medicare_wages": "86,300.85",
+  "box6_medicare_tax": "1,251.36",
+  "box12a_code": "D",
+  "box12a_amount": "7,642.48",
+  "box15_state": "GA",
+  "box16_state_wages": "78,658.37",
+  "box17_state_tax": "1,871.60"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 354,
+  "cost": 0.0,
+  "notional_cost": 0.012712000000000001,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.64,
+ "at": 1790378804.097824
+}

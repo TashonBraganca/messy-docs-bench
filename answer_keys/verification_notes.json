@@ -1,0 +1,18 @@
+{
+ "rvl_006:vendor": "reviewer's fuller name and the short name both accepted",
+ "rvl_007:invoice_date": "reviewer read '1988 Jun-8', which is the recipient's RECEIVED stamp; the prompt told models to ignore recipient stamps",
+ "rvl_008:vendor": "reviewer appended 'Carolina Cigarette Company', which is the billed-to client, not the vendor",
+ "rvl_013:total": "vendor printed 12,300.00 (struck through); payer handwrote pay 2,050. Both defensible",
+ "rvl_016:invoice_date": "only a service period ('January 1989') is printed; reviewer reads it as the date, prompt asked for the issue date",
+ "rvl_018:invoice_number": "'#22740' is handwritten top right; may be the vendor's number. Either null or 22740 accepted",
+ "rvl_044:invoice_number": "reviewer read the faint number as 606009",
+ "rvl_053:invoice_date": "only the payer's handwriting gives a date (11-13-88)",
+ "rvl_053:total": "vendor printed 7,558.00; payer handwrote net 6,424.30. Both defensible",
+ "ctr_010:effective_date:effective_date": "contract says 'Term will begin on February 1, 1998'; our prompt told models effective_date is null unless called an effective date",
+ "sroie_000:address:address": "published key says B1750; image prints 81750",
+ "sroie_013:company:company": "published key has typos (KOPITAM SND); image prints both names",
+ "sroie_015:company:company": "published key says TED; image prints TEO",
+ "sroie_025:address:address": "published key says PARINDUSTRIAN; image prints Perindustrian",
+ "sroie_027:address:address": "printed text is cut off at the paper edge; JAY and JAYA both accepted",
+ "sroie_010:address:address": "'1413-SETIA ALAM 2' is a branch line; with or without accepted"
+}
