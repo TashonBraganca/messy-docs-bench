@@ -1,0 +1,12 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Adams Letter Co., Inc.",
+  "invoice_number": "5035",
+  "invoice_date": "August 9, 1982",
+  "total": "1,275.66"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

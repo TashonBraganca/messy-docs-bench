@@ -1,0 +1,35 @@
+{
+ "key": "7fddd3526f84dc4548b633d820c2c3ba6e12159d4547f75a13d11c5ac1051f46",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "w2_014",
+ "type": "w2",
+ "text": "{\n    \"employee_ssn\": \"917-40-2448\",\n    \"employer_ein\": \"65-8363720\",\n    \"employer_name_address\": \"Nixon-Kaufman\\n04352 Matthew Corner Suite 483\\nNew Kimberly, IL 12409\",\n    \"employee_first_name\": \"Joséph\",\n    \"employee_last_name\": \"Davis\",\n    \"employee_address\": \"060 Torres Fort Apt. 982\\nDuranfort, IL 20091\",\n    \"box1_wages\": \"151,064.92\",\n    \"box2_federal_tax\": \"19,589.51\",\n    \"box3_ss_wages\": \"164,016.56\",\n    \"box4_ss_tax\": \"10,169.03\",\n    \"box5_medicare_wages\": \"164,016.56\",\n    \"box6_medicare_tax\": \"2,378.24\",\n    \"box12a_code\": \"D\",\n    \"box12a_amount\": \"12,951.64\",\n    \"box15_state\": \"IL\",\n    \"box16_state_wages\": \"151,064.92\",\n    \"box17_state_tax\": \"5,310.76\"\n}",
+ "parsed": {
+  "employee_ssn": "917-40-2448",
+  "employer_ein": "65-8363720",
+  "employer_name_address": "Nixon-Kaufman\n04352 Matthew Corner Suite 483\nNew Kimberly, IL 12409",
+  "employee_first_name": "Joséph",
+  "employee_last_name": "Davis",
+  "employee_address": "060 Torres Fort Apt. 982\nDuranfort, IL 20091",
+  "box1_wages": "151,064.92",
+  "box2_federal_tax": "19,589.51",
+  "box3_ss_wages": "164,016.56",
+  "box4_ss_tax": "10,169.03",
+  "box5_medicare_wages": "164,016.56",
+  "box6_medicare_tax": "2,378.24",
+  "box12a_code": "D",
+  "box12a_amount": "12,951.64",
+  "box15_state": "IL",
+  "box16_state_wages": "151,064.92",
+  "box17_state_tax": "5,310.76"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1258,
+  "out": 323,
+  "cost": 0.0
+ },
+ "latency_s": 37.57,
+ "at": 1790415918.358817
+}

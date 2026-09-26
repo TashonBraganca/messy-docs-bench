@@ -1,0 +1,22 @@
+{
+ "key": "73bf0de417f2447100f5c02fa8b906e3dce3b71dd028a3e2184c2bba83b24691",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rvl_055",
+ "type": "invoices",
+ "text": "{\"vendor\":\"THE ANDREW JERGENS COMPANY\",\"invoice_number\":\"101786-A\",\"invoice_date\":null,\"total\":\"$189,285.12\"}",
+ "parsed": {
+  "vendor": "THE ANDREW JERGENS COMPANY",
+  "invoice_number": "101786-A",
+  "invoice_date": null,
+  "total": "$189,285.12"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1088,
+  "out": 154,
+  "cost": 0.0
+ },
+ "latency_s": 4.87,
+ "at": 1790379196.750578
+}

@@ -1,0 +1,24 @@
+{
+ "key": "1ce24b4dc4b27caaf75618d30257b0f6f8320ae329b1dfdf6fa4eab866dfa5fa",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_013",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"11/12/2015\",\n  \"effective_date\": null,\n  \"expiration_date\": \"11/12/2018\",\n  \"governing_law\": \"Taiwan\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": null\n}",
+ "parsed": {
+  "agreement_date": "11/12/2015",
+  "effective_date": null,
+  "expiration_date": "11/12/2018",
+  "governing_law": "Taiwan",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 3008,
+  "out": 79,
+  "cost": 0.0
+ },
+ "latency_s": 18.0,
+ "at": 1790412590.521981
+}

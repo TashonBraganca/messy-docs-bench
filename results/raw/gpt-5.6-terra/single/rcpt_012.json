@@ -1,0 +1,31 @@
+{
+ "key": "b7431a44fe3a0e3739875e7c637d39bd3e0e1182fe73c191c987fb363ea822e6",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_012",
+ "type": "receipts",
+ "text": "{\"total\":\"120,000\",\"subtotal\":null,\"tax\":null,\"items\":[{\"name\":\"BLUS WANITA\",\"price\":\"120,000\"},{\"name\":\"SHOPPING BAG\",\"price\":\"0\"}]}",
+ "parsed": {
+  "total": "120,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "BLUS WANITA",
+    "price": "120,000"
+   },
+   {
+    "name": "SHOPPING BAG",
+    "price": "0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 712,
+  "out": 200,
+  "cost": 0.0
+ },
+ "latency_s": 5.59,
+ "at": 1790379215.094383
+}

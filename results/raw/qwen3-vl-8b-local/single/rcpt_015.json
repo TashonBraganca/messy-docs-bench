@@ -1,0 +1,31 @@
+{
+ "key": "3808c6b1c5e58fdba707eeb2625f9f93281e3965b1bf9b3542a3233ea64ff61b",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_015",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"63.000\",\n    \"subtotal\": null,\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"Lemon Tea (L)\",\n            \"price\": \"25.000\"\n        },\n        {\n            \"name\": \"Caramel Small\",\n            \"price\": \"38.000\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "63.000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "Lemon Tea (L)",
+    "price": "25.000"
+   },
+   {
+    "name": "Caramel Small",
+    "price": "38.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1215,
+  "out": 86,
+  "cost": 0.0
+ },
+ "latency_s": 14.97,
+ "at": 1790413161.19264
+}

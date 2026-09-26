@@ -1,0 +1,26 @@
+{
+ "key": "7817bd69f5ca4f61067f756393530cd285f499542f5aa0db336b275254f6e9bb",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rvl_043",
+ "type": "invoices",
+ "text": "{\"vendor\": \"Borriston Laboratories, Inc.\", \"invoice_number\": \"1544-4\", \"invoice_date\": \"February 23, 1984\", \"total\": \"47,225.00\"}",
+ "parsed": {
+  "vendor": "Borriston Laboratories, Inc.",
+  "invoice_number": "1544-4",
+  "invoice_date": "February 23, 1984",
+  "total": "47,225.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 64,
+  "cost": 0.0,
+  "notional_cost": 0.014783999999999999,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.09,
+ "at": 1790378619.644969
+}

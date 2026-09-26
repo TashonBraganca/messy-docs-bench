@@ -1,0 +1,31 @@
+{
+ "key": "cefd08724cc244cf2298c7decfeb1b2e20b5d081890c96e86328318712f32522",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_023",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"63,000\",\n    \"subtotal\": null,\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"6 TWIST DONUT\",\n            \"price\": \"54,000\"\n        },\n        {\n            \"name\": \"1 REDBEAN BREAD\",\n            \"price\": \"9,000\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "63,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "6 TWIST DONUT",
+    "price": "54,000"
+   },
+   {
+    "name": "1 REDBEAN BREAD",
+    "price": "9,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 88,
+  "cost": 0.0
+ },
+ "latency_s": 13.33,
+ "at": 1790413286.612171
+}

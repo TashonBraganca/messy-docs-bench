@@ -1,0 +1,14 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Hazleton Laboratories America, Inc.",
+  "invoice_number": null,
+  "invoice_date": "December 2, 1985",
+  "total": "11,280.00"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "invoice_number: faint text top right, looks like '?C600S', unreadable to me"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

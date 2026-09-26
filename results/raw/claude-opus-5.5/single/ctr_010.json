@@ -1,0 +1,28 @@
+{
+ "key": "c4efb514beea2158e70e654a199123c698890a5382b0e23922267e7e8355c844",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "ctr_010",
+ "type": "contracts",
+ "text": "{\"agreement_date\": \"January 26, 1998\", \"effective_date\": null, \"expiration_date\": \"January 26, 1999\", \"governing_law\": \"State of California\", \"renewal_term\": null, \"notice_period_to_terminate_renewal\": null}",
+ "parsed": {
+  "agreement_date": "January 26, 1998",
+  "effective_date": null,
+  "expiration_date": "January 26, 1999",
+  "governing_law": "State of California",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 168,
+  "cost": 0.0,
+  "notional_cost": 0.069408,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.5,
+ "at": 1790378884.165129
+}

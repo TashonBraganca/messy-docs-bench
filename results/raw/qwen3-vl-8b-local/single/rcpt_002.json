@@ -1,0 +1,31 @@
+{
+ "key": "6eb7fd037d651b6bc7b3ae3d3cc10eeef542fd5aad85cfa4a5e7ee8c8e93975e",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_002",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"28,000\",\n    \"subtotal\": \"28,000\",\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"JASMINE MT (L)\",\n            \"price\": \"24,000\"\n        },\n        {\n            \"name\": \"COCONUT JELLY (L)\",\n            \"price\": \"4,000\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "28,000",
+  "subtotal": "28,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "JASMINE MT (L)",
+    "price": "24,000"
+   },
+   {
+    "name": "COCONUT JELLY (L)",
+    "price": "4,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 97,
+  "cost": 0.0
+ },
+ "latency_s": 12.63,
+ "at": 1790412904.3454201
+}

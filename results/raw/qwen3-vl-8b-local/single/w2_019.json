@@ -1,0 +1,35 @@
+{
+ "key": "3eca02306803d6f3d0b6caa2bb259d452d5ead3a03a4a9d2c2401df0a8c62de5",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "w2_019",
+ "type": "w2",
+ "text": "{\n    \"employee_ssn\": \"959-10-7671\",\n    \"employer_ein\": \"96-7398490\",\n    \"employer_name_address\": \"Goodwin; Newman and Mitchell\\n227 Cooper Hills\\nJoanneview, GA 53743\",\n    \"employee_first_name\": \"Diana\",\n    \"employee_last_name\": \"Turner\",\n    \"employee_address\": \"22138 Pierce Mission Suite 762\\nEast.Christopher, GA 45321\",\n    \"box1_wages\": \"127,491.40\",\n    \"box2_federal_tax\": \"31,512.52\",\n    \"box3_ss_wages\": \"141,119.44\",\n    \"box4_ss_tax\": \"8,749.41\",\n    \"box5_medicare_wages\": \"141,119.44\",\n    \"box6_medicare_tax\": \"2,046.23\",\n    \"box12a_code\": \"D\",\n    \"box12a_amount\": \"13,628.04\",\n    \"box15_state\": \"GA\",\n    \"box16_state_wages\": \"127,491.40\",\n    \"box17_state_tax\": \"6,185.59\"\n}",
+ "parsed": {
+  "employee_ssn": "959-10-7671",
+  "employer_ein": "96-7398490",
+  "employer_name_address": "Goodwin; Newman and Mitchell\n227 Cooper Hills\nJoanneview, GA 53743",
+  "employee_first_name": "Diana",
+  "employee_last_name": "Turner",
+  "employee_address": "22138 Pierce Mission Suite 762\nEast.Christopher, GA 45321",
+  "box1_wages": "127,491.40",
+  "box2_federal_tax": "31,512.52",
+  "box3_ss_wages": "141,119.44",
+  "box4_ss_tax": "8,749.41",
+  "box5_medicare_wages": "141,119.44",
+  "box6_medicare_tax": "2,046.23",
+  "box12a_code": "D",
+  "box12a_amount": "13,628.04",
+  "box15_state": "GA",
+  "box16_state_wages": "127,491.40",
+  "box17_state_tax": "6,185.59"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1258,
+  "out": 319,
+  "cost": 0.0
+ },
+ "latency_s": 31.55,
+ "at": 1790416078.133348
+}

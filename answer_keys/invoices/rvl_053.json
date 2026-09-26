@@ -1,0 +1,15 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Newsday, Inc.",
+  "invoice_number": null,
+  "invoice_date": null,
+  "total": "7,558.00"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "invoice_number/date: none printed by vendor; 'TRUE 11/13' and '12-8-88' are the payer's handwriting; period 'PER-11 1988'",
+  "total: charges 7,558.00, payer wrote net 6,424.30"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

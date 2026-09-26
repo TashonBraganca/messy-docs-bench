@@ -1,0 +1,39 @@
+{
+ "key": "b6efd68ff83f167cd8f3c20ab5b4a4d2e29143e2185d4038a74d1d3274fd2c4a",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rcpt_004",
+ "type": "receipts",
+ "text": "```json\n{\n  \"total\": \"174,600\",\n  \"subtotal\": \"194,000\",\n  \"tax\": null,\n  \"items\": [\n    {\"name\": \"ICE BLACKCOFFE\", \"price\": \"82,000\"},\n    {\"name\": \"AVOCADO COFFEE\", \"price\": \"61,000\"},\n    {\"name\": \"CHIKEN KATSU FF\", \"price\": \"51,000\"}\n  ]\n}\n```",
+ "parsed": {
+  "total": "174,600",
+  "subtotal": "194,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "ICE BLACKCOFFE",
+    "price": "82,000"
+   },
+   {
+    "name": "AVOCADO COFFEE",
+    "price": "61,000"
+   },
+   {
+    "name": "CHIKEN KATSU FF",
+    "price": "51,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 137,
+  "cost": 0.0,
+  "notional_cost": 0.009918,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 6.01,
+ "at": 1790378629.586237
+}

@@ -1,0 +1,22 @@
+{
+ "key": "4328fd2fd2c086b771ee1ded54c71abb3041bc4677392b44c16a28462b6acf63",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_016",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"TEO HENG STATIONERY & BOOKS\",\n  \"date\": \"15/03/2018\",\n  \"address\": \"NO. 53, JALAN BESAR, 45600 BATANG BERJUNJUNG SELANGOR DARUL EHSAN\",\n  \"total\": \"127.20\"\n}",
+ "parsed": {
+  "company": "TEO HENG STATIONERY & BOOKS",
+  "date": "15/03/2018",
+  "address": "NO. 53, JALAN BESAR, 45600 BATANG BERJUNJUNG SELANGOR DARUL EHSAN",
+  "total": "127.20"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 3927,
+  "out": 87,
+  "cost": 0.0
+ },
+ "latency_s": 44.94,
+ "at": 1790413662.7335
+}

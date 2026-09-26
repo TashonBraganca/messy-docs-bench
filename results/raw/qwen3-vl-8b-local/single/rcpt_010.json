@@ -1,0 +1,27 @@
+{
+ "key": "d3df99e7d2cd4ea7de0c528e47ef74fe02769a4a4e42c0009a1544d3b116a2b5",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_010",
+ "type": "receipts",
+ "text": "{\n  \"total\": \"17,000\",\n  \"subtotal\": \"17,000\",\n  \"tax\": null,\n  \"items\": [\n    {\n      \"name\": \"CINNAMON SUGAR\",\n      \"price\": \"17,000\"\n    }\n  ]\n}",
+ "parsed": {
+  "total": "17,000",
+  "subtotal": "17,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "CINNAMON SUGAR",
+    "price": "17,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1215,
+  "out": 70,
+  "cost": 0.0
+ },
+ "latency_s": 10.78,
+ "at": 1790413050.419009
+}

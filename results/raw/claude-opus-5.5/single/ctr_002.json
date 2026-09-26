@@ -1,0 +1,28 @@
+{
+ "key": "2755e0ca9e967242de3c9f7013cfa5ec8a6df0ffc3b0dda860c420c1e6f4dc0c",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "ctr_002",
+ "type": "contracts",
+ "text": "{\"agreement_date\": \"1st day of October, 2008\", \"effective_date\": \"1st day of October, 2008\", \"expiration_date\": \"October 1, 2013\", \"governing_law\": \"Victoria, Australia\", \"renewal_term\": null, \"notice_period_to_terminate_renewal\": null}",
+ "parsed": {
+  "agreement_date": "1st day of October, 2008",
+  "effective_date": "1st day of October, 2008",
+  "expiration_date": "October 1, 2013",
+  "governing_law": "Victoria, Australia",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 625,
+  "cost": 0.0,
+  "notional_cost": 0.15817199999999998,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 8.55,
+ "at": 1790378867.484918
+}

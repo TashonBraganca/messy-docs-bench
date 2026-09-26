@@ -1,0 +1,35 @@
+{
+ "key": "6949120f11a12c49f3ea223673d85ff7168b682cf2470755d733d5461df34f79",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_018",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"967-56-6691\",\"employer_ein\":\"72-8632123\",\"employer_name_address\":\"Smith-Christensen\\n30445 Philip Ways Apt: 564\\nWest Christiansport, WA 83726\",\"employee_first_name\":\"Selena\",\"employee_last_name\":\"Wright\",\"employee_address\":\"8535 Henson Valleys Suite 883\\nNorth Sarahchester, WA 89596\",\"box1_wages\":\"82,805.45\",\"box2_federal_tax\":\"12,626.65\",\"box3_ss_wages\":\"57,458.66\",\"box4_ss_tax\":\"3,562.44\",\"box5_medicare_wages\":\"57,458.66\",\"box6_medicare_tax\":\"833.15\",\"box12a_code\":\"D\",\"box12a_amount\":\"4,653.21\",\"box15_state\":\"WA\",\"box16_state_wages\":null,\"box17_state_tax\":null}",
+ "parsed": {
+  "employee_ssn": "967-56-6691",
+  "employer_ein": "72-8632123",
+  "employer_name_address": "Smith-Christensen\n30445 Philip Ways Apt: 564\nWest Christiansport, WA 83726",
+  "employee_first_name": "Selena",
+  "employee_last_name": "Wright",
+  "employee_address": "8535 Henson Valleys Suite 883\nNorth Sarahchester, WA 89596",
+  "box1_wages": "82,805.45",
+  "box2_federal_tax": "12,626.65",
+  "box3_ss_wages": "57,458.66",
+  "box4_ss_tax": "3,562.44",
+  "box5_medicare_wages": "57,458.66",
+  "box6_medicare_tax": "833.15",
+  "box12a_code": "D",
+  "box12a_amount": "4,653.21",
+  "box15_state": "WA",
+  "box16_state_wages": null,
+  "box17_state_tax": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1272,
+  "out": 403,
+  "cost": 0.0
+ },
+ "latency_s": 5.86,
+ "at": 1790379357.708438
+}

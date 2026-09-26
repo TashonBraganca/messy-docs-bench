@@ -1,0 +1,39 @@
+{
+ "key": "188a84cae192a7ebaf9f461e4c0408888564697268566008d456db20c0f58231",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "w2_031",
+ "type": "w2",
+ "text": "{\"employee_ssn\": \"935-13-2169\", \"employer_ein\": \"86-3862118\", \"employer_name_address\": \"White-Robinson\\n265 Edward Stream Apt. 080\\nDavidmouth, MA 72597\", \"employee_first_name\": \"Melinda\", \"employee_last_name\": \"Strickland\", \"employee_address\": \"9366 Griffin Mill Apt. 009\\nMarshallmouth, MA 81578\", \"box1_wages\": \"199,700.03\", \"box2_federal_tax\": \"42,322.10\", \"box3_ss_wages\": \"184,500.00\", \"box4_ss_tax\": \"11,439.00\", \"box5_medicare_wages\": \"220,522.53\", \"box6_medicare_tax\": \"3,197.58\", \"box12a_code\": \"D\", \"box12a_amount\": \"20,822.50\", \"box15_state\": \"MA\", \"box16_state_wages\": \"199,700.03\", \"box17_state_tax\": \"8,198.78\"}",
+ "parsed": {
+  "employee_ssn": "935-13-2169",
+  "employer_ein": "86-3862118",
+  "employer_name_address": "White-Robinson\n265 Edward Stream Apt. 080\nDavidmouth, MA 72597",
+  "employee_first_name": "Melinda",
+  "employee_last_name": "Strickland",
+  "employee_address": "9366 Griffin Mill Apt. 009\nMarshallmouth, MA 81578",
+  "box1_wages": "199,700.03",
+  "box2_federal_tax": "42,322.10",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "220,522.53",
+  "box6_medicare_tax": "3,197.58",
+  "box12a_code": "D",
+  "box12a_amount": "20,822.50",
+  "box15_state": "MA",
+  "box16_state_wages": "199,700.03",
+  "box17_state_tax": "8,198.78"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 395,
+  "cost": 0.0,
+  "notional_cost": 0.019692,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.01,
+ "at": 1790378838.51442
+}

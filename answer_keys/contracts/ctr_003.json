@@ -1,0 +1,13 @@
+{
+ "doc_type": "contracts",
+ "truth": {
+  "agreement_date": null,
+  "effective_date": null,
+  "expiration_date": "12/31/34",
+  "governing_law": "Ohio",
+  "renewal_term": "successive 5 years",
+  "notice_period_to_terminate_renewal": "180 days / 6 months"
+ },
+ "source": "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.6_11951677_EX-10.6_License Agreement",
+ "chars": 45234
+}

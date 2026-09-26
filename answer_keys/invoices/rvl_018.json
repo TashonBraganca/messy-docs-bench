@@ -1,0 +1,14 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Leggett & Lustig Research, Inc.",
+  "invoice_number": null,
+  "invoice_date": "February 29, 1980",
+  "total": "27,000.00"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "invoice_number: '# 22740' is handwritten at top; 'LLR-126' may be a job code"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

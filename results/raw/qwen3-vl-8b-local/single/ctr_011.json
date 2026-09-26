@@ -1,0 +1,24 @@
+{
+ "key": "d080219ec08935d30d0b628b80557ba43e1fa1fc072d6cb9a457207d4c985ce9",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_011",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"March 20, 2020\",\n  \"effective_date\": null,\n  \"expiration_date\": \"February 28, 2025\",\n  \"governing_law\": \"State of Florida\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": null\n}",
+ "parsed": {
+  "agreement_date": "March 20, 2020",
+  "effective_date": null,
+  "expiration_date": "February 28, 2025",
+  "governing_law": "State of Florida",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4658,
+  "out": 80,
+  "cost": 0.0
+ },
+ "latency_s": 27.33,
+ "at": 1790412549.8958888
+}

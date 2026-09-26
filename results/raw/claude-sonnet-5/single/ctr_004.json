@@ -1,0 +1,28 @@
+{
+ "key": "7d2831566fb45c3156d33e1869725bc10c47d5cb486c9d091024529a6be65f46",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "ctr_004",
+ "type": "contracts",
+ "text": "```json\n{\n  \"agreement_date\": \"February 1, 2019\",\n  \"effective_date\": \"February 1, 2019\",\n  \"expiration_date\": \"January 31, 2024\",\n  \"governing_law\": \"State of California, USA\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": null\n}\n```",
+ "parsed": {
+  "agreement_date": "February 1, 2019",
+  "effective_date": "February 1, 2019",
+  "expiration_date": "January 31, 2024",
+  "governing_law": "State of California, USA",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 109,
+  "cost": 0.0,
+  "notional_cost": 0.05525,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 3.43,
+ "at": 1790378867.782845
+}

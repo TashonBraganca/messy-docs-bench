@@ -1,0 +1,22 @@
+{
+ "key": "97d36f6022bbd18c12afe29a718e946642642376ca8d18ba3e7123b6eeb8ebe5",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rvl_036",
+ "type": "invoices",
+ "text": "{\"vendor\":\"JAMES ROSS LIMITED\",\"invoice_number\":\"8674\",\"invoice_date\":\"Dec 14/90\",\"total\":\"US$273,685.00\"}",
+ "parsed": {
+  "vendor": "JAMES ROSS LIMITED",
+  "invoice_number": "8674",
+  "invoice_date": "Dec 14/90",
+  "total": "US$273,685.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1088,
+  "out": 97,
+  "cost": 0.0
+ },
+ "latency_s": 4.08,
+ "at": 1790379189.989086
+}

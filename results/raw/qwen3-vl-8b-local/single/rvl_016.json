@@ -1,0 +1,22 @@
+{
+ "key": "d7610fb355f4bc7c70ad453ff288f9fcb98fca3dbc925028a42aabe3498a8185",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_016",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"WASHTech Washington Technical Information Group Inc.\",\n  \"invoice_number\": \"680709444\",\n  \"invoice_date\": null,\n  \"total\": \"$2,968.72\"\n}",
+ "parsed": {
+  "vendor": "WASHTech Washington Technical Information Group Inc.",
+  "invoice_number": "680709444",
+  "invoice_date": null,
+  "total": "$2,968.72"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 55,
+  "cost": 0.0
+ },
+ "latency_s": 10.27,
+ "at": 1790412746.4026282
+}

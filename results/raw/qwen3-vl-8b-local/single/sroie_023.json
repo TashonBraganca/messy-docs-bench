@@ -1,0 +1,22 @@
+{
+ "key": "ad270ae65b23626e761dc3b0b943836f22c7c4afe93f88f5e3a504272eb792fe",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_023",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"YHM Aeon Tebrau City\",\n  \"date\": \"11/03/2018\",\n  \"address\": \"S117, Second Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor.\",\n  \"total\": \"49.70\"\n}",
+ "parsed": {
+  "company": "YHM Aeon Tebrau City",
+  "date": "11/03/2018",
+  "address": "S117, Second Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor.",
+  "total": "49.70"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1763,
+  "out": 97,
+  "cost": 0.0
+ },
+ "latency_s": 16.53,
+ "at": 1790413814.688148
+}

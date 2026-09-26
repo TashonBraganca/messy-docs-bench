@@ -1,0 +1,35 @@
+{
+ "key": "c226809b9fcbf0ca918cd20c52d22ec1d4d771f73bec351d7bcc9f2c66b4871d",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_008",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"925-55-3773\",\"employer_ein\":\"69-7730754\",\"employer_name_address\":\"Peck, Hamilton and Wiggins\\n43483 Green Manor\\nNorth Renee, CA 46872\",\"employee_first_name\":\"Rachel\",\"employee_last_name\":\"Bates\",\"employee_address\":\"282 Monique Trail Apt. 902\\nEast Thomas, CA 95553\",\"box1_wages\":\"187,788.95\",\"box2_federal_tax\":\"40,360.19\",\"box3_ss_wages\":\"184,500.00\",\"box4_ss_tax\":\"11,439.00\",\"box5_medicare_wages\":\"204,369.41\",\"box6_medicare_tax\":\"2,963.36\",\"box12a_code\":\"D\",\"box12a_amount\":\"16,580.46\",\"box15_state\":\"CA\",\"box16_state_wages\":\"187,788.95\",\"box17_state_tax\":\"14,845.28\"}",
+ "parsed": {
+  "employee_ssn": "925-55-3773",
+  "employer_ein": "69-7730754",
+  "employer_name_address": "Peck, Hamilton and Wiggins\n43483 Green Manor\nNorth Renee, CA 46872",
+  "employee_first_name": "Rachel",
+  "employee_last_name": "Bates",
+  "employee_address": "282 Monique Trail Apt. 902\nEast Thomas, CA 95553",
+  "box1_wages": "187,788.95",
+  "box2_federal_tax": "40,360.19",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "204,369.41",
+  "box6_medicare_tax": "2,963.36",
+  "box12a_code": "D",
+  "box12a_amount": "16,580.46",
+  "box15_state": "CA",
+  "box16_state_wages": "187,788.95",
+  "box17_state_tax": "14,845.28"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1272,
+  "out": 575,
+  "cost": 0.0
+ },
+ "latency_s": 8.3,
+ "at": 1790379339.516094
+}

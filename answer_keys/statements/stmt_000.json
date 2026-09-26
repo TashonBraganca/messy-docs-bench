@@ -1,0 +1,990 @@
+{
+ "doc_type": "statements",
+ "truth": {
+  "header": {
+   "bank_name": "Progressive National Bank",
+   "account_holder": "TRADE LINKS INDIA",
+   "account_number": "78439336112",
+   "ifsc_code": "PROG0920445",
+   "opening_balance": 59131.72,
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 6086.63,
+    "balance": 65218.35
+   },
+   {
+    "date": "2024-01-02",
+    "debit": 23702.04,
+    "credit": null,
+    "balance": 41516.31
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 9055.89,
+    "credit": null,
+    "balance": 32460.42
+   },
+   {
+    "date": "2024-01-04",
+    "debit": 2177.93,
+    "credit": null,
+    "balance": 30282.49
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 661.06,
+    "balance": 30943.55
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 1789.08,
+    "balance": 32732.63
+   },
+   {
+    "date": "2024-01-05",
+    "debit": null,
+    "credit": 4795.06,
+    "balance": 37527.69
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 652.28,
+    "credit": null,
+    "balance": 36875.41
+   },
+   {
+    "date": "2024-01-05",
+    "debit": null,
+    "credit": 1212.22,
+    "balance": 38087.63
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 407.72,
+    "credit": null,
+    "balance": 37679.91
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 20253.8,
+    "credit": null,
+    "balance": 17426.11
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 2574.63,
+    "balance": 20000.74
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 571.24,
+    "credit": null,
+    "balance": 19429.5
+   },
+   {
+    "date": "2024-01-08",
+    "debit": 513.47,
+    "credit": null,
+    "balance": 18916.03
+   },
+   {
+    "date": "2024-01-08",
+    "debit": 2287.52,
+    "credit": null,
+    "balance": 16628.51
+   },
+   {
+    "date": "2024-01-08",
+    "debit": null,
+    "credit": 7675.95,
+    "balance": 24304.46
+   },
+   {
+    "date": "2024-01-08",
+    "debit": null,
+    "credit": 3180.55,
+    "balance": 27485.01
+   },
+   {
+    "date": "2024-01-08",
+    "debit": null,
+    "credit": 3206.08,
+    "balance": 30691.09
+   },
+   {
+    "date": "2024-01-08",
+    "debit": 742.4,
+    "credit": null,
+    "balance": 29948.69
+   },
+   {
+    "date": "2024-01-09",
+    "debit": 1347.6,
+    "credit": null,
+    "balance": 20386.59
+   },
+   {
+    "date": "2024-01-11",
+    "debit": null,
+    "credit": 3103.69,
+    "balance": 33052.38
+   },
+   {
+    "date": "2024-01-11",
+    "debit": null,
+    "credit": 1376.45,
+    "balance": 34428.83
+   },
+   {
+    "date": "2024-01-11",
+    "debit": 5267.64,
+    "credit": null,
+    "balance": 29161.19
+   },
+   {
+    "date": "2024-01-12",
+    "debit": 6725.28,
+    "credit": null,
+    "balance": 22435.91
+   },
+   {
+    "date": "2024-01-12",
+    "debit": 6233.58,
+    "credit": null,
+    "balance": 16202.33
+   },
+   {
+    "date": "2024-01-12",
+    "debit": 6513.72,
+    "credit": null,
+    "balance": 9688.61
+   },
+   {
+    "date": "2024-01-12",
+    "debit": 3329.88,
+    "credit": null,
+    "balance": 6358.73
+   },
+   {
+    "date": "2024-01-13",
+    "debit": 523.74,
+    "credit": null,
+    "balance": 5834.99
+   },
+   {
+    "date": "2024-01-13",
+    "debit": null,
+    "credit": 312.87,
+    "balance": 6147.86
+   },
+   {
+    "date": "2024-01-13",
+    "debit": null,
+    "credit": 1554.17,
+    "balance": 7702.03
+   },
+   {
+    "date": "2024-01-15",
+    "debit": null,
+    "credit": 1828.18,
+    "balance": 9530.21
+   },
+   {
+    "date": "2024-01-16",
+    "debit": null,
+    "credit": 4328.08,
+    "balance": 13858.29
+   },
+   {
+    "date": "2024-01-17",
+    "debit": null,
+    "credit": 1152.35,
+    "balance": 15010.64
+   },
+   {
+    "date": "2024-01-17",
+    "debit": null,
+    "credit": 1279.23,
+    "balance": 16289.87
+   },
+   {
+    "date": "2024-01-18",
+    "debit": null,
+    "credit": 2864.65,
+    "balance": 19154.52
+   },
+   {
+    "date": "2024-01-18",
+    "debit": 8256.49,
+    "credit": null,
+    "balance": 10898.03
+   },
+   {
+    "date": "2024-01-18",
+    "debit": null,
+    "credit": 216.21,
+    "balance": 11114.24
+   },
+   {
+    "date": "2024-01-19",
+    "debit": 2677.73,
+    "credit": null,
+    "balance": 8436.51
+   },
+   {
+    "date": "2024-01-19",
+    "debit": 866.79,
+    "credit": null,
+    "balance": 7569.72
+   },
+   {
+    "date": "2024-01-20",
+    "debit": 1087.71,
+    "credit": null,
+    "balance": 6482.01
+   },
+   {
+    "date": "2024-01-20",
+    "debit": 5009.85,
+    "credit": null,
+    "balance": 1472.16
+   },
+   {
+    "date": "2024-01-20",
+    "debit": 10476.71,
+    "credit": null,
+    "balance": 9909.88
+   },
+   {
+    "date": "2024-01-20",
+    "debit": null,
+    "credit": 979.59,
+    "balance": 2451.75
+   },
+   {
+    "date": "2024-01-22",
+    "debit": null,
+    "credit": 785.55,
+    "balance": 3237.3
+   },
+   {
+    "date": "2024-01-23",
+    "debit": null,
+    "credit": 326.25,
+    "balance": 3563.55
+   },
+   {
+    "date": "2024-01-24",
+    "debit": null,
+    "credit": 712.07,
+    "balance": 4275.62
+   },
+   {
+    "date": "2024-01-24",
+    "debit": null,
+    "credit": 935.48,
+    "balance": 5211.1
+   },
+   {
+    "date": "2024-01-24",
+    "debit": null,
+    "credit": 487.33,
+    "balance": 5698.43
+   },
+   {
+    "date": "2024-01-24",
+    "debit": null,
+    "credit": 7836.93,
+    "balance": 13535.36
+   },
+   {
+    "date": "2024-01-24",
+    "debit": 2731.48,
+    "credit": null,
+    "balance": 10803.88
+   },
+   {
+    "date": "2024-01-25",
+    "debit": null,
+    "credit": 161.94,
+    "balance": 10965.82
+   },
+   {
+    "date": "2024-01-25",
+    "debit": null,
+    "credit": 1083.23,
+    "balance": 12049.05
+   },
+   {
+    "date": "2024-01-25",
+    "debit": 4231.14,
+    "credit": null,
+    "balance": 7817.91
+   },
+   {
+    "date": "2024-01-25",
+    "debit": null,
+    "credit": 297.82,
+    "balance": 8115.73
+   },
+   {
+    "date": "2024-01-27",
+    "debit": null,
+    "credit": 2947.62,
+    "balance": 11063.35
+   },
+   {
+    "date": "2024-01-29",
+    "debit": null,
+    "credit": 353.7,
+    "balance": 11417.05
+   },
+   {
+    "date": "2024-01-29",
+    "debit": null,
+    "credit": 3226.77,
+    "balance": 14643.82
+   },
+   {
+    "date": "2024-01-30",
+    "debit": null,
+    "credit": 2056.48,
+    "balance": 16700.3
+   },
+   {
+    "date": "2024-01-30",
+    "debit": null,
+    "credit": 401.24,
+    "balance": 17101.54
+   },
+   {
+    "date": "2024-01-30",
+    "debit": null,
+    "credit": 819.21,
+    "balance": 17920.75
+   },
+   {
+    "date": "2024-01-31",
+    "debit": 353.7,
+    "credit": null,
+    "balance": 21308.12
+   },
+   {
+    "date": "2024-01-31",
+    "debit": 396.36,
+    "credit": null,
+    "balance": 17524.39
+   },
+   {
+    "date": "2024-01-31",
+    "debit": null,
+    "credit": 2246.64,
+    "balance": 19771.03
+   },
+   {
+    "date": "2024-02-01",
+    "debit": 1288.87,
+    "credit": null,
+    "balance": 18482.16
+   },
+   {
+    "date": "2024-02-02",
+    "debit": 9482.92,
+    "credit": null,
+    "balance": 8999.24
+   },
+   {
+    "date": "2024-02-03",
+    "debit": null,
+    "credit": 1520.04,
+    "balance": 10519.28
+   },
+   {
+    "date": "2024-02-03",
+    "debit": null,
+    "credit": 20416.63,
+    "balance": 30935.91
+   },
+   {
+    "date": "2024-02-03",
+    "debit": 12427.35,
+    "credit": null,
+    "balance": 18508.56
+   },
+   {
+    "date": "2024-02-05",
+    "debit": null,
+    "credit": 378.91,
+    "balance": 18887.47
+   },
+   {
+    "date": "2024-02-05",
+    "debit": 2523.73,
+    "credit": null,
+    "balance": 16363.74
+   },
+   {
+    "date": "2024-02-05",
+    "debit": 7465.74,
+    "credit": null,
+    "balance": 8898.0
+   },
+   {
+    "date": "2024-02-05",
+    "debit": null,
+    "credit": 583.89,
+    "balance": 9481.89
+   },
+   {
+    "date": "2024-02-07",
+    "debit": 6944.61,
+    "credit": null,
+    "balance": 2537.28
+   },
+   {
+    "date": "2024-02-08",
+    "debit": null,
+    "credit": 302.74,
+    "balance": 2840.02
+   },
+   {
+    "date": "2024-02-09",
+    "debit": 3352.68,
+    "credit": null,
+    "balance": 6557.2
+   },
+   {
+    "date": "2024-02-09",
+    "debit": null,
+    "credit": 432.09,
+    "balance": 3272.11
+   },
+   {
+    "date": "2024-02-10",
+    "debit": null,
+    "credit": 853.56,
+    "balance": 4125.67
+   },
+   {
+    "date": "2024-02-10",
+    "debit": null,
+    "credit": 451.25,
+    "balance": 4576.92
+   },
+   {
+    "date": "2024-02-10",
+    "debit": null,
+    "credit": 1785.19,
+    "balance": 6362.11
+   },
+   {
+    "date": "2024-02-10",
+    "debit": null,
+    "credit": 929.96,
+    "balance": 7292.07
+   },
+   {
+    "date": "2024-02-13",
+    "debit": null,
+    "credit": 712.98,
+    "balance": 8005.05
+   },
+   {
+    "date": "2024-02-13",
+    "debit": 929.96,
+    "credit": null,
+    "balance": 20378.16
+   },
+   {
+    "date": "2024-02-14",
+    "debit": 1830.56,
+    "credit": null,
+    "balance": 6174.49
+   },
+   {
+    "date": "2024-02-14",
+    "debit": 1310.51,
+    "credit": null,
+    "balance": 4863.98
+   },
+   {
+    "date": "2024-02-15",
+    "debit": null,
+    "credit": 6440.36,
+    "balance": 11304.34
+   },
+   {
+    "date": "2024-02-15",
+    "debit": null,
+    "credit": 5451.92,
+    "balance": 16756.26
+   },
+   {
+    "date": "2024-02-15",
+    "debit": null,
+    "credit": 962.42,
+    "balance": 17718.68
+   },
+   {
+    "date": "2024-02-17",
+    "debit": null,
+    "credit": 19038.22,
+    "balance": 36756.9
+   },
+   {
+    "date": "2024-02-17",
+    "debit": 1832.42,
+    "credit": null,
+    "balance": 34924.48
+   },
+   {
+    "date": "2024-02-17",
+    "debit": null,
+    "credit": 2325.53,
+    "balance": 37250.01
+   },
+   {
+    "date": "2024-02-17",
+    "debit": null,
+    "credit": 43436.34,
+    "balance": 80686.35
+   },
+   {
+    "date": "2024-02-17",
+    "debit": null,
+    "credit": 14590.37,
+    "balance": 95276.72
+   },
+   {
+    "date": "2024-02-19",
+    "debit": 8657.44,
+    "credit": null,
+    "balance": 86619.28
+   },
+   {
+    "date": "2024-02-19",
+    "debit": 5067.47,
+    "credit": null,
+    "balance": 81551.81
+   },
+   {
+    "date": "2024-02-20",
+    "debit": null,
+    "credit": 22264.98,
+    "balance": 103816.79
+   },
+   {
+    "date": "2024-02-20",
+    "debit": 10476.71,
+    "credit": null,
+    "balance": -3919.51
+   },
+   {
+    "date": "2024-02-21",
+    "debit": null,
+    "credit": 106.68,
+    "balance": 103923.47
+   },
+   {
+    "date": "2024-02-22",
+    "debit": 5170.28,
+    "credit": null,
+    "balance": 98753.19
+   },
+   {
+    "date": "2024-02-22",
+    "debit": null,
+    "credit": 14081.58,
+    "balance": 112834.77
+   },
+   {
+    "date": "2024-02-23",
+    "debit": null,
+    "credit": 14029.17,
+    "balance": 126863.94
+   },
+   {
+    "date": "2024-02-24",
+    "debit": null,
+    "credit": 49027.87,
+    "balance": 175891.81
+   },
+   {
+    "date": "2024-02-24",
+    "debit": 71993.52,
+    "credit": null,
+    "balance": 103898.29
+   },
+   {
+    "date": "2024-02-24",
+    "debit": null,
+    "credit": 37177.04,
+    "balance": 141075.33
+   },
+   {
+    "date": "2024-02-24",
+    "debit": null,
+    "credit": 33889.33,
+    "balance": 174964.66
+   },
+   {
+    "date": "2024-02-24",
+    "debit": null,
+    "credit": 51788.93,
+    "balance": 226753.59
+   },
+   {
+    "date": "2024-02-26",
+    "debit": 1759.58,
+    "credit": null,
+    "balance": -5679.09
+   },
+   {
+    "date": "2024-02-26",
+    "debit": 61198.68,
+    "credit": null,
+    "balance": 165554.91
+   },
+   {
+    "date": "2024-02-27",
+    "debit": 1622.9,
+    "credit": null,
+    "balance": 163932.01
+   },
+   {
+    "date": "2024-02-27",
+    "debit": null,
+    "credit": 9271.67,
+    "balance": 173203.68
+   },
+   {
+    "date": "2024-02-27",
+    "debit": null,
+    "credit": 25697.34,
+    "balance": 198901.02
+   },
+   {
+    "date": "2024-02-27",
+    "debit": 99036.48,
+    "credit": null,
+    "balance": 99864.54
+   },
+   {
+    "date": "2024-02-27",
+    "debit": 33492.48,
+    "credit": null,
+    "balance": 66372.06
+   },
+   {
+    "date": "2024-02-27",
+    "debit": 14033.52,
+    "credit": null,
+    "balance": 52338.54
+   },
+   {
+    "date": "2024-02-28",
+    "debit": null,
+    "credit": 2163.29,
+    "balance": 54501.83
+   },
+   {
+    "date": "2024-02-28",
+    "debit": null,
+    "credit": 6835.45,
+    "balance": 61337.28
+   },
+   {
+    "date": "2024-02-28",
+    "debit": 337.27,
+    "credit": null,
+    "balance": -6016.36
+   },
+   {
+    "date": "2024-02-28",
+    "debit": 206.83,
+    "credit": null,
+    "balance": -6223.19
+   },
+   {
+    "date": "2024-02-28",
+    "debit": 90.75,
+    "credit": null,
+    "balance": -6313.94
+   },
+   {
+    "date": "2024-02-29",
+    "debit": 26979.32,
+    "credit": null,
+    "balance": 34357.96
+   },
+   {
+    "date": "2024-02-29",
+    "debit": 22061.03,
+    "credit": null,
+    "balance": 12296.93
+   },
+   {
+    "date": "2024-03-01",
+    "debit": 6091.77,
+    "credit": null,
+    "balance": 6205.16
+   },
+   {
+    "date": "2024-03-01",
+    "debit": 823.12,
+    "credit": null,
+    "balance": 5382.04
+   },
+   {
+    "date": "2024-03-02",
+    "debit": null,
+    "credit": 6595.41,
+    "balance": 11977.45
+   },
+   {
+    "date": "2024-03-04",
+    "debit": null,
+    "credit": 503.0,
+    "balance": 12480.45
+   },
+   {
+    "date": "2024-03-05",
+    "debit": 1097.33,
+    "credit": null,
+    "balance": 11383.12
+   },
+   {
+    "date": "2024-03-05",
+    "debit": 1560.02,
+    "credit": null,
+    "balance": 9823.1
+   },
+   {
+    "date": "2024-03-06",
+    "debit": null,
+    "credit": 787.87,
+    "balance": 10610.97
+   },
+   {
+    "date": "2024-03-06",
+    "debit": null,
+    "credit": 1935.68,
+    "balance": 12546.65
+   },
+   {
+    "date": "2024-03-06",
+    "debit": null,
+    "credit": 17289.4,
+    "balance": 29836.05
+   },
+   {
+    "date": "2024-03-06",
+    "debit": null,
+    "credit": 14338.29,
+    "balance": 44174.34
+   },
+   {
+    "date": "2024-03-07",
+    "debit": null,
+    "credit": 3170.94,
+    "balance": 47345.28
+   },
+   {
+    "date": "2024-03-12",
+    "debit": 3236.48,
+    "credit": null,
+    "balance": 44108.8
+   },
+   {
+    "date": "2024-03-13",
+    "debit": null,
+    "credit": 20750.49,
+    "balance": 64859.29
+   },
+   {
+    "date": "2024-03-14",
+    "debit": 41602.44,
+    "credit": null,
+    "balance": 23256.85
+   },
+   {
+    "date": "2024-03-14",
+    "debit": null,
+    "credit": 5733.73,
+    "balance": 28990.58
+   },
+   {
+    "date": "2024-03-15",
+    "debit": null,
+    "credit": 1356.03,
+    "balance": 21734.19
+   },
+   {
+    "date": "2024-03-15",
+    "debit": null,
+    "credit": 743.12,
+    "balance": 29733.7
+   },
+   {
+    "date": "2024-03-15",
+    "debit": 361.52,
+    "credit": null,
+    "balance": 29372.18
+   },
+   {
+    "date": "2024-03-16",
+    "debit": null,
+    "credit": 11491.98,
+    "balance": 40864.16
+   },
+   {
+    "date": "2024-03-18",
+    "debit": 10836.25,
+    "credit": null,
+    "balance": 30027.91
+   },
+   {
+    "date": "2024-03-18",
+    "debit": null,
+    "credit": 745.26,
+    "balance": 30773.17
+   },
+   {
+    "date": "2024-03-18",
+    "debit": null,
+    "credit": 5003.83,
+    "balance": 35777.0
+   },
+   {
+    "date": "2024-03-19",
+    "debit": 13018.88,
+    "credit": null,
+    "balance": 22758.12
+   },
+   {
+    "date": "2024-03-20",
+    "debit": 10937.03,
+    "credit": null,
+    "balance": 11821.09
+   },
+   {
+    "date": "2024-03-20",
+    "debit": null,
+    "credit": 1873.07,
+    "balance": 13694.16
+   },
+   {
+    "date": "2024-03-21",
+    "debit": 2868.01,
+    "credit": null,
+    "balance": 10826.15
+   },
+   {
+    "date": "2024-03-21",
+    "debit": 147.31,
+    "credit": null,
+    "balance": 10678.84
+   },
+   {
+    "date": "2024-03-22",
+    "debit": null,
+    "credit": 3664.61,
+    "balance": 14343.45
+   },
+   {
+    "date": "2024-03-22",
+    "debit": null,
+    "credit": 585.87,
+    "balance": 14929.32
+   },
+   {
+    "date": "2024-03-23",
+    "debit": 6836.9,
+    "credit": null,
+    "balance": 8092.42
+   },
+   {
+    "date": "2024-03-26",
+    "debit": null,
+    "credit": 775.81,
+    "balance": 8868.23
+   },
+   {
+    "date": "2024-03-26",
+    "debit": null,
+    "credit": 3255.94,
+    "balance": 12124.17
+   },
+   {
+    "date": "2024-03-26",
+    "debit": 885.56,
+    "credit": null,
+    "balance": 11238.61
+   },
+   {
+    "date": "2024-03-27",
+    "debit": null,
+    "credit": 4367.43,
+    "balance": 15606.04
+   },
+   {
+    "date": "2024-03-27",
+    "debit": null,
+    "credit": 365.78,
+    "balance": 15971.82
+   },
+   {
+    "date": "2024-03-28",
+    "debit": null,
+    "credit": 1134.45,
+    "balance": 17106.27
+   },
+   {
+    "date": "2024-03-28",
+    "debit": null,
+    "credit": 22753.12,
+    "balance": 39859.39
+   },
+   {
+    "date": "2024-03-28",
+    "debit": null,
+    "credit": 16031.1,
+    "balance": 55890.49
+   },
+   {
+    "date": "2024-03-28",
+    "debit": 11.97,
+    "credit": null,
+    "balance": -6325.91
+   },
+   {
+    "date": "2024-03-30",
+    "debit": 21205.89,
+    "credit": null,
+    "balance": 34684.6
+   },
+   {
+    "date": "2024-03-30",
+    "debit": 13771.73,
+    "credit": null,
+    "balance": 20912.87
+   },
+   {
+    "date": "2024-03-30",
+    "debit": null,
+    "credit": 748.95,
+    "balance": 21661.82
+   }
+  ]
+ },
+ "source": "India_Bank_Statement_Scanned_Type1/00001",
+ "pages_in_pdf": 6
+}

@@ -1,0 +1,18 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "63,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "TWIST DONUT",
+    "price": "54,000"
+   },
+   {
+    "name": "REDBEAN BREAD",
+    "price": "9,000"
+   }
+  ]
+ }
+}

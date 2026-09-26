@@ -1,0 +1,24 @@
+{
+ "key": "fec410696586b50c8aa809fe7b58a29576ab4736797e6316c99986b1e7c73945",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_012",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"August 9, 1999\",\n  \"effective_date\": null,\n  \"expiration_date\": \"perpetual\",\n  \"governing_law\": \"State of New York\",\n  \"renewal_term\": \"1 year\",\n  \"notice_period_to_terminate_renewal\": \"90 days\"\n}",
+ "parsed": {
+  "agreement_date": "August 9, 1999",
+  "effective_date": null,
+  "expiration_date": "perpetual",
+  "governing_law": "State of New York",
+  "renewal_term": "1 year",
+  "notice_period_to_terminate_renewal": "90 days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4079,
+  "out": 78,
+  "cost": 0.0
+ },
+ "latency_s": 22.62,
+ "at": 1790412572.517366
+}

@@ -1,0 +1,22 @@
+{
+ "key": "9253b3830d2d4848186285b72b8099ba5f55ae7fa4d2a2fda88ffaf3cf3b8a07",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_025",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"HAZLETON LABORATORIES AMERICA, INC.\",\n  \"invoice_number\": \"607103\",\n  \"invoice_date\": \"January 28, 1986\",\n  \"total\": \"$2,250.00\"\n}",
+ "parsed": {
+  "vendor": "HAZLETON LABORATORIES AMERICA, INC.",
+  "invoice_number": "607103",
+  "invoice_date": "January 28, 1986",
+  "total": "$2,250.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1246,
+  "out": 65,
+  "cost": 0.0
+ },
+ "latency_s": 10.56,
+ "at": 1790412787.3106718
+}

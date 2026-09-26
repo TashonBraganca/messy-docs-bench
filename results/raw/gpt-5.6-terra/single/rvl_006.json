@@ -1,0 +1,22 @@
+{
+ "key": "266a188d77a5b363bf6de74f00479601c26dc36231754611d6b6fbb42b6af8da",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rvl_006",
+ "type": "invoices",
+ "text": "{\"vendor\":\"UNIVERSITY OF CALIFORNIA, DAVIS\",\"invoice_number\":\"59280-1\",\"invoice_date\":\"October 22, 2001\",\"total\":\"$49,710.15\"}",
+ "parsed": {
+  "vendor": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "invoice_number": "59280-1",
+  "invoice_date": "October 22, 2001",
+  "total": "$49,710.15"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1088,
+  "out": 122,
+  "cost": 0.0
+ },
+ "latency_s": 3.58,
+ "at": 1790379172.988273
+}

@@ -1,0 +1,24 @@
+{
+ "key": "9d06266d1406fc0d798834c6b768d1dd8276d0a9d0aaf8efa3803265edd57cc0",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_014",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"2018\",\n  \"effective_date\": \"2018\",\n  \"expiration_date\": \"31 December 2024\",\n  \"governing_law\": \"England\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": null\n}",
+ "parsed": {
+  "agreement_date": "2018",
+  "effective_date": "2018",
+  "expiration_date": "31 December 2024",
+  "governing_law": "England",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 10064,
+  "out": 74,
+  "cost": 0.0
+ },
+ "latency_s": 55.02,
+ "at": 1790412645.548299
+}

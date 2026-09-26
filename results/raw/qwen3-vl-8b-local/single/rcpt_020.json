@@ -1,0 +1,43 @@
+{
+ "key": "db48d6975b456ec9766cf07ae0f40b2de27956134ab8ac5a069109724ddca85c",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_020",
+ "type": "receipts",
+ "text": "{\n  \"total\": \"377,259\",\n  \"subtotal\": \"325,600\",\n  \"tax\": \"34,351\",\n  \"items\": [\n    {\n      \"name\": \"1 cashee nuts chkn\",\n      \"price\": \"64,500\"\n    },\n    {\n      \"name\": \"1 garlic pepper beef\",\n      \"price\": \"79,500\"\n    },\n    {\n      \"name\": \"1 red curry beef\",\n      \"price\": \"69,500\"\n    },\n    {\n      \"name\": \"1 phad thai\",\n      \"price\": \"64,500\"\n    },\n    {\n      \"name\": \"4 steamed rice\",\n      \"price\": \"47,600\"\n    }\n  ]\n}",
+ "parsed": {
+  "total": "377,259",
+  "subtotal": "325,600",
+  "tax": "34,351",
+  "items": [
+   {
+    "name": "1 cashee nuts chkn",
+    "price": "64,500"
+   },
+   {
+    "name": "1 garlic pepper beef",
+    "price": "79,500"
+   },
+   {
+    "name": "1 red curry beef",
+    "price": "69,500"
+   },
+   {
+    "name": "1 phad thai",
+    "price": "64,500"
+   },
+   {
+    "name": "4 steamed rice",
+    "price": "47,600"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 180,
+  "cost": 0.0
+ },
+ "latency_s": 18.1,
+ "at": 1790413243.505169
+}

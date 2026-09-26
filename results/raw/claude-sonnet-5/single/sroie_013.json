@@ -1,0 +1,26 @@
+{
+ "key": "f1b155931b6481316fb2d7d655707eacba0d7d42f50be9913011d460656e9e08",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_013",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"OLDTOWN WHITE COFFEE\",\n  \"date\": \"22 Mar 18\",\n  \"address\": \"Sri Rampai\",\n  \"total\": \"30.25\"\n}\n```",
+ "parsed": {
+  "company": "OLDTOWN WHITE COFFEE",
+  "date": "22 Mar 18",
+  "address": "Sri Rampai",
+  "total": "30.25"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 71,
+  "cost": 0.0,
+  "notional_cost": 0.009606,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.59,
+ "at": 1790378698.39609
+}

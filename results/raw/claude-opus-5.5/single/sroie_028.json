@@ -1,0 +1,26 @@
+{
+ "key": "09552df40367efcd7c8923742b9f7873e54833887747c43f9e6442fae21ec92f",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "sroie_028",
+ "type": "sroie",
+ "text": "{\"company\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"date\": \"25 Mar 2018\", \"address\": \"12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor\", \"total\": \"$8.50\"}",
+ "parsed": {
+  "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "25 Mar 2018",
+  "address": "12, Jalan Tampoi 7/4,Kawasan Perindustrian Tampoi,81200 Johor Bahru,Johor",
+  "total": "$8.50"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 106,
+  "cost": 0.0,
+  "notional_cost": 0.024128,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 4.69,
+ "at": 1790378746.1815832
+}

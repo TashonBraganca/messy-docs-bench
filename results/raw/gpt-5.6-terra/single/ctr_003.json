@@ -1,0 +1,24 @@
+{
+ "key": "e65219f28043cdfe3afc89d7d3dbe5815dcfee8bb56b1f610573cb808e997502",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "ctr_003",
+ "type": "contracts",
+ "text": "{\"agreement_date\":null,\"effective_date\":null,\"expiration_date\":\"December 31, 2034\",\"governing_law\":\"State of Ohio\",\"renewal_term\":\"five (5)-year terms\",\"notice_period_to_terminate_renewal\":\"six (6) months\"}",
+ "parsed": {
+  "agreement_date": null,
+  "effective_date": null,
+  "expiration_date": "December 31, 2034",
+  "governing_law": "State of Ohio",
+  "renewal_term": "five (5)-year terms",
+  "notice_period_to_terminate_renewal": "six (6) months"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 9862,
+  "out": 121,
+  "cost": 0.0
+ },
+ "latency_s": 2.92,
+ "at": 1790379158.125984
+}

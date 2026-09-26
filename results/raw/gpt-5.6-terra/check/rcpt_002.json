@@ -1,0 +1,31 @@
+{
+ "key": "000e1b33f1a02e60eb241bc20ffde258cf8c67dd6202474a8e65a7dbc0235fee",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_002",
+ "type": "receipts",
+ "text": "{\"total\":\"28,000\",\"subtotal\":\"28,000\",\"tax\":null,\"items\":[{\"name\":\"JASMINE MT (L)\",\"price\":\"24,000\"},{\"name\":\"COCONUT JELLY (L)\",\"price\":\"4,000\"}]}",
+ "parsed": {
+  "total": "28,000",
+  "subtotal": "28,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "JASMINE MT (L)",
+    "price": "24,000"
+   },
+   {
+    "name": "COCONUT JELLY (L)",
+    "price": "4,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1286,
+  "out": 200,
+  "cost": 0.0
+ },
+ "latency_s": 5.93,
+ "at": 1790411063.89328
+}

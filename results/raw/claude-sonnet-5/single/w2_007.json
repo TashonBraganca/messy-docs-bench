@@ -1,0 +1,39 @@
+{
+ "key": "5e19befb24d3ab0e49b8fea33763e0b8900ca885c9daa0825f2a77126c048670",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "w2_007",
+ "type": "w2",
+ "text": "```json\n{\n  \"employee_ssn\": \"999-50-3932\",\n  \"employer_ein\": \"94-8910393\",\n  \"employer_name_address\": \"Davenport Inc.\\n372 Mccormick Isle Apt. 676\\nLake Erikberg, CA 04111\",\n  \"employee_first_name\": \"Edward\",\n  \"employee_last_name\": \"Stein\",\n  \"employee_address\": \"975 Amy Curve\\nNorth Laurenville, CA 69521\",\n  \"box1_wages\": \"143,644.53\",\n  \"box2_federal_tax\": \"15,272.14\",\n  \"box3_ss_wages\": \"159,249.70\",\n  \"box4_ss_tax\": \"9,873.48\",\n  \"box5_medicare_wages\": \"159,249.70\",\n  \"box6_medicare_tax\": \"2,309.12\",\n  \"box12a_code\": \"D\",\n  \"box12a_amount\": \"15,605.17\",\n  \"box15_state\": \"CA\",\n  \"box16_state_wages\": \"143,644.53\",\n  \"box17_state_tax\": \"5,923.49\"\n}\n```",
+ "parsed": {
+  "employee_ssn": "999-50-3932",
+  "employer_ein": "94-8910393",
+  "employer_name_address": "Davenport Inc.\n372 Mccormick Isle Apt. 676\nLake Erikberg, CA 04111",
+  "employee_first_name": "Edward",
+  "employee_last_name": "Stein",
+  "employee_address": "975 Amy Curve\nNorth Laurenville, CA 69521",
+  "box1_wages": "143,644.53",
+  "box2_federal_tax": "15,272.14",
+  "box3_ss_wages": "159,249.70",
+  "box4_ss_tax": "9,873.48",
+  "box5_medicare_wages": "159,249.70",
+  "box6_medicare_tax": "2,309.12",
+  "box12a_code": "D",
+  "box12a_amount": "15,605.17",
+  "box15_state": "CA",
+  "box16_state_wages": "143,644.53",
+  "box17_state_tax": "5,923.49"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 351,
+  "cost": 0.0,
+  "notional_cost": 0.00979,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.55,
+ "at": 1790378772.174922
+}

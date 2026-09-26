@@ -1,0 +1,22 @@
+{
+ "key": "05ecb469241eb1a8f96b0829a43a0e070a74d2df24639611d134288f9542f1a3",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_008",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"CREATIVE COMMUNICATIONS, spol. s r.o.\",\n  \"invoice_number\": \"HDC - 100\",\n  \"invoice_date\": \"9.1.1995\",\n  \"total\": \"60.000,- Kč\"\n}",
+ "parsed": {
+  "vendor": "CREATIVE COMMUNICATIONS, spol. s r.o.",
+  "invoice_number": "HDC - 100",
+  "invoice_date": "9.1.1995",
+  "total": "60.000,- Kč"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 65,
+  "cost": 0.0
+ },
+ "latency_s": 14.54,
+ "at": 1790412702.08588
+}

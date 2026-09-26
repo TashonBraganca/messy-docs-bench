@@ -1,0 +1,22 @@
+{
+ "key": "879805902c6a9ecf3489effda591514087533e25380e6575aad7442f76cb068b",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_055",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"THE ANDREW JERGENS COMPANY\",\n  \"invoice_number\": \"101786-A\",\n  \"invoice_date\": \"VARICUS\",\n  \"total\": \"$189,285.12\"\n}",
+ "parsed": {
+  "vendor": "THE ANDREW JERGENS COMPANY",
+  "invoice_number": "101786-A",
+  "invoice_date": "VARICUS",
+  "total": "$189,285.12"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 57,
+  "cost": 0.0
+ },
+ "latency_s": 9.55,
+ "at": 1790412866.924787
+}

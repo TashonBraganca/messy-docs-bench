@@ -1,0 +1,35 @@
+{
+ "key": "9b45bdd2b4bcff1fdb76484009d0bc3c018f5c6c935cefeab307af4e5c414fb7",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "w2_006",
+ "type": "w2",
+ "text": "{\n    \"employee_ssn\": \"937-18-6830\",\n    \"employer_ein\": \"80-5489189\",\n    \"employer_name_address\": \"Fields-Austin\\n63387 Simon Burgs\\nThomasborough, NY 91271\",\n    \"employee_first_name\": \"Cassie\",\n    \"employee_last_name\": \"Cooper\",\n    \"employee_address\": \"1313 Gonzalez Ford Suite 990\\nBlankenshipstad, NY 84797\",\n    \"box1_wages\": \"76,250.25\",\n    \"box2_federal_tax\": \"15,252.17\",\n    \"box3_ss_wages\": \"83,493.85\",\n    \"box4_ss_tax\": \"5,176.62\",\n    \"box5_medicare_wages\": \"83,493.85\",\n    \"box6_medicare_tax\": \"1,210.66\",\n    \"box12a_code\": \"D\",\n    \"box12a_amount\": \"7,243.60\",\n    \"box15_state\": \"NY\",\n    \"box16_state_wages\": \"76,250.25\",\n    \"box17_state_tax\": \"5,184.99\"\n}",
+ "parsed": {
+  "employee_ssn": "937-18-6830",
+  "employer_ein": "80-5489189",
+  "employer_name_address": "Fields-Austin\n63387 Simon Burgs\nThomasborough, NY 91271",
+  "employee_first_name": "Cassie",
+  "employee_last_name": "Cooper",
+  "employee_address": "1313 Gonzalez Ford Suite 990\nBlankenshipstad, NY 84797",
+  "box1_wages": "76,250.25",
+  "box2_federal_tax": "15,252.17",
+  "box3_ss_wages": "83,493.85",
+  "box4_ss_tax": "5,176.62",
+  "box5_medicare_wages": "83,493.85",
+  "box6_medicare_tax": "1,210.66",
+  "box12a_code": "D",
+  "box12a_amount": "7,243.60",
+  "box15_state": "NY",
+  "box16_state_wages": "76,250.25",
+  "box17_state_tax": "5,184.99"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1325,
+  "out": 313,
+  "cost": 0.0
+ },
+ "latency_s": 34.88,
+ "at": 1790415629.55884
+}

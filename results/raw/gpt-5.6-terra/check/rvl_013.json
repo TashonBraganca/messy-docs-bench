@@ -1,0 +1,22 @@
+{
+ "key": "573089f02a94763e8d36e411e9b9071ac5a8c2ad1bfedee4f7d6648557ea95dc",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rvl_013",
+ "type": "invoices",
+ "text": "{\"vendor\":\"Borriston Laboratories, Inc.\",\"invoice_number\":\"1548-1\",\"invoice_date\":\"February 1, 1984\",\"total\":\"$ 12,300.00\"}",
+ "parsed": {
+  "vendor": "Borriston Laboratories, Inc.",
+  "invoice_number": "1548-1",
+  "invoice_date": "February 1, 1984",
+  "total": "$ 12,300.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1189,
+  "out": 136,
+  "cost": 0.0
+ },
+ "latency_s": 4.35,
+ "at": 1790411044.174443
+}

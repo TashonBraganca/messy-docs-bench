@@ -1,0 +1,35 @@
+{
+ "key": "08486dbee6d2419baa698f5e6e5adeaf78843654e8a95fa8d55324b99aa2d8b4",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "w2_001",
+ "type": "w2",
+ "text": "{\n    \"employee_ssn\": \"969-75-8361\",\n    \"employer_ein\": \"18-1888226\",\n    \"employer_name_address\": \"Duncan PLC\\n99351 Anne River\\nSouth Erin, NJ 56546\",\n    \"employee_first_name\": \"Kimberly\",\n    \"employee_last_name\": \"Owens\",\n    \"employee_address\": \"4323 Autumn Pine Suite 574\\nNorth Williamburgh, NJ 99740\",\n    \"box1_wages\": \"34,468.34\",\n    \"box2_federal_tax\": \"5,028.62\",\n    \"box3_ss_wages\": \"36,636.79\",\n    \"box4_ss_tax\": \"2,271.48\",\n    \"box5_medicare_wages\": \"36,636.79\",\n    \"box6_medicare_tax\": \"531.23\",\n    \"box12a_code\": \"D\",\n    \"box12a_amount\": \"2,168.45\",\n    \"box15_state\": \"NJ\",\n    \"box16_state_wages\": \"34,468.34\",\n    \"box17_state_tax\": \"2,241.49\"\n}",
+ "parsed": {
+  "employee_ssn": "969-75-8361",
+  "employer_ein": "18-1888226",
+  "employer_name_address": "Duncan PLC\n99351 Anne River\nSouth Erin, NJ 56546",
+  "employee_first_name": "Kimberly",
+  "employee_last_name": "Owens",
+  "employee_address": "4323 Autumn Pine Suite 574\nNorth Williamburgh, NJ 99740",
+  "box1_wages": "34,468.34",
+  "box2_federal_tax": "5,028.62",
+  "box3_ss_wages": "36,636.79",
+  "box4_ss_tax": "2,271.48",
+  "box5_medicare_wages": "36,636.79",
+  "box6_medicare_tax": "531.23",
+  "box12a_code": "D",
+  "box12a_amount": "2,168.45",
+  "box15_state": "NJ",
+  "box16_state_wages": "34,468.34",
+  "box17_state_tax": "2,241.49"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1258,
+  "out": 309,
+  "cost": 0.0
+ },
+ "latency_s": 31.67,
+ "at": 1790415463.172541
+}

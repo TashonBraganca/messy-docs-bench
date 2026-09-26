@@ -1,0 +1,35 @@
+{
+ "key": "5c7e6175a5f53711c6885137b85336489eedc87ee8371556de698378fe59922f",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_026",
+ "type": "receipts",
+ "text": "{\"total\":\"Rp 138.000\",\"subtotal\":\"Rp 138.000\",\"tax\":null,\"items\":[{\"name\":\"Nasi Cap Cay Porsi Besar\",\"price\":\"65.000\"},{\"name\":\"Teh Tawar\",\"price\":\"8.000\"},{\"name\":\"Fu Yung Hai\",\"price\":\"65.000\"}]}",
+ "parsed": {
+  "total": "Rp 138.000",
+  "subtotal": "Rp 138.000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Nasi Cap Cay Porsi Besar",
+    "price": "65.000"
+   },
+   {
+    "name": "Teh Tawar",
+    "price": "8.000"
+   },
+   {
+    "name": "Fu Yung Hai",
+    "price": "65.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1373,
+  "out": 189,
+  "cost": 0.0
+ },
+ "latency_s": 5.16,
+ "at": 1790411097.072758
+}

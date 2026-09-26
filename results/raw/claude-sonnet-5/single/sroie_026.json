@@ -1,0 +1,26 @@
+{
+ "key": "aa36265c5d1570430448e067c8cce8fe177c3a9a81a3f6d43b235e0d7fb060b2",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_026",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"YONG TAT HARDWARE TRADING\",\n  \"date\": \"13/03/2018\",\n  \"address\": \"NO 4,JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR.\",\n  \"total\": \"72.00\"\n}\n```",
+ "parsed": {
+  "company": "YONG TAT HARDWARE TRADING",
+  "date": "13/03/2018",
+  "address": "NO 4,JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR.",
+  "total": "72.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 116,
+  "cost": 0.0,
+  "notional_cost": 0.012412,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.33,
+ "at": 1790378722.438428
+}

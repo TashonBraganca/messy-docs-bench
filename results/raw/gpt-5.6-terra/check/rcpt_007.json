@@ -1,0 +1,31 @@
+{
+ "key": "a7c3fdc01030ea70d737954e0c400f29155dd7b23b0fce5b27696227f9ed2274",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_007",
+ "type": "receipts",
+ "text": "{\"total\":\"111,000\",\"subtotal\":\"100,909\",\"tax\":\"10,091\",\"items\":[{\"name\":\"Kucon 15\",\"price\":\"100,000\"},{\"name\":\"ADD CHICKEN BOX\",\"price\":\"909\"}]}",
+ "parsed": {
+  "total": "111,000",
+  "subtotal": "100,909",
+  "tax": "10,091",
+  "items": [
+   {
+    "name": "Kucon 15",
+    "price": "100,000"
+   },
+   {
+    "name": "ADD CHICKEN BOX",
+    "price": "909"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 829,
+  "out": 134,
+  "cost": 0.0
+ },
+ "latency_s": 5.6,
+ "at": 1790411069.493943
+}

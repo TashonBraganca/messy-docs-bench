@@ -1,0 +1,22 @@
+{
+ "key": "0ce9905fd50e357cb0d3b3061ee35041c3630944d0eac285e70e6de0afb614ec",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "sroie_026",
+ "type": "sroie",
+ "text": "{\"company\":\"YONG TAT HARDWARE TRADING\",\"date\":\"13/03/2018\",\"address\":\"NO 4,JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR.\",\"total\":\"72.00\"}",
+ "parsed": {
+  "company": "YONG TAT HARDWARE TRADING",
+  "date": "13/03/2018",
+  "address": "NO 4,JALAN PERJIRANAN 10, TAMAN AIR BIRU, 81700 PASIR GUDANG, JOHOR.",
+  "total": "72.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1104,
+  "out": 164,
+  "cost": 0.0
+ },
+ "latency_s": 4.49,
+ "at": 1790379279.5996249
+}

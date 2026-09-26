@@ -1,0 +1,22 @@
+{
+ "key": "651fa6223ef4952516d869d25b57d44bfee887d5acdb4f71a992589616272478",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "sroie_006",
+ "type": "sroie",
+ "text": "{\"company\":\"CROSS CHANNEL NETWORK SDN. BHD.\",\"date\":\"29/01/2018 4:40:40 PM\",\"address\":\"47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR.\",\"total\":\"6.35\"}",
+ "parsed": {
+  "company": "CROSS CHANNEL NETWORK SDN. BHD.",
+  "date": "29/01/2018 4:40:40 PM",
+  "address": "47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR.",
+  "total": "6.35"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 797,
+  "out": 76,
+  "cost": 0.0
+ },
+ "latency_s": 3.45,
+ "at": 1790379253.074025
+}

@@ -1,0 +1,22 @@
+{
+ "key": "4882e0f5e3424c85b59f9a7f2a1c46ee1cb6faa7c8fd4c4727d85529423ca004",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_046",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"MacNAUGHTON LITHOGRAPH COMPANY, INC.\",\n  \"invoice_number\": \"29791\",\n  \"invoice_date\": \"January 15, 1983\",\n  \"total\": \"683.58\"\n}",
+ "parsed": {
+  "vendor": "MacNAUGHTON LITHOGRAPH COMPANY, INC.",
+  "invoice_number": "29791",
+  "invoice_date": "January 15, 1983",
+  "total": "683.58"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 60,
+  "cost": 0.0
+ },
+ "latency_s": 10.01,
+ "at": 1790412837.409628
+}

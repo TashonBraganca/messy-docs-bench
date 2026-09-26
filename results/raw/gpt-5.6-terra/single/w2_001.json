@@ -1,0 +1,35 @@
+{
+ "key": "8ce08aafec80481691777dea2307ab73c2e32b2a71d113fad5f741fa93278f4d",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_001",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"969-75-8361\",\"employer_ein\":\"18-1888226\",\"employer_name_address\":\"Duncan PLC\\n9934 Anne River\\nSouth Erin, NJ 56546\",\"employee_first_name\":\"Kimberly\",\"employee_last_name\":\"Owens\",\"employee_address\":null,\"box1_wages\":\"34,468.34\",\"box2_federal_tax\":\"5,028.62\",\"box3_ss_wages\":\"36,636.79\",\"box4_ss_tax\":\"2,271.48\",\"box5_medicare_wages\":\"36,636.79\",\"box6_medicare_tax\":\"531.23\",\"box12a_code\":\"D\",\"box12a_amount\":\"2,168.45\",\"box15_state\":\"NJ\",\"box16_state_wages\":\"34,468.34\",\"box17_state_tax\":\"2,241.49\"}",
+ "parsed": {
+  "employee_ssn": "969-75-8361",
+  "employer_ein": "18-1888226",
+  "employer_name_address": "Duncan PLC\n9934 Anne River\nSouth Erin, NJ 56546",
+  "employee_first_name": "Kimberly",
+  "employee_last_name": "Owens",
+  "employee_address": null,
+  "box1_wages": "34,468.34",
+  "box2_federal_tax": "5,028.62",
+  "box3_ss_wages": "36,636.79",
+  "box4_ss_tax": "2,271.48",
+  "box5_medicare_wages": "36,636.79",
+  "box6_medicare_tax": "531.23",
+  "box12a_code": "D",
+  "box12a_amount": "2,168.45",
+  "box15_state": "NJ",
+  "box16_state_wages": "34,468.34",
+  "box17_state_tax": "2,241.49"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1272,
+  "out": 341,
+  "cost": 0.0
+ },
+ "latency_s": 5.9,
+ "at": 1790379324.8508759
+}

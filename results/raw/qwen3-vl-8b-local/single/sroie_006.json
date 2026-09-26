@@ -1,0 +1,22 @@
+{
+ "key": "62e33aa1dfddaa32e245adcea9e8f010b95a1989a557fa8fd13fb692eb05e7aa",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_006",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"CROSS CHANNEL NETWORK SDN. BHD.\",\n  \"date\": \"29/01/2018\",\n  \"address\": \"47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR.\",\n  \"total\": \"6.35\"\n}",
+ "parsed": {
+  "company": "CROSS CHANNEL NETWORK SDN. BHD.",
+  "date": "29/01/2018",
+  "address": "47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR.",
+  "total": "6.35"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1184,
+  "out": 93,
+  "cost": 0.0
+ },
+ "latency_s": 11.87,
+ "at": 1790413476.320578
+}

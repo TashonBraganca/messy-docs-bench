@@ -1,0 +1,22 @@
+{
+ "key": "c097829606b378e59f3d4672599c6b356236d1a308c16b09a2f2f92567a0427d",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_000",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"OJC MARKETING SDN BHD\",\n  \"date\": \"15/01/2019 11:05:16 AM\",\n  \"address\": \"NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, 81750 MASAI, JOHOR\",\n  \"total\": \"193.00\"\n}",
+ "parsed": {
+  "company": "OJC MARKETING SDN BHD",
+  "date": "15/01/2019 11:05:16 AM",
+  "address": "NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, 81750 MASAI, JOHOR",
+  "total": "193.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1211,
+  "out": 97,
+  "cost": 0.0
+ },
+ "latency_s": 12.42,
+ "at": 1790413403.560699
+}

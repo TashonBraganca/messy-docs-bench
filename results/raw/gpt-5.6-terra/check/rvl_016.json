@@ -1,0 +1,22 @@
+{
+ "key": "faed978e3de00fb4255b16ec0c66fc936a61152435009fa4f366dd8cc82750e7",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rvl_016",
+ "type": "invoices",
+ "text": "{\"vendor\":\"Washington Technical Information Group Inc.\",\"invoice_number\":\"179\",\"invoice_date\":null,\"total\":\"$2,968.72\"}",
+ "parsed": {
+  "vendor": "Washington Technical Information Group Inc.",
+  "invoice_number": "179",
+  "invoice_date": null,
+  "total": "$2,968.72"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1177,
+  "out": 132,
+  "cost": 0.0
+ },
+ "latency_s": 4.54,
+ "at": 1790411048.543189
+}

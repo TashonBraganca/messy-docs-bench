@@ -1,0 +1,26 @@
+{
+ "key": "51a800b43f1d36f461d888951e5fc1ddc074fc2901d9ea60bc6ef6c6dd945c2f",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_055",
+ "type": "invoices",
+ "text": "```json\n{\n  \"vendor\": \"THE ANDREW JERGENS COMPANY\",\n  \"invoice_number\": \"101786-A\",\n  \"invoice_date\": null,\n  \"total\": \"$189,285.12\"\n}\n```",
+ "parsed": {
+  "vendor": "THE ANDREW JERGENS COMPANY",
+  "invoice_number": "101786-A",
+  "invoice_date": null,
+  "total": "$189,285.12"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 75,
+  "cost": 0.0,
+  "notional_cost": 0.007762,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 6.16,
+ "at": 1790378623.568566
+}

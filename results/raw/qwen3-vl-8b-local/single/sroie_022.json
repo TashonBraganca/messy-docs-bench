@@ -1,0 +1,22 @@
+{
+ "key": "8defbd7f63b385249a7783017095d604e87469e36d46fac5423f0a71a56787c8",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_022",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"PASAR MINI JIN SENG\",\n  \"date\": \"03/03/18\",\n  \"address\": \"S79, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA 81750 PLENTONG, JOHOR.\",\n  \"total\": \"33.80\"\n}",
+ "parsed": {
+  "company": "PASAR MINI JIN SENG",
+  "date": "03/03/18",
+  "address": "S79, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA 81750 PLENTONG, JOHOR.",
+  "total": "33.80"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1763,
+  "out": 85,
+  "cost": 0.0
+ },
+ "latency_s": 15.71,
+ "at": 1790413798.1575859
+}

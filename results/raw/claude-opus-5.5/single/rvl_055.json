@@ -1,0 +1,26 @@
+{
+ "key": "ffe8b81c5ed3c7bc4342ef842361a2b3d827bfc77ca6ba3e2ce66a85b8fbe450",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rvl_055",
+ "type": "invoices",
+ "text": "{\"vendor\": \"The Andrew Jergens Company\", \"invoice_number\": \"101786-A\", \"invoice_date\": null, \"total\": \"$189,285.12\"}",
+ "parsed": {
+  "vendor": "The Andrew Jergens Company",
+  "invoice_number": "101786-A",
+  "invoice_date": null,
+  "total": "$189,285.12"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 55,
+  "cost": 0.0,
+  "notional_cost": 0.014628,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.43,
+ "at": 1790378631.014563
+}

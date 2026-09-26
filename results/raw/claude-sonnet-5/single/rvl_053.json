@@ -1,0 +1,26 @@
+{
+ "key": "75b3e747e9caebff195634729775e7227dca3f78f156162b1a216c00d0f2e380",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_053",
+ "type": "invoices",
+ "text": "{\"vendor\": \"Newsday, Inc.\", \"invoice_number\": null, \"invoice_date\": null, \"total\": \"7,558.00\"}",
+ "parsed": {
+  "vendor": "Newsday, Inc.",
+  "invoice_number": null,
+  "invoice_date": null,
+  "total": "7,558.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 48,
+  "cost": 0.0,
+  "notional_cost": 0.007344,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.71,
+ "at": 1790378617.4233139
+}

@@ -1,0 +1,24 @@
+{
+ "key": "e6607082b7443ed2f557a9189bc5dbad6d4f3b643676ccf7ff1ba25c4bd307c1",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_003",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": null,\n  \"effective_date\": \"December 11, 2018\",\n  \"expiration_date\": \"December 31, 2034\",\n  \"governing_law\": \"State of Ohio\",\n  \"renewal_term\": \"5 years\",\n  \"notice_period_to_terminate_renewal\": \"6 months\"\n}",
+ "parsed": {
+  "agreement_date": null,
+  "effective_date": "December 11, 2018",
+  "expiration_date": "December 31, 2034",
+  "governing_law": "State of Ohio",
+  "renewal_term": "5 years",
+  "notice_period_to_terminate_renewal": "6 months"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 10073,
+  "out": 84,
+  "cost": 0.0
+ },
+ "latency_s": 52.8,
+ "at": 1790412238.332363
+}

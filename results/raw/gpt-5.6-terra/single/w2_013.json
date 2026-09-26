@@ -1,0 +1,35 @@
+{
+ "key": "57c49867fa98e1445b455d59afd49120960856c62f65e867b8cfcd883e71baaf",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_013",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"911-64-2701\",\"employer_ein\":\"15-1188152\",\"employer_name_address\":\"Barrett Ltd\\n786 Watts Forks Suite 326\\nTinaberg, NJ 02369\",\"employee_first_name\":\"Chad\",\"employee_last_name\":\"Yang\",\"employee_address\":\"2016 George, Square Suite 072\\nWest Sean, NJ 35004\",\"box1_wages\":\"189,708.65\",\"box2_federal_tax\":\"18,594.19\",\"box3_ss_wages\":\"184,500.00\",\"box4_ss_tax\":\"11,439.00\",\"box5_medicare_wages\":\"206,615.26\",\"box6_medicare_tax\":\"2,995.92\",\"box12a_code\":\"D\",\"box12a_amount\":\"16,906.61\",\"box15_state\":\"NJ\",\"box16_state_wages\":\"189,708.65\",\"box17_state_tax\":\"4,403.02\"}",
+ "parsed": {
+  "employee_ssn": "911-64-2701",
+  "employer_ein": "15-1188152",
+  "employer_name_address": "Barrett Ltd\n786 Watts Forks Suite 326\nTinaberg, NJ 02369",
+  "employee_first_name": "Chad",
+  "employee_last_name": "Yang",
+  "employee_address": "2016 George, Square Suite 072\nWest Sean, NJ 35004",
+  "box1_wages": "189,708.65",
+  "box2_federal_tax": "18,594.19",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "206,615.26",
+  "box6_medicare_tax": "2,995.92",
+  "box12a_code": "D",
+  "box12a_amount": "16,906.61",
+  "box15_state": "NJ",
+  "box16_state_wages": "189,708.65",
+  "box17_state_tax": "4,403.02"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1272,
+  "out": 355,
+  "cost": 0.0
+ },
+ "latency_s": 6.0,
+ "at": 1790379346.599732
+}

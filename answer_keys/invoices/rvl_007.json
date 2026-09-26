@@ -1,0 +1,15 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Branham, Inc.",
+  "invoice_number": "E800896",
+  "invoice_date": null,
+  "total": "1,345.76"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "invoice_date: only 'Month of May 1988' is printed; '6-10-88' is handwritten by the payer",
+  "total: gross 1,583.25, net due 1,345.76"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

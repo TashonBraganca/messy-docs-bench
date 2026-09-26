@@ -1,0 +1,35 @@
+{
+ "key": "5e359184686f7a821bfa4414d53885880b9f8f857d02d046401dfc01a59fb103",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "w2_002",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"930-70-2096\",\"employer_ein\":\"15-4651402\",\"employer_name_address\":\"Hernandez-Burns\\n189 Peterson Keys\\nRileymouth, GA 09513\",\"employee_first_name\":\"Mary\",\"employee_last_name\":\"Duffy\",\"employee_address\":\"104 Mitchell Lights Suite 075\\nNew Dale, GA 08228\",\"box1_wages\":\"49,152.78\",\"box2_federal_tax\":\"4,824.19\",\"box3_ss_wages\":\"52,102.04\",\"box4_ss_tax\":\"3,230.33\",\"box5_medicare_wages\":\"52,102.04\",\"box6_medicare_tax\":\"755.48\",\"box12a_code\":\"D\",\"box12a_amount\":\"2,949.26\",\"box15_state\":\"GA\",\"box16_state_wages\":\"49,152.78\",\"box17_state_tax\":\"3,191.09\"}",
+ "parsed": {
+  "employee_ssn": "930-70-2096",
+  "employer_ein": "15-4651402",
+  "employer_name_address": "Hernandez-Burns\n189 Peterson Keys\nRileymouth, GA 09513",
+  "employee_first_name": "Mary",
+  "employee_last_name": "Duffy",
+  "employee_address": "104 Mitchell Lights Suite 075\nNew Dale, GA 08228",
+  "box1_wages": "49,152.78",
+  "box2_federal_tax": "4,824.19",
+  "box3_ss_wages": "52,102.04",
+  "box4_ss_tax": "3,230.33",
+  "box5_medicare_wages": "52,102.04",
+  "box6_medicare_tax": "755.48",
+  "box12a_code": "D",
+  "box12a_amount": "2,949.26",
+  "box15_state": "GA",
+  "box16_state_wages": "49,152.78",
+  "box17_state_tax": "3,191.09"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1589,
+  "out": 263,
+  "cost": 0.0
+ },
+ "latency_s": 4.9,
+ "at": 1790411192.387367
+}

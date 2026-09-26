@@ -1,0 +1,26 @@
+{
+ "key": "b5f919ee6740b195c6990a8f5e1fc8d12416410e43a30218cdcee9ef68e70248",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_020",
+ "type": "invoices",
+ "text": "```json\n{\n  \"vendor\": \"Tong McKnew Inc\",\n  \"invoice_number\": \"12562\",\n  \"invoice_date\": \"October 4, 1995\",\n  \"total\": \"$1,426\"\n}\n```",
+ "parsed": {
+  "vendor": "Tong McKnew Inc",
+  "invoice_number": "12562",
+  "invoice_date": "October 4, 1995",
+  "total": "$1,426"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 71,
+  "cost": 0.0,
+  "notional_cost": 0.007574,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.82,
+ "at": 1790378605.763453
+}

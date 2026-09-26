@@ -1,0 +1,22 @@
+{
+ "key": "3334e0308eda8a752d6c235dc866f37f4e3773f2f4fcb4d74c24e89535bda11a",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_013",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"Borriston Laboratories, Inc.\",\n  \"invoice_number\": \"1548-1\",\n  \"invoice_date\": \"February 1, 1984\",\n  \"total\": \"42,300.00\"\n}",
+ "parsed": {
+  "vendor": "Borriston Laboratories, Inc.",
+  "invoice_number": "1548-1",
+  "invoice_date": "February 1, 1984",
+  "total": "42,300.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 60,
+  "cost": 0.0
+ },
+ "latency_s": 11.06,
+ "at": 1790412724.407686
+}

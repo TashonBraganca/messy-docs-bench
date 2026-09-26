@@ -1,0 +1,27 @@
+{
+ "key": "6435ecf1fb80e1523e013c82080ae79480e8c60ef6cf63de8e33718bcb46a369",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_000",
+ "type": "receipts",
+ "text": "{\"total\":\"60.000\",\"subtotal\":\"60.000\",\"tax\":\"5.455\",\"items\":[{\"name\":\"-TICKET CP\",\"price\":\"60.000\"}]}",
+ "parsed": {
+  "total": "60.000",
+  "subtotal": "60.000",
+  "tax": "5.455",
+  "items": [
+   {
+    "name": "-TICKET CP",
+    "price": "60.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 581,
+  "out": 138,
+  "cost": 0.0
+ },
+ "latency_s": 4.25,
+ "at": 1790411059.967681
+}

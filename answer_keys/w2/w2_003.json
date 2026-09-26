@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 1.6,
+ "truth": {
+  "employee_ssn": "983-64-2155",
+  "employer_ein": "12-7056978",
+  "employer_name_address": "Tate and Sons\n6712 Morales Harbors\nPort Russell, IL 72619",
+  "employee_first_name": "Joshua",
+  "employee_last_name": "Perry",
+  "employee_address": "632 Gregory Fort Apt. 079\nWest Julian, IL 19595",
+  "box1_wages": "30,933.81",
+  "box2_federal_tax": "8,010.42",
+  "box3_ss_wages": "34,134.45",
+  "box4_ss_tax": "2,116.34",
+  "box5_medicare_wages": "34,134.45",
+  "box6_medicare_tax": "494.95",
+  "box12a_code": "D",
+  "box12a_amount": "3,200.64",
+  "box15_state": "IL",
+  "box16_state_wages": "30,933.81",
+  "box17_state_tax": "2,155.54"
+ }
+}

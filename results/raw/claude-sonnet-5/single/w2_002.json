@@ -1,0 +1,39 @@
+{
+ "key": "43bbdf2a9238ef12d951b17fb841ea8235f0df04e251ce94020927c106b4c09c",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "w2_002",
+ "type": "w2",
+ "text": "```json\n{\n  \"employee_ssn\": \"930-70-2096\",\n  \"employer_ein\": \"15-4651402\",\n  \"employer_name_address\": \"Hernandez-Burns\\n189 Peterson Keys\\nRileymouth, GA 09513\",\n  \"employee_first_name\": \"Mary\",\n  \"employee_last_name\": \"Duffy\",\n  \"employee_address\": \"104 Mitchell Lights Suite 075\\nNew Dave, GA 08228\",\n  \"box1_wages\": \"49,152.78\",\n  \"box2_federal_tax\": \"4,824.19\",\n  \"box3_ss_wages\": \"52,102.04\",\n  \"box4_ss_tax\": \"3,230.33\",\n  \"box5_medicare_wages\": \"52,102.04\",\n  \"box6_medicare_tax\": \"755.48\",\n  \"box12a_code\": \"D\",\n  \"box12a_amount\": \"2,949.26\",\n  \"box15_state\": \"GA\",\n  \"box16_state_wages\": \"49,152.78\",\n  \"box17_state_tax\": \"3,191.09\"\n}\n```",
+ "parsed": {
+  "employee_ssn": "930-70-2096",
+  "employer_ein": "15-4651402",
+  "employer_name_address": "Hernandez-Burns\n189 Peterson Keys\nRileymouth, GA 09513",
+  "employee_first_name": "Mary",
+  "employee_last_name": "Duffy",
+  "employee_address": "104 Mitchell Lights Suite 075\nNew Dave, GA 08228",
+  "box1_wages": "49,152.78",
+  "box2_federal_tax": "4,824.19",
+  "box3_ss_wages": "52,102.04",
+  "box4_ss_tax": "3,230.33",
+  "box5_medicare_wages": "52,102.04",
+  "box6_medicare_tax": "755.48",
+  "box12a_code": "D",
+  "box12a_amount": "2,949.26",
+  "box15_state": "GA",
+  "box16_state_wages": "49,152.78",
+  "box17_state_tax": "3,191.09"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 346,
+  "cost": 0.0,
+  "notional_cost": 0.012136,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.34,
+ "at": 1790378760.6778848
+}

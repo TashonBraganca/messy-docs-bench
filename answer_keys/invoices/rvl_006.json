@@ -1,0 +1,14 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "University of California, Davis",
+  "invoice_number": "59280-1",
+  "invoice_date": "October 22, 2001",
+  "total": "49,710.15"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "invoice_date: also shows 'Revised Invoice: November 13, 2001'"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

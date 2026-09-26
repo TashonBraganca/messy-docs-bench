@@ -1,0 +1,26 @@
+{
+ "key": "ee9b5b4b818b680cd7ef889aa29d13f7ceffb9209828b85a164b5c59e718f082",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_014",
+ "type": "invoices",
+ "text": "```json\n{\n  \"vendor\": \"RESEARCH TRIANGLE INSTITUTE\",\n  \"invoice_number\": \"311T 3668-4A\",\n  \"invoice_date\": \"APRIL 27, 1987\",\n  \"total\": \"$60.78\"\n}\n```",
+ "parsed": {
+  "vendor": "RESEARCH TRIANGLE INSTITUTE",
+  "invoice_number": "311T 3668-4A",
+  "invoice_date": "APRIL 27, 1987",
+  "total": "$60.78"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 90,
+  "cost": 0.0,
+  "notional_cost": 0.007908,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.91,
+ "at": 1790378597.702164
+}

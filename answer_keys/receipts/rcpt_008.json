@@ -1,0 +1,22 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "50,000",
+  "subtotal": "45,455",
+  "tax": "4,545",
+  "items": [
+   {
+    "name": "[REG] BLACK SAKURA",
+    "price": "45,455"
+   },
+   {
+    "name": "COOKIE DOH SAUCES",
+    "price": "0"
+   },
+   {
+    "name": "NATA DE COCO",
+    "price": "0"
+   }
+  ]
+ }
+}

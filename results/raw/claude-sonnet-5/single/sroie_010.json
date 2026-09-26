@@ -1,0 +1,26 @@
+{
+ "key": "1b8c1a1b334d8bdc0f7913a33c4949473a747d63cd0758a02126b946687bf427",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_010",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"99 SPEED MART S/B (519537-X)\",\n  \"date\": \"20-11-17\",\n  \"address\": \"LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR\",\n  \"total\": \"169.80\"\n}\n```",
+ "parsed": {
+  "company": "99 SPEED MART S/B (519537-X)",
+  "date": "20-11-17",
+  "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY, 41150 KLANG, SELANGOR",
+  "total": "169.80"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 111,
+  "cost": 0.0,
+  "notional_cost": 0.010058000000000001,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.57,
+ "at": 1790378693.801292
+}

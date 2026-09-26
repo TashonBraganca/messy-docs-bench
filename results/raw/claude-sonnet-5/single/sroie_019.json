@@ -1,0 +1,26 @@
+{
+ "key": "e4362ac9764f1fd7773e95f4820b6ca96d7ceffbb63645ffc17eae922aab6373",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_019",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"F&P PHARMACY\",\n  \"date\": \"02/03/2018\",\n  \"address\": \"NO.20, GROUND FLOOR, JALAN BS 10/6 TAMAN BUKIT SERDANG, SEKSYEN 10, 43300 SERI KEMBANGAN, SELANGOR DARUL EHSAN\",\n  \"total\": \"31.90\"\n}\n```",
+ "parsed": {
+  "company": "F&P PHARMACY",
+  "date": "02/03/2018",
+  "address": "NO.20, GROUND FLOOR, JALAN BS 10/6 TAMAN BUKIT SERDANG, SEKSYEN 10, 43300 SERI KEMBANGAN, SELANGOR DARUL EHSAN",
+  "total": "31.90"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 139,
+  "cost": 0.0,
+  "notional_cost": 0.010766,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 6.75,
+ "at": 1790378712.3392088
+}

@@ -1,0 +1,35 @@
+{
+ "key": "51bca5480956c88f964a47e259b1add587295ddc3ef1db3f171a4f906e2d45ac",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rcpt_012",
+ "type": "receipts",
+ "text": "```json\n{\n  \"total\": \"120,000\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"items\": [\n    {\"name\": \"BLUS WANITA\", \"price\": \"120,000\"},\n    {\"name\": \"SHOPPING BAG\", \"price\": \"0\"}\n  ]\n}\n```",
+ "parsed": {
+  "total": "120,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "BLUS WANITA",
+    "price": "120,000"
+   },
+   {
+    "name": "SHOPPING BAG",
+    "price": "0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 97,
+  "cost": 0.0,
+  "notional_cost": 0.006298,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 4.38,
+ "at": 1790378643.18148
+}

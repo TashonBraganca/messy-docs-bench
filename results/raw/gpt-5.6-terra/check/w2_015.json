@@ -1,0 +1,35 @@
+{
+ "key": "709a418d1c9c8a96b305751ec7f897f1430de7fc4903b3279cd6f91006dd533a",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "w2_015",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"946-62-5028\",\"employer_ein\":\"85-7379223\",\"employer_name_address\":\"Ramsey Uly\\n88 Renee Terrace\\nPort Glenadbury, IL 11654\",\"employee_first_name\":\"Anthony\",\"employee_last_name\":\"Suff\",\"employee_address\":\"67800 Tracy Alley Suite 188\\nLake Aljarfort, IL 33556\",\"box1_wages\":\"61,194.81\",\"box2_federal_tax\":\"10,296.10\",\"box3_ss_wages\":\"63,153.87\",\"box4_ss_tax\":\"3,915.54\",\"box5_medicare_wages\":\"63,153.87\",\"box6_medicare_tax\":\"915.73\",\"box12a_code\":\"D\",\"box12a_amount\":\"1,959.06\",\"box15_state\":\"IL\",\"box16_state_wages\":\"61,194.81\",\"box17_state_tax\":\"1,957.33\"}",
+ "parsed": {
+  "employee_ssn": "946-62-5028",
+  "employer_ein": "85-7379223",
+  "employer_name_address": "Ramsey Uly\n88 Renee Terrace\nPort Glenadbury, IL 11654",
+  "employee_first_name": "Anthony",
+  "employee_last_name": "Suff",
+  "employee_address": "67800 Tracy Alley Suite 188\nLake Aljarfort, IL 33556",
+  "box1_wages": "61,194.81",
+  "box2_federal_tax": "10,296.10",
+  "box3_ss_wages": "63,153.87",
+  "box4_ss_tax": "3,915.54",
+  "box5_medicare_wages": "63,153.87",
+  "box6_medicare_tax": "915.73",
+  "box12a_code": "D",
+  "box12a_amount": "1,959.06",
+  "box15_state": "IL",
+  "box16_state_wages": "61,194.81",
+  "box17_state_tax": "1,957.33"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1252,
+  "out": 415,
+  "cost": 0.0
+ },
+ "latency_s": 6.49,
+ "at": 1790411220.438756
+}

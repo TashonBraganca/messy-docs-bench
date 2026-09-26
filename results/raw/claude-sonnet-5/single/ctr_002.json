@@ -1,0 +1,28 @@
+{
+ "key": "c1c0e20978c4a309aab64f8f4cbed5eb1ee94fbfe055f0b9f6d50c32ffffbe9a",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "ctr_002",
+ "type": "contracts",
+ "text": "```json\n{\n  \"agreement_date\": \"October 1, 2008\",\n  \"effective_date\": \"October 1, 2008\",\n  \"expiration_date\": \"October 1, 2013\",\n  \"governing_law\": \"Victoria, Australia\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": null\n}\n```",
+ "parsed": {
+  "agreement_date": "October 1, 2008",
+  "effective_date": "October 1, 2008",
+  "expiration_date": "October 1, 2013",
+  "governing_law": "Victoria, Australia",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 2946,
+  "cost": 0.0,
+  "notional_cost": 0.102536,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 30.96,
+ "at": 1790378889.8946571
+}

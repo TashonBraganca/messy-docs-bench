@@ -1,0 +1,22 @@
+{
+ "key": "0098cfc62922ec57dfee20f3650f78fb43f13a599cea883e4c6982fb02adcdfa",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_010",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"99 SPEED MART S/B\",\n  \"date\": \"20-11-17\",\n  \"address\": \"LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1413-SETIA ALAM 2\",\n  \"total\": \"200.00\"\n}",
+ "parsed": {
+  "company": "99 SPEED MART S/B",
+  "date": "20-11-17",
+  "address": "LOT P.T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1413-SETIA ALAM 2",
+  "total": "200.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1307,
+  "out": 93,
+  "cost": 0.0
+ },
+ "latency_s": 12.75,
+ "at": 1790413531.739993
+}

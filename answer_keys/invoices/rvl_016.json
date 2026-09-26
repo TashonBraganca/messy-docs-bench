@@ -1,0 +1,14 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "Washington Technical Information Group Inc.",
+  "invoice_number": "179",
+  "invoice_date": null,
+  "total": "2,968.72"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "invoice_date: none printed, only 'services rendered during January 1989'"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

@@ -1,0 +1,26 @@
+{
+ "key": "f10e5d4cab2a66ceb1a2e675fd7809ba69d915edb4aefbcdc524465a0983a1c3",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "sroie_024",
+ "type": "sroie",
+ "text": "{\"company\": \"GRAND COMPANIONS SDN BHD\", \"date\": \"03 Mar 18\", \"address\": \"LOT G112, AEON MALL TEBRAU CITY, NO 1 JALAN DESA TEBRAU, 81100 JOHOR BAHRU\", \"total\": \"269.40\"}",
+ "parsed": {
+  "company": "GRAND COMPANIONS SDN BHD",
+  "date": "03 Mar 18",
+  "address": "LOT G112, AEON MALL TEBRAU CITY, NO 1 JALAN DESA TEBRAU, 81100 JOHOR BAHRU",
+  "total": "269.40"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 106,
+  "cost": 0.0,
+  "notional_cost": 0.024120000000000003,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 4.26,
+ "at": 1790378740.934693
+}

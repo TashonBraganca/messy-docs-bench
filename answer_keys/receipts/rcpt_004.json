@@ -1,0 +1,22 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "174,600",
+  "subtotal": "194,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "ICE BLACKCOFFE",
+    "price": "82,000"
+   },
+   {
+    "name": "AVOCADO COFFEE",
+    "price": "61,000"
+   },
+   {
+    "name": "CHIKEN KATSU FF",
+    "price": "51,000"
+   }
+  ]
+ }
+}

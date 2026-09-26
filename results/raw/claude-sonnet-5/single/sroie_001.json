@@ -1,0 +1,26 @@
+{
+ "key": "4d18947d2fffdcaafbedcc7e0a64791e00066b5480f3551fa9bfd44ee45962a6",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_001",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"OJC MARKETING SDN BHD\",\n  \"date\": \"02/01/2019\",\n  \"address\": \"NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, 81750 MASAI, JOHOR\",\n  \"total\": \"170.00\"\n}\n```",
+ "parsed": {
+  "company": "OJC MARKETING SDN BHD",
+  "date": "02/01/2019",
+  "address": "NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, 81750 MASAI, JOHOR",
+  "total": "170.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 108,
+  "cost": 0.0,
+  "notional_cost": 0.005656,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 6.4,
+ "at": 1790378675.8115368
+}

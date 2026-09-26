@@ -1,0 +1,27 @@
+{
+ "key": "7ac543c6035f43585d9af81c675254e826961e49a94ce3ed85e879108abdf11d",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_003",
+ "type": "receipts",
+ "text": "{\"total\":\"11,000\",\"subtotal\":\"11,000\",\"tax\":null,\"items\":[{\"name\":\"DONAT GULA\",\"price\":\"11,000\"}]}",
+ "parsed": {
+  "total": "11,000",
+  "subtotal": "11,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "DONAT GULA",
+    "price": "11,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1165,
+  "out": 102,
+  "cost": 0.0
+ },
+ "latency_s": 5.44,
+ "at": 1790379202.1939251
+}

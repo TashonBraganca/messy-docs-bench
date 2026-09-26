@@ -1,0 +1,35 @@
+{
+ "key": "2915dbe8291761d0ba5e3f8af6f2f975f4c524c237470fa9a491abc0bf62ad66",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rcpt_021",
+ "type": "receipts",
+ "text": "{\"total\": \"Rp38.000\", \"subtotal\": null, \"tax\": null, \"items\": [{\"name\": \"NASI GOR SFD TLR\", \"price\": \"Rp35.000\"}, {\"name\": \"ES TEH TAWAR\", \"price\": \"Rp3.000\"}]}",
+ "parsed": {
+  "total": "Rp38.000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "NASI GOR SFD TLR",
+    "price": "Rp35.000"
+   },
+   {
+    "name": "ES TEH TAWAR",
+    "price": "Rp3.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 93,
+  "cost": 0.0,
+  "notional_cost": 0.019684,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.85,
+ "at": 1790378675.430496
+}

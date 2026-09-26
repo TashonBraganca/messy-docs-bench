@@ -1,0 +1,43 @@
+{
+ "key": "24abfa101a8eff1897c2c2ff51434bf104d201d536166fad179820cdfadcea65",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_016",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"70,000\",\n    \"subtotal\": \"63,636\",\n    \"tax\": \"6,364\",\n    \"items\": [\n        {\n            \"name\": \"1 [LG] BLACK SAKURA\",\n            \"price\": \"59,091\"\n        },\n        {\n            \"name\": \"1 LONGAN\",\n            \"price\": \"0\"\n        },\n        {\n            \"name\": \"1 ROASTED ALMOND\",\n            \"price\": \"0\"\n        },\n        {\n            \"name\": \"1 MANGGO\",\n            \"price\": \"0\"\n        },\n        {\n            \"name\": \"1 MINERAL WATER (bundling) 5k\",\n            \"price\": \"4,545\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "70,000",
+  "subtotal": "63,636",
+  "tax": "6,364",
+  "items": [
+   {
+    "name": "1 [LG] BLACK SAKURA",
+    "price": "59,091"
+   },
+   {
+    "name": "1 LONGAN",
+    "price": "0"
+   },
+   {
+    "name": "1 ROASTED ALMOND",
+    "price": "0"
+   },
+   {
+    "name": "1 MANGGO",
+    "price": "0"
+   },
+   {
+    "name": "1 MINERAL WATER (bundling) 5k",
+    "price": "4,545"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 173,
+  "cost": 0.0
+ },
+ "latency_s": 18.01,
+ "at": 1790413179.205728
+}

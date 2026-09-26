@@ -1,0 +1,27 @@
+{
+ "key": "32b5e948954f21bfebdd48199a642a7aeec9c1fdccb48cbace3aaa7a373734a1",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_003",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"11,000\",\n    \"subtotal\": \"11,000\",\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"DONAT GULA\",\n            \"price\": \"11,000\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "11,000",
+  "subtotal": "11,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "DONAT GULA",
+    "price": "11,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 66,
+  "cost": 0.0
+ },
+ "latency_s": 10.86,
+ "at": 1790412915.209079
+}

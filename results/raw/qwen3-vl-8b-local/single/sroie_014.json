@@ -1,0 +1,22 @@
+{
+ "key": "1ad8d37a4a3dfa2dda5aa88ac75532efca0df20368286d5c0b604af2559514e6",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_014",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"UROKO JAPANESE CUISINE SDN BHD\",\n  \"date\": \"20/03/2018 6:41:02 PM\",\n  \"address\": \"22A-1, JALAN 17/54, SECTION 17, 46400 PETALING JAYA, SELANGOR.\",\n  \"total\": \"53.00\"\n}",
+ "parsed": {
+  "company": "UROKO JAPANESE CUISINE SDN BHD",
+  "date": "20/03/2018 6:41:02 PM",
+  "address": "22A-1, JALAN 17/54, SECTION 17, 46400 PETALING JAYA, SELANGOR.",
+  "total": "53.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1181,
+  "out": 102,
+  "cost": 0.0
+ },
+ "latency_s": 12.23,
+ "at": 1790413571.672277
+}

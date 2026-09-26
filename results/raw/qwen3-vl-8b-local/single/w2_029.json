@@ -1,0 +1,35 @@
+{
+ "key": "b17d520b4b1c542cf68f59e03eb22ab60fc0eeaa8ebb72d1a0e16aa1c77cb6b0",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "w2_029",
+ "type": "w2",
+ "text": "{\n    \"employee_ssn\": \"979-72-5404\",\n    \"employer_ein\": \"35-8965770\",\n    \"employer_name_address\": \"Flynn Ltd\\n812 Dominguez Lodge\\nElizabethtchester, GA 07232\",\n    \"employee_first_name\": \"Larry\",\n    \"employee_last_name\": \"Knight\",\n    \"employee_address\": \"6053 Luna Ford Apt. 626\\nPort Christophershire, GA 48306\",\n    \"box1_wages\": \"165,148.22\",\n    \"box2_federal_tax\": \"41,406.24\",\n    \"box3_ss_wages\": \"179,930.15\",\n    \"box4_ss_tax\": \"11,155.67\",\n    \"box5_medicare_wages\": \"179,930.15\",\n    \"box6_medicare_tax\": \"2,608.99\",\n    \"box12a_code\": \"D\",\n    \"box12a_amount\": \"14,781.93\",\n    \"box15_state\": \"GA\",\n    \"box16_state_wages\": \"165,148.22\",\n    \"box17_state_tax\": \"7,306.11\"\n}",
+ "parsed": {
+  "employee_ssn": "979-72-5404",
+  "employer_ein": "35-8965770",
+  "employer_name_address": "Flynn Ltd\n812 Dominguez Lodge\nElizabethtchester, GA 07232",
+  "employee_first_name": "Larry",
+  "employee_last_name": "Knight",
+  "employee_address": "6053 Luna Ford Apt. 626\nPort Christophershire, GA 48306",
+  "box1_wages": "165,148.22",
+  "box2_federal_tax": "41,406.24",
+  "box3_ss_wages": "179,930.15",
+  "box4_ss_tax": "11,155.67",
+  "box5_medicare_wages": "179,930.15",
+  "box6_medicare_tax": "2,608.99",
+  "box12a_code": "D",
+  "box12a_amount": "14,781.93",
+  "box15_state": "GA",
+  "box16_state_wages": "165,148.22",
+  "box17_state_tax": "7,306.11"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1258,
+  "out": 318,
+  "cost": 0.0
+ },
+ "latency_s": 43.86,
+ "at": 1790416457.403678
+}

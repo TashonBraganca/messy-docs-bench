@@ -1,0 +1,22 @@
+{
+ "key": "2269dd5693aeabac2e35542255e6187b8ff8d7f52431c33204bbcaddd550ac85",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "sroie_005",
+ "type": "sroie",
+ "text": "{\"company\":\"SIN LIANHAP SDN BHD\",\"date\":\"05/02/2018\",\"address\":\"LOT 13, JALAN IPOH, KG BATU 30, ULU YAM LAMA 44300 BTG KALI, SELANGOR.\",\"total\":\"7.30\"}",
+ "parsed": {
+  "company": "SIN LIANHAP SDN BHD",
+  "date": "05/02/2018",
+  "address": "LOT 13, JALAN IPOH, KG BATU 30, ULU YAM LAMA 44300 BTG KALI, SELANGOR.",
+  "total": "7.30"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1528,
+  "out": 207,
+  "cost": 0.0
+ },
+ "latency_s": 6.87,
+ "at": 1790411112.757422
+}

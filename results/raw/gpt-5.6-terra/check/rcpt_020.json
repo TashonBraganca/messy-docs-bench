@@ -1,0 +1,43 @@
+{
+ "key": "05d70447076a80cd2fd0640d1fa93e38b54f43098a28e47b47008797b4437599",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_020",
+ "type": "receipts",
+ "text": "{\"total\":\"377,859\",\"subtotal\":\"325,600\",\"tax\":\"34,351\",\"items\":[{\"name\":\"cashew nuts chkn\",\"price\":\"64,500\"},{\"name\":\"garlic pepper beef\",\"price\":\"79,500\"},{\"name\":\"red curry beef\",\"price\":\"89,500\"},{\"name\":\"phad thai\",\"price\":\"44,500\"},{\"name\":\"steamed rice\",\"price\":\"47,600\"}]}",
+ "parsed": {
+  "total": "377,859",
+  "subtotal": "325,600",
+  "tax": "34,351",
+  "items": [
+   {
+    "name": "cashew nuts chkn",
+    "price": "64,500"
+   },
+   {
+    "name": "garlic pepper beef",
+    "price": "79,500"
+   },
+   {
+    "name": "red curry beef",
+    "price": "89,500"
+   },
+   {
+    "name": "phad thai",
+    "price": "44,500"
+   },
+   {
+    "name": "steamed rice",
+    "price": "47,600"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1332,
+  "out": 310,
+  "cost": 0.0
+ },
+ "latency_s": 7.18,
+ "at": 1790411091.612309
+}

@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 0.7,
+ "truth": {
+  "employee_ssn": "913-91-8875",
+  "employer_ein": "62-8358509",
+  "employer_name_address": "Lee-Brown\n4590 Francis Spurs Suite 440\nNorth Margaretville, NJ 62784",
+  "employee_first_name": "Jennifer",
+  "employee_last_name": "Owens",
+  "employee_address": "6727 Alan Streets Suite 293\nMichellemouth, NJ 47930",
+  "box1_wages": "106,450.60",
+  "box2_federal_tax": "17,573.49",
+  "box3_ss_wages": "109,505.05",
+  "box4_ss_tax": "6,789.31",
+  "box5_medicare_wages": "109,505.05",
+  "box6_medicare_tax": "1,587.82",
+  "box12a_code": "D",
+  "box12a_amount": "3,054.45",
+  "box15_state": "NJ",
+  "box16_state_wages": "106,450.60",
+  "box17_state_tax": "5,679.02"
+ }
+}

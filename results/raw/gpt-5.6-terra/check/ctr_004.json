@@ -1,0 +1,24 @@
+{
+ "key": "027956c14bac4bde8fbe9072f86c3eb832e59e3e4cc5beedc9f7c094fa97627c",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "ctr_004",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"February 1, 2019\",\"effective_date\":\"February 1, 2019\",\"expiration_date\":\"January 31, 2024\",\"governing_law\":\"State of California, USA\",\"renewal_term\":null,\"notice_period_to_terminate_renewal\":null}",
+ "parsed": {
+  "agreement_date": "February 1, 2019",
+  "effective_date": "February 1, 2019",
+  "expiration_date": "January 31, 2024",
+  "governing_law": "State of California, USA",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 8251,
+  "out": 155,
+  "cost": 0.0
+ },
+ "latency_s": 3.03,
+ "at": 1790411029.151048
+}

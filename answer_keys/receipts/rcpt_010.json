@@ -1,0 +1,14 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "17,000",
+  "subtotal": "17,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "CINNAMON SUGAR",
+    "price": "17,000"
+   }
+  ]
+ }
+}

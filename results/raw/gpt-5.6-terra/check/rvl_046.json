@@ -1,0 +1,22 @@
+{
+ "key": "9bfd076cda4333db694be0bedc4698e947a95069e7956f62a4965d96387cc894",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rvl_046",
+ "type": "invoices",
+ "text": "{\"vendor\":\"MacNAUGHTON LITHOGRAPH COMPANY, INC.\",\"invoice_number\":\"29791\",\"invoice_date\":\"January 15, 1963\",\"total\":\"683.58\"}",
+ "parsed": {
+  "vendor": "MacNAUGHTON LITHOGRAPH COMPANY, INC.",
+  "invoice_number": "29791",
+  "invoice_date": "January 15, 1963",
+  "total": "683.58"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1188,
+  "out": 145,
+  "cost": 0.0
+ },
+ "latency_s": 4.34,
+ "at": 1790411056.1212611
+}

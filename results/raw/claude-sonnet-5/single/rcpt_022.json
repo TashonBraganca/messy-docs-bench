@@ -1,0 +1,35 @@
+{
+ "key": "73effa4dce6da22205d15c8cc1d7586ac175a067ea88b5740f5b8d8c23eaae40",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rcpt_022",
+ "type": "receipts",
+ "text": "```json\n{\n  \"total\": \"40,000\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"items\": [\n    {\"name\": \"2 [MD] SOFT STEAMED CHEESEC\", \"price\": \"20,000\"},\n    {\"name\": \"2 [MD] SOFT STEAMED CHOCOCA\", \"price\": \"20,000\"}\n  ]\n}\n```",
+ "parsed": {
+  "total": "40,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "2 [MD] SOFT STEAMED CHEESEC",
+    "price": "20,000"
+   },
+   {
+    "name": "2 [MD] SOFT STEAMED CHOCOCA",
+    "price": "20,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 125,
+  "cost": 0.0,
+  "notional_cost": 0.009802,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 6.25,
+ "at": 1790378662.362145
+}

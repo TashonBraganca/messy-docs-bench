@@ -1,0 +1,123 @@
+{
+ "key": "a0b82592ff6484bad622e69282e2cd90218eae12e73c95cef4676186dd0c5f1d",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "stmt_005",
+ "type": "statements",
+ "text": "{\"header\": {\"bank_name\": \"UNITY NATIONAL BANK\", \"account_holder\": \"INVESTMENT SERVICES INDIA\", \"account_number\": \"23908718914\", \"ifsc_code\": \"UNIT0517580\", \"opening_balance\": 1279072.17, \"start_date\": \"2024-01-01\", \"end_date\": \"2024-03-31\"}, \"transactions\": [{\"date\": \"2024-01-01\", \"debit\": 475617.41, \"credit\": null, \"balance\": 803454.76}, {\"date\": \"2024-01-02\", \"debit\": null, \"credit\": 101795.99, \"balance\": 905250.75}, {\"date\": \"2024-01-02\", \"debit\": null, \"credit\": 60198.25, \"balance\": 965449.00}, {\"date\": \"2024-01-02\", \"debit\": null, \"credit\": 46334.23, \"balance\": 1011783.23}, {\"date\": \"2024-01-02\", \"debit\": 9371.77, \"credit\": null, \"balance\": 1002411.46}, {\"date\": \"2024-01-04\", \"debit\": 139.96, \"credit\": null, \"balance\": 1002271.50}, {\"date\": \"2024-01-04\", \"debit\": 266844.11, \"credit\": null, \"balance\": 735427.39}, {\"date\": \"2024-01-05\", \"debit\": null, \"credit\": 125251.78, \"balance\": 860679.17}, {\"date\": \"2024-01-05\", \"debit\": 81089.25, \"credit\": null, \"balance\": 779589.92}, {\"date\": \"2024-01-06\", \"debit\": null, \"credit\": 313988.86, \"balance\": 1093578.78}, {\"date\": \"2024-01-06\", \"debit\": null, \"credit\": 111752.00, \"balance\": 1205330.78}, {\"date\": \"2024-01-06\", \"debit\": 13657.59, \"credit\": null, \"balance\": 1191673.19}, {\"date\": \"2024-01-06\", \"debit\": null, \"credit\": 108535.03, \"balance\": 1300208.22}, {\"date\": \"2024-01-08\", \"debit\": 849452.05, \"credit\": null, \"balance\": 450756.17}, {\"date\": \"2024-01-08\", \"debit\": 217613.90, \"credit\": null, \"balance\": 233142.27}]}",
+ "parsed": {
+  "header": {
+   "bank_name": "UNITY NATIONAL BANK",
+   "account_holder": "INVESTMENT SERVICES INDIA",
+   "account_number": "23908718914",
+   "ifsc_code": "UNIT0517580",
+   "opening_balance": 1279072.17,
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": 475617.41,
+    "credit": null,
+    "balance": 803454.76
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 101795.99,
+    "balance": 905250.75
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 60198.25,
+    "balance": 965449.0
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 46334.23,
+    "balance": 1011783.23
+   },
+   {
+    "date": "2024-01-02",
+    "debit": 9371.77,
+    "credit": null,
+    "balance": 1002411.46
+   },
+   {
+    "date": "2024-01-04",
+    "debit": 139.96,
+    "credit": null,
+    "balance": 1002271.5
+   },
+   {
+    "date": "2024-01-04",
+    "debit": 266844.11,
+    "credit": null,
+    "balance": 735427.39
+   },
+   {
+    "date": "2024-01-05",
+    "debit": null,
+    "credit": 125251.78,
+    "balance": 860679.17
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 81089.25,
+    "credit": null,
+    "balance": 779589.92
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 313988.86,
+    "balance": 1093578.78
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 111752.0,
+    "balance": 1205330.78
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 13657.59,
+    "credit": null,
+    "balance": 1191673.19
+   },
+   {
+    "date": "2024-01-06",
+    "debit": null,
+    "credit": 108535.03,
+    "balance": 1300208.22
+   },
+   {
+    "date": "2024-01-08",
+    "debit": 849452.05,
+    "credit": null,
+    "balance": 450756.17
+   },
+   {
+    "date": "2024-01-08",
+    "debit": 217613.9,
+    "credit": null,
+    "balance": 233142.27
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 720,
+  "cost": 0.0,
+  "notional_cost": 0.050008,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 8.92,
+ "at": 1790378765.196811
+}

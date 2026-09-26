@@ -1,0 +1,35 @@
+{
+ "key": "10a58f98aa4667625d268c802e8fc135bd4a9c87f8257fa97a98c2235bf3227a",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_024",
+ "type": "receipts",
+ "text": "{\"total\":\"Rp.118.000\",\"subtotal\":null,\"tax\":null,\"items\":[{\"name\":\"5001-Corn Flakes Cookies\",\"price\":\"Rp.56.000\"},{\"name\":\"5003-Chokoreto Cookies\",\"price\":\"Rp.62.000\"},{\"name\":\"6002-Plastic Bag Medium\",\"price\":\"Rp.0\"}]}",
+ "parsed": {
+  "total": "Rp.118.000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "5001-Corn Flakes Cookies",
+    "price": "Rp.56.000"
+   },
+   {
+    "name": "5003-Chokoreto Cookies",
+    "price": "Rp.62.000"
+   },
+   {
+    "name": "6002-Plastic Bag Medium",
+    "price": "Rp.0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 855,
+  "out": 275,
+  "cost": 0.0
+ },
+ "latency_s": 6.48,
+ "at": 1790411098.0976121
+}

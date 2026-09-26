@@ -1,0 +1,22 @@
+{
+ "key": "31925b545314fa569427631bf5015f33ccb5dd9ca146098c61dee65e9110cbd5",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "sroie_022",
+ "type": "sroie",
+ "text": "{\"company\":\"PASAR MINI JIN SENG\",\"date\":\"03/03/18\",\"address\":\"79, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA 81750 PLENTONG, JOHOR.\",\"total\":\"33.80\"}",
+ "parsed": {
+  "company": "PASAR MINI JIN SENG",
+  "date": "03/03/18",
+  "address": "79, JALAN PERMAS SATU, BANDAR BARU PERMAS JAYA 81750 PLENTONG, JOHOR.",
+  "total": "33.80"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1104,
+  "out": 154,
+  "cost": 0.0
+ },
+ "latency_s": 4.12,
+ "at": 1790379274.7491012
+}

@@ -1,0 +1,24 @@
+{
+ "key": "a2c4ec55dfa0e382fd75173fcc0f60f021f77e298ad16acfd0767db9a2d1e0f9",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_010",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"January 26, 1998\",\n  \"effective_date\": null,\n  \"expiration_date\": \"February 1, 1999\",\n  \"governing_law\": \"State of California\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": null\n}",
+ "parsed": {
+  "agreement_date": "January 26, 1998",
+  "effective_date": null,
+  "expiration_date": "February 1, 1999",
+  "governing_law": "State of California",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 5145,
+  "out": 79,
+  "cost": 0.0
+ },
+ "latency_s": 27.64,
+ "at": 1790412522.56823
+}

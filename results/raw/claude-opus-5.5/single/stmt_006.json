@@ -1,0 +1,129 @@
+{
+ "key": "20c76f458f74a42a63da42733b198bf99cb8e3ad901fb37f1a119e1f64635452",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "stmt_006",
+ "type": "statements",
+ "text": "{\"header\": {\"bank_name\": \"MILESTONE BANKING SOLUTIONS\", \"account_holder\": \"HEALTHPLUS PHARMA LTD\", \"account_number\": \"52934702276\", \"ifsc_code\": \"MILE0267798\", \"opening_balance\": 2581250.25, \"start_date\": \"2024-01-01\", \"end_date\": \"2024-03-31\"}, \"transactions\": [{\"date\": \"2024-01-01\", \"debit\": null, \"credit\": 486285.76, \"balance\": 3067536.01}, {\"date\": \"2024-01-02\", \"debit\": null, \"credit\": 591422.08, \"balance\": 3658958.09}, {\"date\": \"2024-01-03\", \"debit\": null, \"credit\": 1050190.83, \"balance\": 4709148.92}, {\"date\": \"2024-01-04\", \"debit\": 522823.65, \"credit\": null, \"balance\": 4186325.27}, {\"date\": \"2024-01-04\", \"debit\": null, \"credit\": 4753862.25, \"balance\": 8940187.52}, {\"date\": \"2024-01-05\", \"debit\": 2966438.98, \"credit\": null, \"balance\": 5973748.54}, {\"date\": \"2024-01-05\", \"debit\": 188232.03, \"credit\": null, \"balance\": 7676128.11}, {\"date\": \"2024-01-05\", \"debit\": null, \"credit\": 1241284.27, \"balance\": 7215032.81}, {\"date\": \"2024-01-05\", \"debit\": null, \"credit\": 977610.46, \"balance\": 8192643.27}, {\"date\": \"2024-01-05\", \"debit\": 1838.77, \"credit\": null, \"balance\": 8190804.50}, {\"date\": \"2024-01-06\", \"debit\": 956655.30, \"credit\": null, \"balance\": 7234149.20}, {\"date\": \"2024-01-06\", \"debit\": 1520387.43, \"credit\": null, \"balance\": 5713761.77}, {\"date\": \"2024-01-08\", \"debit\": 1556431.46, \"credit\": null, \"balance\": 4157330.31}, {\"date\": \"2024-01-09\", \"debit\": 55776.07, \"credit\": null, \"balance\": 4101554.24}, {\"date\": \"2024-01-09\", \"debit\": null, \"credit\": 245173.04, \"balance\": 4346727.28}, {\"date\": \"2024-01-10\", \"debit\": null, \"credit\": 688101.32, \"balance\": 5034828.60}]}",
+ "parsed": {
+  "header": {
+   "bank_name": "MILESTONE BANKING SOLUTIONS",
+   "account_holder": "HEALTHPLUS PHARMA LTD",
+   "account_number": "52934702276",
+   "ifsc_code": "MILE0267798",
+   "opening_balance": 2581250.25,
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 486285.76,
+    "balance": 3067536.01
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 591422.08,
+    "balance": 3658958.09
+   },
+   {
+    "date": "2024-01-03",
+    "debit": null,
+    "credit": 1050190.83,
+    "balance": 4709148.92
+   },
+   {
+    "date": "2024-01-04",
+    "debit": 522823.65,
+    "credit": null,
+    "balance": 4186325.27
+   },
+   {
+    "date": "2024-01-04",
+    "debit": null,
+    "credit": 4753862.25,
+    "balance": 8940187.52
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 2966438.98,
+    "credit": null,
+    "balance": 5973748.54
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 188232.03,
+    "credit": null,
+    "balance": 7676128.11
+   },
+   {
+    "date": "2024-01-05",
+    "debit": null,
+    "credit": 1241284.27,
+    "balance": 7215032.81
+   },
+   {
+    "date": "2024-01-05",
+    "debit": null,
+    "credit": 977610.46,
+    "balance": 8192643.27
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 1838.77,
+    "credit": null,
+    "balance": 8190804.5
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 956655.3,
+    "credit": null,
+    "balance": 7234149.2
+   },
+   {
+    "date": "2024-01-06",
+    "debit": 1520387.43,
+    "credit": null,
+    "balance": 5713761.77
+   },
+   {
+    "date": "2024-01-08",
+    "debit": 1556431.46,
+    "credit": null,
+    "balance": 4157330.31
+   },
+   {
+    "date": "2024-01-09",
+    "debit": 55776.07,
+    "credit": null,
+    "balance": 4101554.24
+   },
+   {
+    "date": "2024-01-09",
+    "debit": null,
+    "credit": 245173.04,
+    "balance": 4346727.28
+   },
+   {
+    "date": "2024-01-10",
+    "debit": null,
+    "credit": 688101.32,
+    "balance": 5034828.6
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 780,
+  "cost": 0.0,
+  "notional_cost": 0.051191999999999994,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 9.23,
+ "at": 1790378770.4360309
+}

@@ -1,0 +1,22 @@
+{
+ "key": "4ee0f456eb4d3a86c411042c03efdf1e4dc87af5fd8c0cdedcc578eaca294591",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "sroie_014",
+ "type": "sroie",
+ "text": "{\"company\":\"UROKO JAPANESE CUISINE SDN BHD\",\"date\":\"20/03/2018 6:41:02 PM\",\"address\":\"22A-1, JALAN 17/54, SECTION 17, 46400 PETALING JAYA, SELANGOR.\",\"total\":\"53.00\"}",
+ "parsed": {
+  "company": "UROKO JAPANESE CUISINE SDN BHD",
+  "date": "20/03/2018 6:41:02 PM",
+  "address": "22A-1, JALAN 17/54, SECTION 17, 46400 PETALING JAYA, SELANGOR.",
+  "total": "53.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1075,
+  "out": 74,
+  "cost": 0.0
+ },
+ "latency_s": 3.98,
+ "at": 1790411123.951489
+}

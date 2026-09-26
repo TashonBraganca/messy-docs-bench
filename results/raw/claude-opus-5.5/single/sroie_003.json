@@ -1,0 +1,26 @@
+{
+ "key": "cf56e85c14508fd6097ae2433b52c07d86359dccf2faeeadef7a66908266b110",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "sroie_003",
+ "type": "sroie",
+ "text": "{\"company\": \"ALSERKAM ENTERPRISE\", \"date\": \"01/02/2018\", \"address\": \"KM 458.4 BKT LANJAN UTARA, L/RAYA UTARA SELATAN, SG BULOH 47000 SUNGAI BUL\", \"total\": \"4.90\"}",
+ "parsed": {
+  "company": "ALSERKAM ENTERPRISE",
+  "date": "01/02/2018",
+  "address": "KM 458.4 BKT LANJAN UTARA, L/RAYA UTARA SELATAN, SG BULOH 47000 SUNGAI BUL",
+  "total": "4.90"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 103,
+  "cost": 0.0,
+  "notional_cost": 0.015340000000000001,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 6.35,
+ "at": 1790378698.820734
+}

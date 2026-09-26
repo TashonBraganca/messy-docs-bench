@@ -1,0 +1,26 @@
+{
+ "key": "8fe5187c4408db78fdbfd704145f6e5f0119b29507a8b9aa1d53df5a48c5c347",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "sroie_018",
+ "type": "sroie",
+ "text": "{\"company\": \"SWC ENTERPRISE SDN BHD\", \"date\": \"02/01/2018\", \"address\": \"8 & 10, Jalan Ijok Permai 1, Pusat Niaga Ijok Permai, 48000 Ijok, Selangor.\", \"total\": \"4.20\"}",
+ "parsed": {
+  "company": "SWC ENTERPRISE SDN BHD",
+  "date": "02/01/2018",
+  "address": "8 & 10, Jalan Ijok Permai 1, Pusat Niaga Ijok Permai, 48000 Ijok, Selangor.",
+  "total": "4.20"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 100,
+  "cost": 0.0,
+  "notional_cost": 0.036592,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.81,
+ "at": 1790378730.821017
+}

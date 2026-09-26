@@ -1,0 +1,22 @@
+{
+ "key": "ff62449ed6addace10c55af06d919a31816e85d0c8f5c598e6c52533f3f40646",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "sroie_003",
+ "type": "sroie",
+ "text": "{\n  \"company\": \"PETRON BKT LANJAN SB\",\n  \"date\": \"01/02/2018\",\n  \"address\": \"KM 458.4 BKT LANJAN UTARA, L/RAYA UTARA SELATAN,SG BULOH 47000 SUNGAI BUL\",\n  \"total\": \"4.90\"\n}",
+ "parsed": {
+  "company": "PETRON BKT LANJAN SB",
+  "date": "01/02/2018",
+  "address": "KM 458.4 BKT LANJAN UTARA, L/RAYA UTARA SELATAN,SG BULOH 47000 SUNGAI BUL",
+  "total": "4.90"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1187,
+  "out": 89,
+  "cost": 0.0
+ },
+ "latency_s": 11.76,
+ "at": 1790413440.975594
+}

@@ -1,0 +1,22 @@
+{
+ "key": "6d183e8c07e89bbe47759147d5ff8f0d83923084fb1ca4465975edb69bcbd061",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "sroie_009",
+ "type": "sroie",
+ "text": "{\"company\":\"LIGHTROOM GALLERY SDN BHD\",\"date\":\"20/11/2017\",\"address\":\"No: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA\",\"total\":\"278.80\"}",
+ "parsed": {
+  "company": "LIGHTROOM GALLERY SDN BHD",
+  "date": "20/11/2017",
+  "address": "No: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA",
+  "total": "278.80"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2020,
+  "out": 285,
+  "cost": 0.0
+ },
+ "latency_s": 6.64,
+ "at": 1790411119.444115
+}

@@ -1,0 +1,26 @@
+{
+ "key": "023fed1b288c5ce7a8aafc02a152d627a81245b2b4e534bbe4871586a74eb287",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "sroie_008",
+ "type": "sroie",
+ "text": "{\"company\": \"SWC ENTERPRISE SDN BHD\", \"date\": \"08/01/2018\", \"address\": \"No. 5-7, Jalan Mahagoni 7/1, Sekysen 4, Bandar Utama, 44300 Batang Kali, Selangor.\", \"total\": \"8.00\"}",
+ "parsed": {
+  "company": "SWC ENTERPRISE SDN BHD",
+  "date": "08/01/2018",
+  "address": "No. 5-7, Jalan Mahagoni 7/1, Sekysen 4, Bandar Utama, 44300 Batang Kali, Selangor.",
+  "total": "8.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 104,
+  "cost": 0.0,
+  "notional_cost": 0.013144,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 7.49,
+ "at": 1790378710.714623
+}

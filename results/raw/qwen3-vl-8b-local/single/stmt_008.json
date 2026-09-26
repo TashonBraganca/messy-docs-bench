@@ -1,0 +1,131 @@
+{
+ "key": "7ebd85a76c312fc8262de7bcf2f750f1808f48aac70378c28146d03457d058f3",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "stmt_008",
+ "type": "statements",
+ "text": "{\n  \"header\": {\n    \"bank_name\": \"PARAMOUNT BANKING CORPORATION\",\n    \"account_holder\": \"COTTON MILLS CORP\",\n    \"account_number\": \"99093498837\",\n    \"ifsc_code\": \"PARA0419665\",\n    \"opening_balance\": \"2197809.25\",\n    \"start_date\": \"2024-01-01\",\n    \"end_date\": \"2024-03-31\"\n  },\n  \"transactions\": [\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": 59639.67,\n      \"credit\": null,\n      \"balance\": 2138169.58\n    },\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": 1417149.58,\n      \"credit\": null,\n      \"balance\": 721020.00\n    },\n    {\n      \"date\": \"2024-03-01\",\n      \"debit\": null,\n      \"credit\": 965224.19,\n      \"balance\": 1686244.19\n    },\n    {\n      \"date\": \"2024-03-01\",\n      \"debit\": null,\n      \"credit\": 818461.15,\n      \"balance\": 2504705.34\n    },\n    {\n      \"date\": \"2024-04-01\",\n      \"debit\": 739687.85,\n      \"credit\": null,\n      \"balance\": 1765017.49\n    },\n    {\n      \"date\": \"2024-04-01\",\n      \"debit\": null,\n      \"credit\": 2028.45,\n      \"balance\": 1767045.94\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": null,\n      \"credit\": 8269.60,\n      \"balance\": 1775315.54\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": null,\n      \"credit\": 462091.97,\n      \"balance\": 2237407.51\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": null,\n      \"credit\": 591553.28,\n      \"balance\": 2828960.79\n    },\n    {\n      \"date\": \"2024-06-01\",\n      \"debit\": null,\n      \"credit\": 431843.00,\n      \"balance\": 3260803.79\n    },\n    {\n      \"date\": \"2024-06-01\",\n      \"debit\": null,\n      \"credit\": 35554.92,\n      \"balance\": 3296358.71\n    },\n    {\n      \"date\": \"2024-06-01\",\n      \"debit\": null,\n      \"credit\": 143901.76,\n      \"balance\": 3440260.47\n    },\n    {\n      \"date\": \"2024-08-01\",\n      \"debit\": 188967.74,\n      \"credit\": null,\n      \"balance\": 3251292.73\n    },\n    {\n      \"date\": \"2024-09-01\",\n      \"debit\": null,\n      \"credit\": 346361.56,\n      \"balance\": 3597654.29\n    },\n    {\n      \"date\": \"2024-09-01\",\n      \"debit\": 434320.26,\n      \"credit\": null,\n      \"balance\": 3163334.03\n    },\n    {\n      \"date\": \"2024-09-01\",\n      \"debit\": 857991.56,\n      \"credit\": null,\n      \"balance\": 2305342.47\n    },\n    {\n      \"date\": \"2024-09-01\",\n      \"debit\": 1467607.54,\n      \"credit\": null,\n      \"balance\": 837734.93\n    }\n  ]\n}",
+ "parsed": {
+  "header": {
+   "bank_name": "PARAMOUNT BANKING CORPORATION",
+   "account_holder": "COTTON MILLS CORP",
+   "account_number": "99093498837",
+   "ifsc_code": "PARA0419665",
+   "opening_balance": "2197809.25",
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": 59639.67,
+    "credit": null,
+    "balance": 2138169.58
+   },
+   {
+    "date": "2024-01-01",
+    "debit": 1417149.58,
+    "credit": null,
+    "balance": 721020.0
+   },
+   {
+    "date": "2024-03-01",
+    "debit": null,
+    "credit": 965224.19,
+    "balance": 1686244.19
+   },
+   {
+    "date": "2024-03-01",
+    "debit": null,
+    "credit": 818461.15,
+    "balance": 2504705.34
+   },
+   {
+    "date": "2024-04-01",
+    "debit": 739687.85,
+    "credit": null,
+    "balance": 1765017.49
+   },
+   {
+    "date": "2024-04-01",
+    "debit": null,
+    "credit": 2028.45,
+    "balance": 1767045.94
+   },
+   {
+    "date": "2024-05-01",
+    "debit": null,
+    "credit": 8269.6,
+    "balance": 1775315.54
+   },
+   {
+    "date": "2024-05-01",
+    "debit": null,
+    "credit": 462091.97,
+    "balance": 2237407.51
+   },
+   {
+    "date": "2024-05-01",
+    "debit": null,
+    "credit": 591553.28,
+    "balance": 2828960.79
+   },
+   {
+    "date": "2024-06-01",
+    "debit": null,
+    "credit": 431843.0,
+    "balance": 3260803.79
+   },
+   {
+    "date": "2024-06-01",
+    "debit": null,
+    "credit": 35554.92,
+    "balance": 3296358.71
+   },
+   {
+    "date": "2024-06-01",
+    "debit": null,
+    "credit": 143901.76,
+    "balance": 3440260.47
+   },
+   {
+    "date": "2024-08-01",
+    "debit": 188967.74,
+    "credit": null,
+    "balance": 3251292.73
+   },
+   {
+    "date": "2024-09-01",
+    "debit": null,
+    "credit": 346361.56,
+    "balance": 3597654.29
+   },
+   {
+    "date": "2024-09-01",
+    "debit": 434320.26,
+    "credit": null,
+    "balance": 3163334.03
+   },
+   {
+    "date": "2024-09-01",
+    "debit": 857991.56,
+    "credit": null,
+    "balance": 2305342.47
+   },
+   {
+    "date": "2024-09-01",
+    "debit": 1467607.54,
+    "credit": null,
+    "balance": 837734.93
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4182,
+  "out": 1092,
+  "cost": 0.0
+ },
+ "latency_s": 129.76,
+ "at": 1790415263.900821
+}

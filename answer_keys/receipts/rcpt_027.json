@@ -1,0 +1,18 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "61,600",
+  "subtotal": "56,000",
+  "tax": "5,600",
+  "items": [
+   {
+    "name": "PKT AYAM",
+    "price": "33,000"
+   },
+   {
+    "name": "GULAI OTAK",
+    "price": "23,000"
+   }
+  ]
+ }
+}

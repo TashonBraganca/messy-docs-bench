@@ -1,0 +1,27 @@
+{
+ "key": "bf48f0d0ee31153ec6a8a3da6e5f19d80a45a8cdfbf7dc6cfea2a0b5514584db",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_018",
+ "type": "receipts",
+ "text": "{\"total\":null,\"subtotal\":\"156000\",\"tax\":null,\"items\":[{\"name\":\"Propolis Cair 1\",\"price\":\"156000\"}]}",
+ "parsed": {
+  "total": null,
+  "subtotal": "156000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Propolis Cair 1",
+    "price": "156000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 712,
+  "out": 183,
+  "cost": 0.0
+ },
+ "latency_s": 5.81,
+ "at": 1790379227.336612
+}

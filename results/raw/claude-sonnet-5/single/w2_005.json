@@ -1,0 +1,39 @@
+{
+ "key": "bfd28f7267957a4d75042df56879aa2b6f9ba4d2f195b63ba40fc380c804f812",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "w2_005",
+ "type": "w2",
+ "text": "```json\n{\n  \"employee_ssn\": \"923-33-6611\",\n  \"employer_ein\": \"56-4323208\",\n  \"employer_name_address\": \"Moses-Guzman\\n17777 Miller Cove Suite 472\\nEast Stephaniehaven, NY 47916\",\n  \"employee_first_name\": \"Dwayne\",\n  \"employee_last_name\": \"Daniels\",\n  \"employee_address\": \"414 Odonnell Knolls\\nNew Amber, NY 66390\",\n  \"box1_wages\": \"31,980.32\",\n  \"box2_federal_tax\": \"7,056.54\",\n  \"box3_ss_wages\": \"32,708.07\",\n  \"box4_ss_tax\": \"2,027.90\",\n  \"box5_medicare_wages\": \"32,708.07\",\n  \"box6_medicare_tax\": \"474.27\",\n  \"box12a_code\": \"D\",\n  \"box12a_amount\": \"727.75\",\n  \"box15_state\": \"NY\",\n  \"box16_state_wages\": \"31,980.32\",\n  \"box17_state_tax\": \"655.51\"\n}\n```",
+ "parsed": {
+  "employee_ssn": "923-33-6611",
+  "employer_ein": "56-4323208",
+  "employer_name_address": "Moses-Guzman\n17777 Miller Cove Suite 472\nEast Stephaniehaven, NY 47916",
+  "employee_first_name": "Dwayne",
+  "employee_last_name": "Daniels",
+  "employee_address": "414 Odonnell Knolls\nNew Amber, NY 66390",
+  "box1_wages": "31,980.32",
+  "box2_federal_tax": "7,056.54",
+  "box3_ss_wages": "32,708.07",
+  "box4_ss_tax": "2,027.90",
+  "box5_medicare_wages": "32,708.07",
+  "box6_medicare_tax": "474.27",
+  "box12a_code": "D",
+  "box12a_amount": "727.75",
+  "box15_state": "NY",
+  "box16_state_wages": "31,980.32",
+  "box17_state_tax": "655.51"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 349,
+  "cost": 0.0,
+  "notional_cost": 0.012354,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.41,
+ "at": 1790378767.3582132
+}

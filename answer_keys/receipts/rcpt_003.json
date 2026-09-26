@@ -1,0 +1,14 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "11,000",
+  "subtotal": "11,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "DONAT GULA",
+    "price": "11,000"
+   }
+  ]
+ }
+}

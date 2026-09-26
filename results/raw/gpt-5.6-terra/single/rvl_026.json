@@ -1,0 +1,22 @@
+{
+ "key": "2e09b1747d27d5e0af95c69a0c940ff86e8a8f23a1f0ba0df7b809d1a66ceeee",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rvl_026",
+ "type": "invoices",
+ "text": "{\"vendor\":\"Adams Letter Co., Inc.\",\"invoice_number\":\"5035\",\"invoice_date\":\"AUGUST 9, 1982\",\"total\":\"$1,275.66\"}",
+ "parsed": {
+  "vendor": "Adams Letter Co., Inc.",
+  "invoice_number": "5035",
+  "invoice_date": "AUGUST 9, 1982",
+  "total": "$1,275.66"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1088,
+  "out": 41,
+  "cost": 0.0
+ },
+ "latency_s": 3.36,
+ "at": 1790379188.032269
+}

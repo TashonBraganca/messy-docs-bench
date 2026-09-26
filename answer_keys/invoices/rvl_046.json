@@ -1,0 +1,15 @@
+{
+ "doc_type": "invoices",
+ "truth": {
+  "vendor": "MacNaughton Lithograph Company, Inc.",
+  "invoice_number": "29791",
+  "invoice_date": "January 15, 1985",
+  "total": "683.58"
+ },
+ "label_status": "hand-transcribed, then human-verified 2026-09-27 (final key in answer_keys/verified_labels.json)",
+ "flags": [
+  "invoice_date: year smudged, 1983 or 1985",
+  "invoice_number: smudged bold print"
+ ],
+ "source": "RVL-CDIP invoice class, train shard 0"
+}

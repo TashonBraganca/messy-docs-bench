@@ -1,0 +1,24 @@
+{
+ "key": "88dfcaedcb6427ccc3315f56b36e0ec610edcf58988fe1fd26edca6570f65412",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_008",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"February 4, 2005\",\n  \"effective_date\": \"February 4, 2005\",\n  \"expiration_date\": null,\n  \"governing_law\": \"Commonwealth of Massachusetts\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": \"60 days\"\n}",
+ "parsed": {
+  "agreement_date": "February 4, 2005",
+  "effective_date": "February 4, 2005",
+  "expiration_date": null,
+  "governing_law": "Commonwealth of Massachusetts",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": "60 days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2602,
+  "out": 82,
+  "cost": 0.0
+ },
+ "latency_s": 16.44,
+ "at": 1790412460.178308
+}

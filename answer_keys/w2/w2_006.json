@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 1.0,
+ "truth": {
+  "employee_ssn": "937-18-6830",
+  "employer_ein": "80-5489169",
+  "employer_name_address": "Fields-Austin\n63387 Simon Burgs\nThomasborough, NY 91271",
+  "employee_first_name": "Cassie",
+  "employee_last_name": "Cooper",
+  "employee_address": "1313 Gonzalez Ford Suite 990\nBlankenshipstad, NY 84797",
+  "box1_wages": "76,250.25",
+  "box2_federal_tax": "15,252.17",
+  "box3_ss_wages": "83,493.85",
+  "box4_ss_tax": "5,176.62",
+  "box5_medicare_wages": "83,493.85",
+  "box6_medicare_tax": "1,210.66",
+  "box12a_code": "D",
+  "box12a_amount": "7,243.60",
+  "box15_state": "NY",
+  "box16_state_wages": "76,250.25",
+  "box17_state_tax": "5,184.99"
+ }
+}

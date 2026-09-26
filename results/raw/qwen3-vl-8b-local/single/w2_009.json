@@ -1,0 +1,35 @@
+{
+ "key": "b64fbee3e7c3b932eb48db31eb8b1ab5f6f2623708ebbe97f9ef7d5284a94e7b",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "w2_009",
+ "type": "w2",
+ "text": "{\n    \"employee_ssn\": \"960-79-1731\",\n    \"employer_ein\": \"60-9876966\",\n    \"employer_name_address\": \"Hawkins LLC\\n80334 Kelsey Parkways Suite 801\\nNguyenhaven, WA 79948\",\n    \"employee_first_name\": \"William\",\n    \"employee_last_name\": \"Schwartz\",\n    \"employee_address\": \"878 Holly Wells Suite 837\\nSouth David, WA 58450\",\n    \"box1_wages\": \"97,037.38\",\n    \"box2_federal_tax\": \"18,748.36\",\n    \"box3_ss_wages\": \"105,924.97\",\n    \"box4_ss_tax\": \"6,567.35\",\n    \"box5_medicare_wages\": \"105,924.97\",\n    \"box6_medicare_tax\": \"1,535.91\",\n    \"box12a_code\": \"D\",\n    \"box12a_amount\": \"8,887.59\",\n    \"box15_state\": \"WA\",\n    \"box16_state_wages\": null,\n    \"box17_state_tax\": null\n}",
+ "parsed": {
+  "employee_ssn": "960-79-1731",
+  "employer_ein": "60-9876966",
+  "employer_name_address": "Hawkins LLC\n80334 Kelsey Parkways Suite 801\nNguyenhaven, WA 79948",
+  "employee_first_name": "William",
+  "employee_last_name": "Schwartz",
+  "employee_address": "878 Holly Wells Suite 837\nSouth David, WA 58450",
+  "box1_wages": "97,037.38",
+  "box2_federal_tax": "18,748.36",
+  "box3_ss_wages": "105,924.97",
+  "box4_ss_tax": "6,567.35",
+  "box5_medicare_wages": "105,924.97",
+  "box6_medicare_tax": "1,535.91",
+  "box12a_code": "D",
+  "box12a_amount": "8,887.59",
+  "box15_state": "WA",
+  "box16_state_wages": null,
+  "box17_state_tax": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1298,
+  "out": 302,
+  "cost": 0.0
+ },
+ "latency_s": 35.44,
+ "at": 1790415737.5163782
+}

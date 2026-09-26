@@ -1,0 +1,125 @@
+{
+ "key": "8d3bc03cf89f85bc596d3c704aefa0d39f13847958664d2c0478ba319252b69c",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "stmt_006",
+ "type": "statements",
+ "text": "{\n  \"header\": {\n    \"bank_name\": \"MILESTONE BANKING SOLUTIONS\",\n    \"account_holder\": \"HEALTHPLUS PHARMA LTD\",\n    \"account_number\": \"52934702276\",\n    \"ifsc_code\": \"MILE0267798\",\n    \"opening_balance\": \"2581250.25\",\n    \"start_date\": \"2024-01-01\",\n    \"end_date\": \"2024-03-31\"\n  },\n  \"transactions\": [\n    {\n      \"date\": \"2024-01-01\",\n      \"debit\": null,\n      \"credit\": 486285.76,\n      \"balance\": 3067536.01\n    },\n    {\n      \"date\": \"2024-02-01\",\n      \"debit\": null,\n      \"credit\": 591422.08,\n      \"balance\": 3658958.09\n    },\n    {\n      \"date\": \"2024-03-01\",\n      \"debit\": null,\n      \"credit\": 1050190.83,\n      \"balance\": 4709148.92\n    },\n    {\n      \"date\": \"2024-04-01\",\n      \"debit\": 522823.65,\n      \"credit\": null,\n      \"balance\": 4186325.27\n    },\n    {\n      \"date\": \"2024-04-01\",\n      \"debit\": null,\n      \"credit\": 4753862.25,\n      \"balance\": 8940187.52\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": 2966438.98,\n      \"credit\": null,\n      \"balance\": 5973748.54\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": 188232.03,\n      \"credit\": null,\n      \"balance\": 7676128.11\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": null,\n      \"credit\": 1241284.27,\n      \"balance\": 7215032.81\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": null,\n      \"credit\": 977610.46,\n      \"balance\": 8192643.27\n    },\n    {\n      \"date\": \"2024-05-01\",\n      \"debit\": 1838.77,\n      \"credit\": null,\n      \"balance\": 8190804.5\n    },\n    {\n      \"date\": \"2024-06-01\",\n      \"debit\": 956655.3,\n      \"credit\": null,\n      \"balance\": 7234149.2\n    },\n    {\n      \"date\": \"2024-06-01\",\n      \"debit\": 1520387.43,\n      \"credit\": null,\n      \"balance\": 5713761.77\n    },\n    {\n      \"date\": \"2024-08-01\",\n      \"debit\": 1556431.46,\n      \"credit\": null,\n      \"balance\": 4157330.31\n    },\n    {\n      \"date\": \"2024-09-01\",\n      \"debit\": 55776.07,\n      \"credit\": null,\n      \"balance\": 4101554.24\n    },\n    {\n      \"date\": \"2024-09-01\",\n      \"debit\": null,\n      \"credit\": 245173.04,\n      \"balance\": 4346727.28\n    },\n    {\n      \"date\": \"2024-10-01\",\n      \"debit\": null,\n      \"credit\": 688101.32,\n      \"balance\": 5034828.6\n    }\n  ]\n}",
+ "parsed": {
+  "header": {
+   "bank_name": "MILESTONE BANKING SOLUTIONS",
+   "account_holder": "HEALTHPLUS PHARMA LTD",
+   "account_number": "52934702276",
+   "ifsc_code": "MILE0267798",
+   "opening_balance": "2581250.25",
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 486285.76,
+    "balance": 3067536.01
+   },
+   {
+    "date": "2024-02-01",
+    "debit": null,
+    "credit": 591422.08,
+    "balance": 3658958.09
+   },
+   {
+    "date": "2024-03-01",
+    "debit": null,
+    "credit": 1050190.83,
+    "balance": 4709148.92
+   },
+   {
+    "date": "2024-04-01",
+    "debit": 522823.65,
+    "credit": null,
+    "balance": 4186325.27
+   },
+   {
+    "date": "2024-04-01",
+    "debit": null,
+    "credit": 4753862.25,
+    "balance": 8940187.52
+   },
+   {
+    "date": "2024-05-01",
+    "debit": 2966438.98,
+    "credit": null,
+    "balance": 5973748.54
+   },
+   {
+    "date": "2024-05-01",
+    "debit": 188232.03,
+    "credit": null,
+    "balance": 7676128.11
+   },
+   {
+    "date": "2024-05-01",
+    "debit": null,
+    "credit": 1241284.27,
+    "balance": 7215032.81
+   },
+   {
+    "date": "2024-05-01",
+    "debit": null,
+    "credit": 977610.46,
+    "balance": 8192643.27
+   },
+   {
+    "date": "2024-05-01",
+    "debit": 1838.77,
+    "credit": null,
+    "balance": 8190804.5
+   },
+   {
+    "date": "2024-06-01",
+    "debit": 956655.3,
+    "credit": null,
+    "balance": 7234149.2
+   },
+   {
+    "date": "2024-06-01",
+    "debit": 1520387.43,
+    "credit": null,
+    "balance": 5713761.77
+   },
+   {
+    "date": "2024-08-01",
+    "debit": 1556431.46,
+    "credit": null,
+    "balance": 4157330.31
+   },
+   {
+    "date": "2024-09-01",
+    "debit": 55776.07,
+    "credit": null,
+    "balance": 4101554.24
+   },
+   {
+    "date": "2024-09-01",
+    "debit": null,
+    "credit": 245173.04,
+    "balance": 4346727.28
+   },
+   {
+    "date": "2024-10-01",
+    "debit": null,
+    "credit": 688101.32,
+    "balance": 5034828.6
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 4182,
+  "out": 1042,
+  "cost": 0.0
+ },
+ "latency_s": 134.3,
+ "at": 1790415001.997708
+}

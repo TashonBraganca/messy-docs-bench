@@ -1,0 +1,26 @@
+{
+ "key": "7a6dba090e894e15fbad32fc70b2bdeba43b0a1ed246517bd5da5d71cc2177ea",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_043",
+ "type": "invoices",
+ "text": "```json\n{\n  \"vendor\": \"Borriston Laboratories, Inc.\",\n  \"invoice_number\": \"1544-4\",\n  \"invoice_date\": \"February 23, 1984\",\n  \"total\": \"47,225.00\"\n}\n```",
+ "parsed": {
+  "vendor": "Borriston Laboratories, Inc.",
+  "invoice_number": "1544-4",
+  "invoice_date": "February 23, 1984",
+  "total": "47,225.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 78,
+  "cost": 0.0,
+  "notional_cost": 0.007788,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.4,
+ "at": 1790378612.316801
+}

@@ -1,0 +1,22 @@
+{
+ "key": "b788941d49d04ad491953f7c79bcef4a807eddd9e28a3d167d8d9daeac2da9a7",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "sroie_016",
+ "type": "sroie",
+ "text": "{\"company\":\"TEH HENG STATIONERY & BOOKS\",\"date\":\"15/03/2018\",\"address\":\"NO. 53, JALAN BESAR, 45500 TANJONG KARANG, SELANGOR DARUL EHSAN\",\"total\":\"127.20\"}",
+ "parsed": {
+  "company": "TEH HENG STATIONERY & BOOKS",
+  "date": "15/03/2018",
+  "address": "NO. 53, JALAN BESAR, 45500 TANJONG KARANG, SELANGOR DARUL EHSAN",
+  "total": "127.20"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1104,
+  "out": 810,
+  "cost": 0.0
+ },
+ "latency_s": 12.51,
+ "at": 1790379275.1092281
+}

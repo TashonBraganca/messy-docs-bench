@@ -1,0 +1,22 @@
+{
+ "key": "c663965b14c0cebc52d70acf26bb58f4942d529293b81c7bca1eefec2b619fc5",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "sroie_018",
+ "type": "sroie",
+ "text": "{\"company\":\"SWC ENTERPRISE SDN BHD\",\"date\":\"02/01/2018\",\"address\":\"B 8 10, Jalan Ijok Permai 1, Pusat Niaga Ijok Permai, 48000 Ijok, Selangor.\",\"total\":\"4.20\"}",
+ "parsed": {
+  "company": "SWC ENTERPRISE SDN BHD",
+  "date": "02/01/2018",
+  "address": "B 8 10, Jalan Ijok Permai 1, Pusat Niaga Ijok Permai, 48000 Ijok, Selangor.",
+  "total": "4.20"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1232,
+  "out": 165,
+  "cost": 0.0
+ },
+ "latency_s": 6.32,
+ "at": 1790411132.056928
+}

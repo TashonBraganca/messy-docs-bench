@@ -1,0 +1,35 @@
+{
+ "key": "8a921b57e7018486690588c7286354fc331a2a25ef759f5b60db328528e1788e",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "w2_016",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"962-19-3224\",\"employer_ein\":\"78-9546923\",\"employer_name_address\":\"Mathis and Songs\\n77617 Wang Ridge\\nNorth Carol, WA 43987\",\"employee_first_name\":\"Jonathan\",\"employee_last_name\":\"Paul\",\"employee_address\":\"920 Brown Grove, Apt. 374\\nSteventown, WA 16033\",\"box1_wages\":\"91,872.12\",\"box2_federal_tax\":\"8,589.32\",\"box3_ss_wages\":\"97,399.54\",\"box4_ss_tax\":\"6,038.77\",\"box5_medicare_wages\":\"97,399.54\",\"box6_medicare_tax\":\"1,412.29\",\"box12a_code\":\"D\",\"box12a_amount\":\"5,527.42\",\"box15_state\":\"WA\",\"box16_state_wages\":null,\"box17_state_tax\":null}",
+ "parsed": {
+  "employee_ssn": "962-19-3224",
+  "employer_ein": "78-9546923",
+  "employer_name_address": "Mathis and Songs\n77617 Wang Ridge\nNorth Carol, WA 43987",
+  "employee_first_name": "Jonathan",
+  "employee_last_name": "Paul",
+  "employee_address": "920 Brown Grove, Apt. 374\nSteventown, WA 16033",
+  "box1_wages": "91,872.12",
+  "box2_federal_tax": "8,589.32",
+  "box3_ss_wages": "97,399.54",
+  "box4_ss_tax": "6,038.77",
+  "box5_medicare_wages": "97,399.54",
+  "box6_medicare_tax": "1,412.29",
+  "box12a_code": "D",
+  "box12a_amount": "5,527.42",
+  "box15_state": "WA",
+  "box16_state_wages": null,
+  "box17_state_tax": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1551,
+  "out": 431,
+  "cost": 0.0
+ },
+ "latency_s": 6.4,
+ "at": 1790411221.558236
+}

@@ -1,0 +1,22 @@
+{
+ "key": "ce714be7bd0652678769e34c0bac8a850559b12ee8de7385c11ee8dfb8e2e13a",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "sroie_013",
+ "type": "sroie",
+ "text": "{\"company\":\"OLDTOWN WHITE COFFEE\",\"date\":\"22 Mar 18\",\"address\":\"Sri Rampai\",\"total\":\"30.25\"}",
+ "parsed": {
+  "company": "OLDTOWN WHITE COFFEE",
+  "date": "22 Mar 18",
+  "address": "Sri Rampai",
+  "total": "30.25"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1584,
+  "out": 77,
+  "cost": 0.0
+ },
+ "latency_s": 4.06,
+ "at": 1790379262.589622
+}

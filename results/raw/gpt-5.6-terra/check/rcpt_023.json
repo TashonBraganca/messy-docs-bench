@@ -1,0 +1,31 @@
+{
+ "key": "25dc5ca0502dd28652a3f316b9cc571bef33e9d1e5de9c8972d8784f90a4dc51",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_023",
+ "type": "receipts",
+ "text": "{\"total\":\"63,000\",\"subtotal\":null,\"tax\":null,\"items\":[{\"name\":\"TWIST DONUT\",\"price\":\"54,000\"},{\"name\":\"REDBEAN BREAD\",\"price\":\"9,000\"}]}",
+ "parsed": {
+  "total": "63,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "TWIST DONUT",
+    "price": "54,000"
+   },
+   {
+    "name": "REDBEAN BREAD",
+    "price": "9,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1278,
+  "out": 108,
+  "cost": 0.0
+ },
+ "latency_s": 5.38,
+ "at": 1790411091.827658
+}

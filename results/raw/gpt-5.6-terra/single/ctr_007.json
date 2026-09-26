@@ -1,0 +1,24 @@
+{
+ "key": "3b0035c798ce6af379dd57bf935b1b18856d69fba63cdcc35d625f25a7fd3d95",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "ctr_007",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"March 3, 2000\",\"effective_date\":\"March 3, 2000\",\"expiration_date\":\"June 3, 2001\",\"governing_law\":\"State of Delaware\",\"renewal_term\":null,\"notice_period_to_terminate_renewal\":null}",
+ "parsed": {
+  "agreement_date": "March 3, 2000",
+  "effective_date": "March 3, 2000",
+  "expiration_date": "June 3, 2001",
+  "governing_law": "State of Delaware",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 10325,
+  "out": 147,
+  "cost": 0.0
+ },
+ "latency_s": 3.46,
+ "at": 1790379165.072514
+}

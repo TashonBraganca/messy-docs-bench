@@ -1,0 +1,26 @@
+{
+ "key": "070f3e3c2d4599725504c0b1b6f1a44015d84beddf41dab34a586b64e828ce30",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_006",
+ "type": "invoices",
+ "text": "```json\n{\n  \"vendor\": \"University of California, Davis\",\n  \"invoice_number\": \"59280-1\",\n  \"invoice_date\": \"October 22, 2001\",\n  \"total\": \"49,710.15\"\n}\n```",
+ "parsed": {
+  "vendor": "University of California, Davis",
+  "invoice_number": "59280-1",
+  "invoice_date": "October 22, 2001",
+  "total": "49,710.15"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 71,
+  "cost": 0.0,
+  "notional_cost": 0.007574,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 6.06,
+ "at": 1790378589.31859
+}

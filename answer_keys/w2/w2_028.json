@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 0.3,
+ "truth": {
+  "employee_ssn": "956-55-9689",
+  "employer_ein": "59-6389499",
+  "employer_name_address": "Conrad LLC\n9401 Robinson Land\nDonaldborough, MA 33913",
+  "employee_first_name": "Benjamin",
+  "employee_last_name": "Oconnor",
+  "employee_address": "56529 Miller Bypass\nKelleyland, MA 54000",
+  "box1_wages": "35,365.11",
+  "box2_federal_tax": "7,528.84",
+  "box3_ss_wages": "37,581.66",
+  "box4_ss_tax": "2,330.06",
+  "box5_medicare_wages": "37,581.66",
+  "box6_medicare_tax": "544.93",
+  "box12a_code": "D",
+  "box12a_amount": "2,216.55",
+  "box15_state": "MA",
+  "box16_state_wages": "35,365.11",
+  "box17_state_tax": "2,312.51"
+ }
+}

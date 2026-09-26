@@ -1,0 +1,35 @@
+{
+ "key": "798325a5b338083994512f2f068044255134f906df6215c8284758a8255340b3",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "w2_016",
+ "type": "w2",
+ "text": "{\n    \"employee_ssn\": \"962-19-3224\",\n    \"employer_ein\": \"78-9546923\",\n    \"employer_name_address\": \"Mathis and Sons\\n77617 Wang Ridges\\nNorth Carol, WA 43987\",\n    \"employee_first_name\": \"Jonathan\",\n    \"employee_last_name\": \"Paul\",\n    \"employee_address\": \"920 Brown Grove Apt. 374\\nStevenmouth, WA 16033\",\n    \"box1_wages\": \"91,872.12\",\n    \"box2_federal_tax\": \"8,589.32\",\n    \"box3_ss_wages\": \"97,399.54\",\n    \"box4_ss_tax\": \"6,038.77\",\n    \"box5_medicare_wages\": \"97,399.54\",\n    \"box6_medicare_tax\": \"1,412.29\",\n    \"box12a_code\": \"D\",\n    \"box12a_amount\": \"5,527.42\",\n    \"box15_state\": \"WA\",\n    \"box16_state_wages\": null,\n    \"box17_state_tax\": null\n}",
+ "parsed": {
+  "employee_ssn": "962-19-3224",
+  "employer_ein": "78-9546923",
+  "employer_name_address": "Mathis and Sons\n77617 Wang Ridges\nNorth Carol, WA 43987",
+  "employee_first_name": "Jonathan",
+  "employee_last_name": "Paul",
+  "employee_address": "920 Brown Grove Apt. 374\nStevenmouth, WA 16033",
+  "box1_wages": "91,872.12",
+  "box2_federal_tax": "8,589.32",
+  "box3_ss_wages": "97,399.54",
+  "box4_ss_tax": "6,038.77",
+  "box5_medicare_wages": "97,399.54",
+  "box6_medicare_tax": "1,412.29",
+  "box12a_code": "D",
+  "box12a_amount": "5,527.42",
+  "box15_state": "WA",
+  "box16_state_wages": null,
+  "box17_state_tax": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1258,
+  "out": 291,
+  "cost": 0.0
+ },
+ "latency_s": 31.38,
+ "at": 1790415986.5487869
+}

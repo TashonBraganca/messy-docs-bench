@@ -1,0 +1,26 @@
+{
+ "key": "2baf12219d8e364bb5ee660a9857a009051feb0f6e838e62856011acbe67c2ea",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "sroie_002",
+ "type": "sroie",
+ "text": "```json\n{\n  \"company\": \"PERNIAGAAN ZHENG HUI\",\n  \"date\": \"09/02/2018\",\n  \"address\": \"NO.59 JALAN PERMAS 9/5, BANDAR BARU PERMAS JAYA, 81750 JOHOR BAHRU\",\n  \"total\": \"436.20\"\n}\n```",
+ "parsed": {
+  "company": "PERNIAGAAN ZHENG HUI",
+  "date": "09/02/2018",
+  "address": "NO.59 JALAN PERMAS 9/5, BANDAR BARU PERMAS JAYA, 81750 JOHOR BAHRU",
+  "total": "436.20"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 115,
+  "cost": 0.0,
+  "notional_cost": 0.011166,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.0,
+ "at": 1790378678.825954
+}

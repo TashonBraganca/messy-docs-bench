@@ -1,0 +1,28 @@
+{
+ "key": "e7fc19fdf02ed5f537845c72ceb8209624b2d150f2b83ddb8840750c92f368e3",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "ctr_008",
+ "type": "contracts",
+ "text": "{\"agreement_date\": \"February 4, 2005\", \"effective_date\": null, \"expiration_date\": \"perpetual\", \"governing_law\": \"Commonwealth of Massachusetts\", \"renewal_term\": \"perpetual\", \"notice_period_to_terminate_renewal\": \"60 days\"}",
+ "parsed": {
+  "agreement_date": "February 4, 2005",
+  "effective_date": null,
+  "expiration_date": "perpetual",
+  "governing_law": "Commonwealth of Massachusetts",
+  "renewal_term": "perpetual",
+  "notice_period_to_terminate_renewal": "60 days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 282,
+  "cost": 0.0,
+  "notional_cost": 0.021448000000000002,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 6.09,
+ "at": 1790378886.286457
+}

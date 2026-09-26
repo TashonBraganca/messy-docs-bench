@@ -1,0 +1,22 @@
+{
+ "key": "497244f8d924e20aeb66dfc18710856e9e581fad2a9e380cca6f50e8e28adf3a",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "sroie_019",
+ "type": "sroie",
+ "text": "{\"company\":\"F&P PHARMACY\",\"date\":\"02/03/2018\",\"address\":\"NO.20, GROUND FLOOR, JALAN BS 10/6, TAMAN BUKIT SERDANG, SEKSYEN 10, 43300 SERI KEMBANGAN, SELANGOR DARUL EHSAN\",\"total\":\"31.90\"}",
+ "parsed": {
+  "company": "F&P PHARMACY",
+  "date": "02/03/2018",
+  "address": "NO.20, GROUND FLOOR, JALAN BS 10/6, TAMAN BUKIT SERDANG, SEKSYEN 10, 43300 SERI KEMBANGAN, SELANGOR DARUL EHSAN",
+  "total": "31.90"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1680,
+  "out": 185,
+  "cost": 0.0
+ },
+ "latency_s": 4.91,
+ "at": 1790379270.6265159
+}

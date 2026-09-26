@@ -1,0 +1,35 @@
+{
+ "key": "b63753006bb4a60e66c4a128f84b333fe782d2216dd18205c3ae3f00ac83c8ef",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rcpt_006",
+ "type": "receipts",
+ "text": "{\"total\":\"46,000\",\"subtotal\":null,\"tax\":null,\"items\":[{\"name\":\"EGG TART\",\"price\":\"13,000\"},{\"name\":\"CHOCO CUSTARD PASTRY\",\"price\":\"24,000\"},{\"name\":\"REDBEAN BREAD\",\"price\":\"9,000\"}]}",
+ "parsed": {
+  "total": "46,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "EGG TART",
+    "price": "13,000"
+   },
+   {
+    "name": "CHOCO CUSTARD PASTRY",
+    "price": "24,000"
+   },
+   {
+    "name": "REDBEAN BREAD",
+    "price": "9,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1165,
+  "out": 256,
+  "cost": 0.0
+ },
+ "latency_s": 6.77,
+ "at": 1790379208.637393
+}

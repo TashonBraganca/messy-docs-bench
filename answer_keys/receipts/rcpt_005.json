@@ -1,0 +1,14 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "31.000",
+  "subtotal": "28.182",
+  "tax": "2.818",
+  "items": [
+   {
+    "name": "TRAD KY TOAST CARTE",
+    "price": "28.182"
+   }
+  ]
+ }
+}

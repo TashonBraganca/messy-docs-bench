@@ -1,0 +1,31 @@
+{
+ "key": "e4ed534768457068fa32be3e21d79b27461856fb1fdd6a42a4dc38731a0765d3",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_019",
+ "type": "receipts",
+ "text": "{\n  \"total\": \"176000\",\n  \"subtotal\": \"160000\",\n  \"tax\": \"16000\",\n  \"items\": [\n    {\n      \"name\": \"4 AMBUSH DBL CHS\",\n      \"price\": \"60000\"\n    },\n    {\n      \"name\": \"10 AMBUSH CHS BUR\",\n      \"price\": \"100000\"\n    }\n  ]\n}",
+ "parsed": {
+  "total": "176000",
+  "subtotal": "160000",
+  "tax": "16000",
+  "items": [
+   {
+    "name": "4 AMBUSH DBL CHS",
+    "price": "60000"
+   },
+   {
+    "name": "10 AMBUSH CHS BUR",
+    "price": "100000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1215,
+  "out": 105,
+  "cost": 0.0
+ },
+ "latency_s": 14.22,
+ "at": 1790413225.40685
+}

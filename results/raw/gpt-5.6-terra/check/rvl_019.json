@@ -1,0 +1,22 @@
+{
+ "key": "37136faa4856dc14306f5fad136b75cc4e87874b539e51c503c6602aad950136",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rvl_019",
+ "type": "invoices",
+ "text": "{\"vendor\":\"RESEARCH TRIANGLE INSTITUTE\",\"invoice_number\":\"3IT 2552-11A\",\"invoice_date\":\"December 30, 1983\",\"total\":\"$7,753.68\"}",
+ "parsed": {
+  "vendor": "RESEARCH TRIANGLE INSTITUTE",
+  "invoice_number": "3IT 2552-11A",
+  "invoice_date": "December 30, 1983",
+  "total": "$7,753.68"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1192,
+  "out": 45,
+  "cost": 0.0
+ },
+ "latency_s": 3.96,
+ "at": 1790411050.2808661
+}

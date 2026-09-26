@@ -1,0 +1,27 @@
+{
+ "key": "9c122374dd7b9d8b7497bd679a3e7f96b02a6afc33c534d450ad8f781d656935",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_009",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"36000\",\n    \"subtotal\": \"36000\",\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"Bumbu Kaldu Ayam 1\",\n            \"price\": \"36000\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "36000",
+  "subtotal": "36000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Bumbu Kaldu Ayam 1",
+    "price": "36000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1215,
+  "out": 68,
+  "cost": 0.0
+ },
+ "latency_s": 10.73,
+ "at": 1790413039.636121
+}

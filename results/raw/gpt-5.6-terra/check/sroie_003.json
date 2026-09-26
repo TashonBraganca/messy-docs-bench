@@ -1,0 +1,22 @@
+{
+ "key": "00c2f63f8dc338b4d13c01a50cbb601824cf4fa2ba088ad17d4ed08fa8f07132",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "sroie_003",
+ "type": "sroie",
+ "text": "{\"company\":\"PETRON BKT LANJAN SB\",\"date\":\"01/02/2018\",\"address\":\"KM 458.4 BKT LANJAN UTARA, L/RAYA UTARA SELATAN,SG BULOH 47000 SUNGAI BUL\",\"total\":\"4.90\"}",
+ "parsed": {
+  "company": "PETRON BKT LANJAN SB",
+  "date": "01/02/2018",
+  "address": "KM 458.4 BKT LANJAN UTARA, L/RAYA UTARA SELATAN,SG BULOH 47000 SUNGAI BUL",
+  "total": "4.90"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1256,
+  "out": 63,
+  "cost": 0.0
+ },
+ "latency_s": 3.81,
+ "at": 1790411105.732484
+}

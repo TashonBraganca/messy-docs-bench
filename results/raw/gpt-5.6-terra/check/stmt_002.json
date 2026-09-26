@@ -1,0 +1,107 @@
+{
+ "key": "78178f95930b2cbad129c8dce75544c274f00ca8d1a332572905df52b13770b8",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "stmt_002",
+ "type": "statements",
+ "text": "{\"header\":{\"bank_name\":\"Velocity Banking Corporation\",\"account_holder\":\"HEALTHPLUS PHARMA LTD\",\"account_number\":\"83981788719\",\"ifsc_code\":\"VELO0218697\",\"opening_balance\":201049.75,\"start_date\":\"2024-01-01\",\"end_date\":\"2024-03-31\"},\"transactions\":[{\"date\":\"2024-01-01\",\"debit\":null,\"credit\":247043.19,\"balance\":448092.94},{\"date\":\"2024-01-02\",\"debit\":null,\"credit\":134742.38,\"balance\":582835.32},{\"date\":\"2024-01-02\",\"debit\":null,\"credit\":73964.13,\"balance\":656799.45},{\"date\":\"2024-01-03\",\"debit\":44306.53,\"credit\":null,\"balance\":612492.92},{\"date\":\"2024-01-05\",\"debit\":11329.42,\"credit\":null,\"balance\":601163.5},{\"date\":\"2024-01-05\",\"debit\":8873.1,\"credit\":null,\"balance\":592290.4},{\"date\":\"2024-01-09\",\"debit\":null,\"credit\":3706.78,\"balance\":595997.18},{\"date\":\"2024-01-09\",\"debit\":null,\"credit\":769482.01,\"balance\":1365479.19},{\"date\":\"2024-01-10\",\"debit\":453459.01,\"credit\":null,\"balance\":912020.18},{\"date\":\"2024-01-12\",\"debit\":17304.4,\"credit\":null,\"balance\":894715.78},{\"date\":\"2024-01-12\",\"debit\":63241.15,\"credit\":null,\"balance\":831474.63},{\"date\":\"2024-01-12\",\"debit\":19960.56,\"credit\":null,\"balance\":811514.07},{\"date\":\"2024-01-13\",\"debit\":30427.64,\"credit\":null,\"balance\":781086.43}]}",
+ "parsed": {
+  "header": {
+   "bank_name": "Velocity Banking Corporation",
+   "account_holder": "HEALTHPLUS PHARMA LTD",
+   "account_number": "83981788719",
+   "ifsc_code": "VELO0218697",
+   "opening_balance": 201049.75,
+   "start_date": "2024-01-01",
+   "end_date": "2024-03-31"
+  },
+  "transactions": [
+   {
+    "date": "2024-01-01",
+    "debit": null,
+    "credit": 247043.19,
+    "balance": 448092.94
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 134742.38,
+    "balance": 582835.32
+   },
+   {
+    "date": "2024-01-02",
+    "debit": null,
+    "credit": 73964.13,
+    "balance": 656799.45
+   },
+   {
+    "date": "2024-01-03",
+    "debit": 44306.53,
+    "credit": null,
+    "balance": 612492.92
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 11329.42,
+    "credit": null,
+    "balance": 601163.5
+   },
+   {
+    "date": "2024-01-05",
+    "debit": 8873.1,
+    "credit": null,
+    "balance": 592290.4
+   },
+   {
+    "date": "2024-01-09",
+    "debit": null,
+    "credit": 3706.78,
+    "balance": 595997.18
+   },
+   {
+    "date": "2024-01-09",
+    "debit": null,
+    "credit": 769482.01,
+    "balance": 1365479.19
+   },
+   {
+    "date": "2024-01-10",
+    "debit": 453459.01,
+    "credit": null,
+    "balance": 912020.18
+   },
+   {
+    "date": "2024-01-12",
+    "debit": 17304.4,
+    "credit": null,
+    "balance": 894715.78
+   },
+   {
+    "date": "2024-01-12",
+    "debit": 63241.15,
+    "credit": null,
+    "balance": 831474.63
+   },
+   {
+    "date": "2024-01-12",
+    "debit": 19960.56,
+    "credit": null,
+    "balance": 811514.07
+   },
+   {
+    "date": "2024-01-13",
+    "debit": 30427.64,
+    "credit": null,
+    "balance": 781086.43
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1777,
+  "out": 643,
+  "cost": 0.0
+ },
+ "latency_s": 10.04,
+ "at": 1790411160.368937
+}

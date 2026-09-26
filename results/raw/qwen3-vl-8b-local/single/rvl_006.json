@@ -1,0 +1,22 @@
+{
+ "key": "49fe91bbe70477f8ac752607fc2bc2e4950b4e1d7b5c6063835b2a51473c0331",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_006",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"UNIVERSITY OF CALIFORNIA, DAVIS\",\n  \"invoice_number\": \"59280-1\",\n  \"invoice_date\": \"October 22, 2001\",\n  \"total\": \"$49,710.15\"\n}",
+ "parsed": {
+  "vendor": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "invoice_number": "59280-1",
+  "invoice_date": "October 22, 2001",
+  "total": "$49,710.15"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1209,
+  "out": 66,
+  "cost": 0.0
+ },
+ "latency_s": 11.96,
+ "at": 1790412675.8913012
+}

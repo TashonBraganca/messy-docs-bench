@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 1.0,
+ "truth": {
+  "employee_ssn": "967-56-6691",
+  "employer_ein": "72-8632123",
+  "employer_name_address": "Smith-Christensen\n30445 Philip Ways Apt. 564\nWest Cristianport, WA 83726",
+  "employee_first_name": "Selena",
+  "employee_last_name": "Wright",
+  "employee_address": "8535 Henson Valleys Suite 883\nNorth Sarahchester, WA 59596",
+  "box1_wages": "52,805.45",
+  "box2_federal_tax": "12,626.65",
+  "box3_ss_wages": "57,458.66",
+  "box4_ss_tax": "3,562.44",
+  "box5_medicare_wages": "57,458.66",
+  "box6_medicare_tax": "833.15",
+  "box12a_code": "D",
+  "box12a_amount": "4,653.21",
+  "box15_state": "WA",
+  "box16_state_wages": "",
+  "box17_state_tax": ""
+ }
+}

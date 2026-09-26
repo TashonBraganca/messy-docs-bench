@@ -1,0 +1,31 @@
+{
+ "key": "edefb970f9e1ac5d159d09dae492b8ddd64fbcf6fd708a571d822306df6c8e11",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_007",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"111,000\",\n    \"subtotal\": \"100,909\",\n    \"tax\": \"10,091\",\n    \"items\": [\n        {\n            \"name\": \"Kupon 15\",\n            \"price\": \"100,000\"\n        },\n        {\n            \"name\": \"ADD CHICKEN BOX\",\n            \"price\": \"909\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "111,000",
+  "subtotal": "100,909",
+  "tax": "10,091",
+  "items": [
+   {
+    "name": "Kupon 15",
+    "price": "100,000"
+   },
+   {
+    "name": "ADD CHICKEN BOX",
+    "price": "909"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1215,
+  "out": 100,
+  "cost": 0.0
+ },
+ "latency_s": 13.49,
+ "at": 1790413013.655058
+}

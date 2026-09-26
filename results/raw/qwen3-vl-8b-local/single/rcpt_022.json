@@ -1,0 +1,31 @@
+{
+ "key": "0e5808bcc5bef7f8c4c2d5283dcdd3158f2d00f8dd62b7742ffe54aa18c6dc0b",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_022",
+ "type": "receipts",
+ "text": "{\n  \"total\": \"40,000\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"items\": [\n    {\n      \"name\": \"2 [MD] SOFT STEAMED CHEESEC\",\n      \"price\": \"20,000\"\n    },\n    {\n      \"name\": \"2 [MD] SOFT STEAMED CHOCOCA\",\n      \"price\": \"20,000\"\n    }\n  ]\n}",
+ "parsed": {
+  "total": "40,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "2 [MD] SOFT STEAMED CHEESEC",
+    "price": "20,000"
+   },
+   {
+    "name": "2 [MD] SOFT STEAMED CHOCOCA",
+    "price": "20,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 101,
+  "cost": 0.0
+ },
+ "latency_s": 15.79,
+ "at": 1790413273.278414
+}

@@ -1,0 +1,35 @@
+{
+ "key": "2c7c6bd4daa0e5c5de694463be4597a22ff90ca2a77c90ebe38582d582e74bc2",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_007",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"999-50-3632\",\"employer_ein\":\"94-8010398\",\"employer_name_address\":\"Development Inc.\\n375 Moorpark Isle Apt 676\\nErikberg, CA 94111\",\"employee_first_name\":\"Edward\",\"employee_last_name\":\"Stephen\",\"employee_address\":\"975 Amy Curve\\nSt. Norryville, CA 69521\",\"box1_wages\":\"143,644.53\",\"box2_federal_tax\":\"15,272.14\",\"box3_ss_wages\":\"159,249.70\",\"box4_ss_tax\":\"9,873.48\",\"box5_medicare_wages\":\"159,249.70\",\"box6_medicare_tax\":\"2,309.12\",\"box12a_code\":\"D\",\"box12a_amount\":\"35,605.17\",\"box15_state\":\"CA\",\"box16_state_wages\":\"143,644.53\",\"box17_state_tax\":\"5,923.49\"}",
+ "parsed": {
+  "employee_ssn": "999-50-3632",
+  "employer_ein": "94-8010398",
+  "employer_name_address": "Development Inc.\n375 Moorpark Isle Apt 676\nErikberg, CA 94111",
+  "employee_first_name": "Edward",
+  "employee_last_name": "Stephen",
+  "employee_address": "975 Amy Curve\nSt. Norryville, CA 69521",
+  "box1_wages": "143,644.53",
+  "box2_federal_tax": "15,272.14",
+  "box3_ss_wages": "159,249.70",
+  "box4_ss_tax": "9,873.48",
+  "box5_medicare_wages": "159,249.70",
+  "box6_medicare_tax": "2,309.12",
+  "box12a_code": "D",
+  "box12a_amount": "35,605.17",
+  "box15_state": "CA",
+  "box16_state_wages": "143,644.53",
+  "box17_state_tax": "5,923.49"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 927,
+  "out": 1238,
+  "cost": 0.0
+ },
+ "latency_s": 15.45,
+ "at": 1790379344.5837219
+}

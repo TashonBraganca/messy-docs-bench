@@ -1,0 +1,35 @@
+{
+ "key": "df92083f80a0e26d357abeed7289a6976fe9c6d6d6e24bb66688e3f9ff1fb358",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_026",
+ "type": "receipts",
+ "text": "{\n  \"total\": \"Rp 138.000\",\n  \"subtotal\": \"Rp 138.000\",\n  \"tax\": null,\n  \"items\": [\n    {\n      \"name\": \"Cap Cay\\nNasi Cap Cay Porsi B\\nesar\",\n      \"price\": \"65.000\"\n    },\n    {\n      \"name\": \"Minuman\\nTeh Tawar\",\n      \"price\": \"2.000\"\n    },\n    {\n      \"name\": \"Lain-lain\\nFu Yung Hai\",\n      \"price\": \"65.000\"\n    }\n  ]\n}",
+ "parsed": {
+  "total": "Rp 138.000",
+  "subtotal": "Rp 138.000",
+  "tax": null,
+  "items": [
+   {
+    "name": "Cap Cay\nNasi Cap Cay Porsi B\nesar",
+    "price": "65.000"
+   },
+   {
+    "name": "Minuman\nTeh Tawar",
+    "price": "2.000"
+   },
+   {
+    "name": "Lain-lain\nFu Yung Hai",
+    "price": "65.000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1210,
+  "out": 140,
+  "cost": 0.0
+ },
+ "latency_s": 15.76,
+ "at": 1790413331.687776
+}

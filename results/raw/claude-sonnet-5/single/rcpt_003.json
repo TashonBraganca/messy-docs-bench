@@ -1,0 +1,31 @@
+{
+ "key": "b039245d78e0826e5e64bd81364ecf9a1f42c2ddf2b574fc8ab721c7da597edd",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rcpt_003",
+ "type": "receipts",
+ "text": "```json\n{\n  \"total\": \"11,000\",\n  \"subtotal\": \"11,000\",\n  \"tax\": null,\n  \"items\": [\n    {\"name\": \"DONAT GULA\", \"price\": \"11,000\"}\n  ]\n}\n```",
+ "parsed": {
+  "total": "11,000",
+  "subtotal": "11,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "DONAT GULA",
+    "price": "11,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 75,
+  "cost": 0.0,
+  "notional_cost": 0.009294,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 5.18,
+ "at": 1790378628.120098
+}

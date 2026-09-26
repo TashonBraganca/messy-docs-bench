@@ -1,0 +1,28 @@
+{
+ "key": "8c0de26d73b4dac047c20761cf1e1d6c3f0a278e4fcf526d3284ae56d6fc75b7",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "ctr_001",
+ "type": "contracts",
+ "text": "{\"agreement_date\": null, \"effective_date\": \"1.4.2011\", \"expiration_date\": null, \"governing_law\": \"State of Israel\", \"renewal_term\": \"1 year\", \"notice_period_to_terminate_renewal\": \"90 days\"}",
+ "parsed": {
+  "agreement_date": null,
+  "effective_date": "1.4.2011",
+  "expiration_date": null,
+  "governing_law": "State of Israel",
+  "renewal_term": "1 year",
+  "notice_period_to_terminate_renewal": "90 days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 174,
+  "cost": 0.0,
+  "notional_cost": 0.12043200000000001,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.94,
+ "at": 1790378864.877069
+}

@@ -1,0 +1,31 @@
+{
+ "key": "2c0315f76fc68203053e8b40d8fe7524e36d71dbbc322c1873963edea4aff0f9",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rcpt_005",
+ "type": "receipts",
+ "text": "{\"total\": \"31.000\", \"subtotal\": \"28.182\", \"tax\": \"2.818\", \"items\": [{\"name\": \"TRAD KY TOAST CARTE\", \"price\": \"28.182\"}]}",
+ "parsed": {
+  "total": "31.000",
+  "subtotal": "28.182",
+  "tax": "2.818",
+  "items": [
+   {
+    "name": "TRAD KY TOAST CARTE",
+    "price": "28.182"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 66,
+  "cost": 0.0,
+  "notional_cost": 0.030248,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.84,
+ "at": 1790378641.779346
+}

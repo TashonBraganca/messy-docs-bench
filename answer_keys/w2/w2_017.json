@@ -1,0 +1,23 @@
+{
+ "doc_type": "w2",
+ "damage": 0.7,
+ "truth": {
+  "employee_ssn": "934-21-2897",
+  "employer_ein": "88-1266377",
+  "employer_name_address": "Gonzalez, Spence and Mayer\n7187 Hughes Fords\nNew Christopherhaven, TX 34816",
+  "employee_first_name": "Stephanie",
+  "employee_last_name": "Anderson",
+  "employee_address": "53776 Erik Overpass Suite 642\nCoopermouth, TX 16348",
+  "box1_wages": "215,486.93",
+  "box2_federal_tax": "20,347.67",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "231,276.77",
+  "box6_medicare_tax": "3,353.51",
+  "box12a_code": "D",
+  "box12a_amount": "15,789.84",
+  "box15_state": "TX",
+  "box16_state_wages": "",
+  "box17_state_tax": ""
+ }
+}

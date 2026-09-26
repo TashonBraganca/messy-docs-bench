@@ -1,0 +1,27 @@
+{
+ "key": "341038634ce8226df8173b5484cbf40f43abf528d07848e2d855b3ac4fcc2d90",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_011",
+ "type": "receipts",
+ "text": "{\n  \"total\": \"230,000\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"items\": [\n    {\n      \"name\": \"BANABERRY FRESH CREAM CAK\",\n      \"price\": \"230,000\"\n    }\n  ]\n}",
+ "parsed": {
+  "total": "230,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "BANABERRY FRESH CREAM CAK",
+    "price": "230,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1215,
+  "out": 68,
+  "cost": 0.0
+ },
+ "latency_s": 11.57,
+ "at": 1790413061.987464
+}

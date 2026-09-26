@@ -1,0 +1,22 @@
+{
+ "key": "40b41994e5d3fd696271d9c1ef5f6da8a443fe4f9bda8fef928e12b3bf8a57ed",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rvl_010",
+ "type": "invoices",
+ "text": "{\n  \"vendor\": \"AUTHENTICOLOR INC.\",\n  \"invoice_number\": \"50295\",\n  \"invoice_date\": \"07/27/97\",\n  \"total\": \"521.04\"\n}",
+ "parsed": {
+  "vendor": "AUTHENTICOLOR INC.",
+  "invoice_number": "50295",
+  "invoice_date": "07/27/97",
+  "total": "521.04"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1246,
+  "out": 52,
+  "cost": 0.0
+ },
+ "latency_s": 11.26,
+ "at": 1790412713.349715
+}

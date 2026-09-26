@@ -1,0 +1,35 @@
+{
+ "key": "5abd94dfd270679e1273f1294d44c7c615adefa972c038ccad4db99d6f88da8d",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_006",
+ "type": "receipts",
+ "text": "{\n  \"total\": \"46,000\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"items\": [\n    {\n      \"name\": \"EGG TART\",\n      \"price\": \"13,000\"\n    },\n    {\n      \"name\": \"CHOCO CUS'ARD PASTRY\",\n      \"price\": \"24,000\"\n    },\n    {\n      \"name\": \"REDBEAN BREAD\",\n      \"price\": \"9,000\"\n    }\n  ]\n}",
+ "parsed": {
+  "total": "46,000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "EGG TART",
+    "price": "13,000"
+   },
+   {
+    "name": "CHOCO CUS'ARD PASTRY",
+    "price": "24,000"
+   },
+   {
+    "name": "REDBEAN BREAD",
+    "price": "9,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 119,
+  "cost": 0.0
+ },
+ "latency_s": 15.44,
+ "at": 1790413000.1602318
+}

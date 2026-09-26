@@ -1,0 +1,22 @@
+{
+ "key": "e8c19cc6a0e84160ee66ccb43561633796a0caeefe86b1350dfb19afa2992014",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rvl_053",
+ "type": "invoices",
+ "text": "{\"vendor\":\"Newsday, Inc.\",\"invoice_number\":\"81536219\",\"invoice_date\":\"11/13\",\"total\":\"7,558.00\"}",
+ "parsed": {
+  "vendor": "Newsday, Inc.",
+  "invoice_number": "81536219",
+  "invoice_date": "11/13",
+  "total": "7,558.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1179,
+  "out": 222,
+  "cost": 0.0
+ },
+ "latency_s": 4.65,
+ "at": 1790411057.9574049
+}

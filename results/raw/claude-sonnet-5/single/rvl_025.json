@@ -1,0 +1,26 @@
+{
+ "key": "3b9bc5adb730de751c898ea4939190e07568628a8ca99552048c7bd5e2c9434e",
+ "model": "claude-sonnet-5",
+ "variant": "single",
+ "doc": "rvl_025",
+ "type": "invoices",
+ "text": "```json\n{\n  \"vendor\": \"HAZLETON LABORATORIES AMERICA, INC.\",\n  \"invoice_number\": \"607103\",\n  \"invoice_date\": \"January 28, 1986\",\n  \"total\": \"$2,250.00\"\n}\n```",
+ "parsed": {
+  "vendor": "HAZLETON LABORATORIES AMERICA, INC.",
+  "invoice_number": "607103",
+  "invoice_date": "January 28, 1986",
+  "total": "$2,250.00"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 85,
+  "cost": 0.0,
+  "notional_cost": 0.007858,
+  "model_used": [
+   "claude-sonnet-5"
+  ]
+ },
+ "latency_s": 6.04,
+ "at": 1790378607.083317
+}

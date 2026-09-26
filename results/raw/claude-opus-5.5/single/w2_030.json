@@ -1,0 +1,39 @@
+{
+ "key": "9de3ad6af69811afa836c6a21ed025c346c3a77c470e6af11c51bf5f3694cbc8",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "w2_030",
+ "type": "w2",
+ "text": "{\"employee_ssn\": \"924-42-3395\", \"employer_ein\": \"85-5181517\", \"employer_name_address\": \"Mejia-Anderson\\n261 Mclaughlin Extension\\nWest Justin, GA 68810\", \"employee_first_name\": \"George\", \"employee_last_name\": \"Jones\", \"employee_address\": \"3420 Edwards Rest Suite 192\\nNew Richard, GA 26205\", \"box1_wages\": \"147,883.84\", \"box2_federal_tax\": \"32,962.57\", \"box3_ss_wages\": \"162,460.03\", \"box4_ss_tax\": \"10,072.52\", \"box5_medicare_wages\": \"162,460.03\", \"box6_medicare_tax\": \"2,355.67\", \"box12a_code\": \"D\", \"box12a_amount\": \"14,576.19\", \"box15_state\": \"GA\", \"box16_state_wages\": \"147,883.84\", \"box17_state_tax\": \"12,742.99\"}",
+ "parsed": {
+  "employee_ssn": "924-42-3395",
+  "employer_ein": "85-5181517",
+  "employer_name_address": "Mejia-Anderson\n261 Mclaughlin Extension\nWest Justin, GA 68810",
+  "employee_first_name": "George",
+  "employee_last_name": "Jones",
+  "employee_address": "3420 Edwards Rest Suite 192\nNew Richard, GA 26205",
+  "box1_wages": "147,883.84",
+  "box2_federal_tax": "32,962.57",
+  "box3_ss_wages": "162,460.03",
+  "box4_ss_tax": "10,072.52",
+  "box5_medicare_wages": "162,460.03",
+  "box6_medicare_tax": "2,355.67",
+  "box12a_code": "D",
+  "box12a_amount": "14,576.19",
+  "box15_state": "GA",
+  "box16_state_wages": "147,883.84",
+  "box17_state_tax": "12,742.99"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 308,
+  "cost": 0.0,
+  "notional_cost": 0.023976,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.14,
+ "at": 1790378836.276403
+}

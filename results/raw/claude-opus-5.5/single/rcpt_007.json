@@ -1,0 +1,35 @@
+{
+ "key": "8e2e14770ccdd4f72ad2a2da2956006d5b2881dd2a439d63c99d1ddb0f29cc15",
+ "model": "claude-opus-5.5",
+ "variant": "single",
+ "doc": "rcpt_007",
+ "type": "receipts",
+ "text": "{\"total\": \"111,000\", \"subtotal\": \"100,909\", \"tax\": \"10,091\", \"items\": [{\"name\": \"Kupon 15\", \"price\": \"100,000\"}, {\"name\": \"ADD CHICKEN BOX\", \"price\": \"909\"}]}",
+ "parsed": {
+  "total": "111,000",
+  "subtotal": "100,909",
+  "tax": "10,091",
+  "items": [
+   {
+    "name": "Kupon 15",
+    "price": "100,000"
+   },
+   {
+    "name": "ADD CHICKEN BOX",
+    "price": "909"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2,
+  "out": 84,
+  "cost": 0.0,
+  "notional_cost": 0.011832,
+  "model_used": [
+   "claude-opus-5-5"
+  ]
+ },
+ "latency_s": 5.54,
+ "at": 1790378645.762628
+}

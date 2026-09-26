@@ -1,0 +1,24 @@
+{
+ "key": "53c071f2a8d20c5c6aea1040619423032d1e5af1686d3ab40c470add63982843",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "ctr_004",
+ "type": "contracts",
+ "text": "{\n  \"agreement_date\": \"February 1, 2019\",\n  \"effective_date\": \"February 1, 2019\",\n  \"expiration_date\": \"January 31, 2024\",\n  \"governing_law\": \"State of California, USA\",\n  \"renewal_term\": null,\n  \"notice_period_to_terminate_renewal\": \"60 days\"\n}",
+ "parsed": {
+  "agreement_date": "February 1, 2019",
+  "effective_date": "February 1, 2019",
+  "expiration_date": "January 31, 2024",
+  "governing_law": "State of California, USA",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": "60 days"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 8213,
+  "out": 93,
+  "cost": 0.0
+ },
+ "latency_s": 46.12,
+ "at": 1790412284.458394
+}

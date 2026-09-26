@@ -1,0 +1,35 @@
+{
+ "key": "7526353a5aef02b638c19e8bdd43560287857ce10c73a05e00b0c0645dbff24e",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_001",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"91000\",\n    \"subtotal\": null,\n    \"tax\": null,\n    \"items\": [\n        {\n            \"name\": \"J.STB PROMO\",\n            \"price\": \"17500\"\n        },\n        {\n            \"name\": \"Y.B.BAT\",\n            \"price\": \"46000\"\n        },\n        {\n            \"name\": \"Y.BASO PROM\",\n            \"price\": \"27500\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "91000",
+  "subtotal": null,
+  "tax": null,
+  "items": [
+   {
+    "name": "J.STB PROMO",
+    "price": "17500"
+   },
+   {
+    "name": "Y.B.BAT",
+    "price": "46000"
+   },
+   {
+    "name": "Y.BASO PROM",
+    "price": "27500"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1335,
+  "out": 110,
+  "cost": 0.0
+ },
+ "latency_s": 14.13,
+ "at": 1790412891.715328
+}

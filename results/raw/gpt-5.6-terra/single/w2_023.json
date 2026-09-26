@@ -1,0 +1,35 @@
+{
+ "key": "6ebd42ef0dc4824727fc9c51b2e1fa44dd26e33b95600d5b8a62994c43afd044",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_023",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"918-60-9694\",\"employer_ein\":\"90-8192844\",\"employer_name_address\":\"Alaska L.L.C.\\n17923 Butler Shores Apt #26\\nEast Andrewsberg, CA 58946\",\"employee_first_name\":\"Brett\",\"employee_last_name\":\"Brown\",\"employee_address\":\"5112 Lee Shoal Suite 046\\nTracimouth, CA 22686\",\"box1_wages\":\"34,636.21\",\"box2_federal_tax\":\"2,929.88\",\"box3_ss_wages\":\"35,647.17\",\"box4_ss_tax\":\"2,210.12\",\"box5_medicare_wages\":\"35,647.17\",\"box6_medicare_tax\":\"516.88\",\"box12a_code\":\"D\",\"box12a_amount\":\"1,010.96\",\"box15_state\":\"CA\",\"box16_state_wages\":\"34,636.21\",\"box17_state_tax\":\"903.72\"}",
+ "parsed": {
+  "employee_ssn": "918-60-9694",
+  "employer_ein": "90-8192844",
+  "employer_name_address": "Alaska L.L.C.\n17923 Butler Shores Apt #26\nEast Andrewsberg, CA 58946",
+  "employee_first_name": "Brett",
+  "employee_last_name": "Brown",
+  "employee_address": "5112 Lee Shoal Suite 046\nTracimouth, CA 22686",
+  "box1_wages": "34,636.21",
+  "box2_federal_tax": "2,929.88",
+  "box3_ss_wages": "35,647.17",
+  "box4_ss_tax": "2,210.12",
+  "box5_medicare_wages": "35,647.17",
+  "box6_medicare_tax": "516.88",
+  "box12a_code": "D",
+  "box12a_amount": "1,010.96",
+  "box15_state": "CA",
+  "box16_state_wages": "34,636.21",
+  "box17_state_tax": "903.72"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 868,
+  "out": 475,
+  "cost": 0.0
+ },
+ "latency_s": 6.33,
+ "at": 1790379365.869296
+}

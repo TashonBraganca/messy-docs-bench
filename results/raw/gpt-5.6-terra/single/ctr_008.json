@@ -1,0 +1,24 @@
+{
+ "key": "ef7acccab22d6a29fa83bc7b9216fe2752be41da3f911c41c348c52f797080b1",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "ctr_008",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"February 4, 2005\",\"effective_date\":\"February 4, 2005\",\"expiration_date\":null,\"governing_law\":\"Commonwealth of Massachusetts\",\"renewal_term\":null,\"notice_period_to_terminate_renewal\":null}",
+ "parsed": {
+  "agreement_date": "February 4, 2005",
+  "effective_date": "February 4, 2005",
+  "expiration_date": null,
+  "governing_law": "Commonwealth of Massachusetts",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 2559,
+  "out": 135,
+  "cost": 0.0
+ },
+ "latency_s": 3.5,
+ "at": 1790379165.286581
+}

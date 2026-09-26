@@ -1,0 +1,18 @@
+{
+ "doc_type": "receipts",
+ "truth": {
+  "total": "51.300",
+  "subtotal": "46.636",
+  "tax": "4.664",
+  "items": [
+   {
+    "name": "BASO KUAH",
+    "price": "43.636"
+   },
+   {
+    "name": "A.MINERAL GELAS",
+    "price": "3,000"
+   }
+  ]
+ }
+}

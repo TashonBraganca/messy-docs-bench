@@ -1,0 +1,35 @@
+{
+ "key": "318268cbbcda19ba541d27e8ba02955a852dc22705369fc88c037985cc63d2b4",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "rcpt_004",
+ "type": "receipts",
+ "text": "{\"total\":\"174,600\",\"subtotal\":\"184,000\",\"tax\":null,\"items\":[{\"name\":\"ICE BLACKCOFFEE\",\"price\":\"82,000\"},{\"name\":\"AVOCADO COFFEE\",\"price\":\"69,000\"},{\"name\":\"CHICKEN KATSU FF\",\"price\":\"51,000\"}]}",
+ "parsed": {
+  "total": "174,600",
+  "subtotal": "184,000",
+  "tax": null,
+  "items": [
+   {
+    "name": "ICE BLACKCOFFEE",
+    "price": "82,000"
+   },
+   {
+    "name": "AVOCADO COFFEE",
+    "price": "69,000"
+   },
+   {
+    "name": "CHICKEN KATSU FF",
+    "price": "51,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1303,
+  "out": 172,
+  "cost": 0.0
+ },
+ "latency_s": 6.55,
+ "at": 1790411066.522625
+}

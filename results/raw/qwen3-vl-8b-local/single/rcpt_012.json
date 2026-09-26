@@ -1,0 +1,31 @@
+{
+ "key": "2a78acb3a61b8c643d78cbad0e89eac8e77a8d484310f76010de079ac5424ba4",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_012",
+ "type": "receipts",
+ "text": "{\n    \"total\": \"120,000\",\n    \"subtotal\": \"120,000\",\n    \"tax\": \"0\",\n    \"items\": [\n        {\n            \"name\": \"BLUS WANITA\",\n            \"price\": \"120,000\"\n        },\n        {\n            \"name\": \"SHOPPING BAG\",\n            \"price\": \"0\"\n        }\n    ]\n}",
+ "parsed": {
+  "total": "120,000",
+  "subtotal": "120,000",
+  "tax": "0",
+  "items": [
+   {
+    "name": "BLUS WANITA",
+    "price": "120,000"
+   },
+   {
+    "name": "SHOPPING BAG",
+    "price": "0"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1215,
+  "out": 91,
+  "cost": 0.0
+ },
+ "latency_s": 12.3,
+ "at": 1790413074.291689
+}

@@ -1,0 +1,22 @@
+{
+ "key": "794b4512a8b74c557bc394fdc3f40bbf4b06c63960edd5c1b57fa227c036ddc9",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "rvl_010",
+ "type": "invoices",
+ "text": "{\"vendor\":\"AUTHENTICOLOR INC.\",\"invoice_number\":\"50295\",\"invoice_date\":\"07/21/87\",\"total\":\"521.04\"}",
+ "parsed": {
+  "vendor": "AUTHENTICOLOR INC.",
+  "invoice_number": "50295",
+  "invoice_date": "07/21/87",
+  "total": "521.04"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1059,
+  "out": 945,
+  "cost": 0.0
+ },
+ "latency_s": 13.44,
+ "at": 1790379186.434141
+}

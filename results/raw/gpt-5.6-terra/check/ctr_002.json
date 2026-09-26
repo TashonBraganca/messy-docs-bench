@@ -1,0 +1,24 @@
+{
+ "key": "1f28f20f1a84ff4db7a732ba0b0b5d9471ffa1bd1fa2166678b8f664ce623774",
+ "model": "gpt-5.6-terra",
+ "variant": "check",
+ "doc": "ctr_002",
+ "type": "contracts",
+ "text": "{\"agreement_date\":\"July 20, 2008\",\"effective_date\":\"1st day of October, 2008\",\"expiration_date\":\"July 20, 2013\",\"governing_law\":\"Victoria, Australia\",\"renewal_term\":null,\"notice_period_to_terminate_renewal\":null}",
+ "parsed": {
+  "agreement_date": "July 20, 2008",
+  "effective_date": "1st day of October, 2008",
+  "expiration_date": "July 20, 2013",
+  "governing_law": "Victoria, Australia",
+  "renewal_term": null,
+  "notice_period_to_terminate_renewal": null
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 11324,
+  "out": 455,
+  "cost": 0.0
+ },
+ "latency_s": 8.91,
+ "at": 1790411031.5059898
+}

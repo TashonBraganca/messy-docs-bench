@@ -1,0 +1,35 @@
+{
+ "key": "d7a82e04c2c1d442fd9887458cb0b6385b346339fa48ad6d98f23a79765c45c0",
+ "model": "gpt-5.6-terra",
+ "variant": "single",
+ "doc": "w2_020",
+ "type": "w2",
+ "text": "{\"employee_ssn\":\"964-17-9948\",\"employer_ein\":\"82-9603014\",\"employer_name_address\":\"Davis, Allen and Green\\n66683 Nelson Terrace\\nSo Joshua, CA 16999\",\"employee_first_name\":\"Gloria\",\"employee_last_name\":\"Moreno\",\"employee_address\":null,\"box1_wages\":\"176,994.03\",\"box2_federal_tax\":\"46,166.26\",\"box3_ss_wages\":\"184,500.00\",\"box4_ss_tax\":\"11,439.00\",\"box5_medicare_wages\":\"193,279.05\",\"box6_medicare_tax\":\"2,802.55\",\"box12a_code\":\"D\",\"box12a_amount\":\"16,285.02\",\"box15_state\":\"CA\",\"box16_state_wages\":\"176,994.03\",\"box17_state_tax\":\"6,210.28\"}",
+ "parsed": {
+  "employee_ssn": "964-17-9948",
+  "employer_ein": "82-9603014",
+  "employer_name_address": "Davis, Allen and Green\n66683 Nelson Terrace\nSo Joshua, CA 16999",
+  "employee_first_name": "Gloria",
+  "employee_last_name": "Moreno",
+  "employee_address": null,
+  "box1_wages": "176,994.03",
+  "box2_federal_tax": "46,166.26",
+  "box3_ss_wages": "184,500.00",
+  "box4_ss_tax": "11,439.00",
+  "box5_medicare_wages": "193,279.05",
+  "box6_medicare_tax": "2,802.55",
+  "box12a_code": "D",
+  "box12a_amount": "16,285.02",
+  "box15_state": "CA",
+  "box16_state_wages": "176,994.03",
+  "box17_state_tax": "6,210.28"
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1272,
+  "out": 648,
+  "cost": 0.0
+ },
+ "latency_s": 9.94,
+ "at": 1790379363.5924401
+}

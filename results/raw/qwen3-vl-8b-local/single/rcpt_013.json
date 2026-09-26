@@ -1,0 +1,31 @@
+{
+ "key": "4333a10c5bbb96dfe8cefc140d6e8053d383df4f1c2b4c1fdfe9b8ec99240c2d",
+ "model": "qwen3-vl-8b-local",
+ "variant": "single",
+ "doc": "rcpt_013",
+ "type": "receipts",
+ "text": "{\n  \"total\": \"51,300\",\n  \"subtotal\": \"46,636\",\n  \"tax\": \"4,664\",\n  \"items\": [\n    {\n      \"name\": \"BASO KUAH\",\n      \"price\": \"43,636\"\n    },\n    {\n      \"name\": \"A.MINERAL GELAS\",\n      \"price\": \"3,000\"\n    }\n  ]\n}",
+ "parsed": {
+  "total": "51,300",
+  "subtotal": "46,636",
+  "tax": "4,664",
+  "items": [
+   {
+    "name": "BASO KUAH",
+    "price": "43,636"
+   },
+   {
+    "name": "A.MINERAL GELAS",
+    "price": "3,000"
+   }
+  ]
+ },
+ "parse_error": null,
+ "usage": {
+  "in": 1242,
+  "out": 100,
+  "cost": 0.0
+ },
+ "latency_s": 13.11,
+ "at": 1790413087.405594
+}
